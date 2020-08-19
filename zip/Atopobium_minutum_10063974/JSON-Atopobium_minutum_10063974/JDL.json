@@ -1,0 +1,238 @@
+[
+  {
+    "'ACGAMPM'": "'ACGAMPM'",
+    "'G1PACT'": "'PGAMT'"
+  },
+  {
+    "'ACGAMPM'": "'ACGApts'",
+    "'G1PACT'": "'G1PACT'"
+  },
+  {
+    "'ACGAMPM'": "'ACGApts'",
+    "'G1PACT'": "'PGAMT'"
+  },
+  {
+    "'ACGAMPM'": "'ADK10'",
+    "'G1PACT'": "'NDPK4'"
+  },
+  {
+    "'ACGAMPM'": "'ADK2'",
+    "'G1PACT'": "'PPA2'"
+  },
+  {
+    "'ACGAMPM'": "'ALAHIS1c'",
+    "'G1PACT'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACGAMPM'": "'ALAHIS1c'",
+    "'G1PACT'": "'HISt2r'"
+  },
+  {
+    "'ACGAMPM'": "'ALAHISabc'",
+    "'G1PACT'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACGAMPM'": "'ALAHISabc'",
+    "'G1PACT'": "'HISt2r'"
+  },
+  {
+    "'ACGAMPM'": "'AMPt2'",
+    "'G1PACT'": "'EX_pi(e)'"
+  },
+  {
+    "'ACGAMPM'": "'ASNt2r'",
+    "'G1PACT'": "'EX_glyasn(e)'"
+  },
+  {
+    "'ACGAMPM'": "'ASNt2r'",
+    "'G1PACT'": "'GLYASN1c'"
+  },
+  {
+    "'ACGAMPM'": "'ASNt2r'",
+    "'G1PACT'": "'GLYASNabc'"
+  },
+  {
+    "'ACGAMPM'": "'CYTK1'",
+    "'G1PACT'": "'NTD4'"
+  },
+  {
+    "'ACGAMPM'": "'DMPPS'",
+    "'G1PACT'": "'DMPPS2r'"
+  },
+  {
+    "'ACGAMPM'": "'EX_acgam(e)'",
+    "'G1PACT'": "'G1PACT'"
+  },
+  {
+    "'ACGAMPM'": "'EX_acgam(e)'",
+    "'G1PACT'": "'PGAMT'"
+  },
+  {
+    "'ACGAMPM'": "'EX_alahis(e)'",
+    "'G1PACT'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACGAMPM'": "'EX_alahis(e)'",
+    "'G1PACT'": "'HISt2r'"
+  },
+  {
+    "'ACGAMPM'": "'EX_amp(e)'",
+    "'G1PACT'": "'EX_pi(e)'"
+  },
+  {
+    "'ACGAMPM'": "'EX_asn_L(e)'",
+    "'G1PACT'": "'EX_glyasn(e)'"
+  },
+  {
+    "'ACGAMPM'": "'EX_asn_L(e)'",
+    "'G1PACT'": "'GLYASN1c'"
+  },
+  {
+    "'ACGAMPM'": "'EX_asn_L(e)'",
+    "'G1PACT'": "'GLYASNabc'"
+  },
+  {
+    "'ACGAMPM'": "'EX_fe2(e)'",
+    "'G1PACT'": "'EX_fe3(e)'"
+  },
+  {
+    "'ACGAMPM'": "'EX_fe2(e)'",
+    "'G1PACT'": "'FE2DH'"
+  },
+  {
+    "'ACGAMPM'": "'EX_fe2(e)'",
+    "'G1PACT'": "'FE3abc'"
+  },
+  {
+    "'ACGAMPM'": "'EX_fe3(e)'",
+    "'G1PACT'": "'FE2abc'"
+  },
+  {
+    "'ACGAMPM'": "'EX_glypro(e)'",
+    "'G1PACT'": "'EX_pro_L(e)'"
+  },
+  {
+    "'ACGAMPM'": "'EX_glypro(e)'",
+    "'G1PACT'": "'PROt2r'"
+  },
+  {
+    "'ACGAMPM'": "'EX_glytyr(e)'",
+    "'G1PACT'": "'EX_tyr_L(e)'"
+  },
+  {
+    "'ACGAMPM'": "'EX_glytyr(e)'",
+    "'G1PACT'": "'TYRt2r'"
+  },
+  {
+    "'ACGAMPM'": "'EX_pro_L(e)'",
+    "'G1PACT'": "'GLYPROPRO1c'"
+  },
+  {
+    "'ACGAMPM'": "'EX_pro_L(e)'",
+    "'G1PACT'": "'GLYPROabc'"
+  },
+  {
+    "'ACGAMPM'": "'EX_thymd(e)'",
+    "'G1PACT'": "'TMDS'"
+  },
+  {
+    "'ACGAMPM'": "'EX_tyr_L(e)'",
+    "'G1PACT'": "'GLYTYR1c'"
+  },
+  {
+    "'ACGAMPM'": "'EX_tyr_L(e)'",
+    "'G1PACT'": "'GLYTYRabc'"
+  },
+  {
+    "'ACGAMPM'": "'FE2DH'",
+    "'G1PACT'": "'FE2abc'"
+  },
+  {
+    "'ACGAMPM'": "'FE2abc'",
+    "'G1PACT'": "'FE3abc'"
+  },
+  {
+    "'ACGAMPM'": "'FTHFL'",
+    "'G1PACT'": "'GLYCL'"
+  },
+  {
+    "'ACGAMPM'": "'FTHFL'",
+    "'G1PACT'": "'MTHFC'"
+  },
+  {
+    "'ACGAMPM'": "'GK1'",
+    "'G1PACT'": "'GK2'"
+  },
+  {
+    "'ACGAMPM'": "'GLYCL'",
+    "'G1PACT'": "'MTHFC'"
+  },
+  {
+    "'ACGAMPM'": "'GLYPROPRO1c'",
+    "'G1PACT'": "'PROt2r'"
+  },
+  {
+    "'ACGAMPM'": "'GLYPROabc'",
+    "'G1PACT'": "'PROt2r'"
+  },
+  {
+    "'ACGAMPM'": "'GLYTYR1c'",
+    "'G1PACT'": "'TYRt2r'"
+  },
+  {
+    "'ACGAMPM'": "'GLYTYRabc'",
+    "'G1PACT'": "'TYRt2r'"
+  },
+  {
+    "'ACGAMPM'": "'GMPS2'",
+    "'G1PACT'": "'GUAPRT'"
+  },
+  {
+    "'ACGAMPM'": "'GUAPRT'",
+    "'G1PACT'": "'IMPD'"
+  },
+  {
+    "'ACGAMPM'": "'ILEabc'",
+    "'G1PACT'": "'ILEt2r'"
+  },
+  {
+    "'ACGAMPM'": "'IPDPS'",
+    "'G1PACT'": "'IPDPS2'"
+  },
+  {
+    "'ACGAMPM'": "'MG2abc'",
+    "'G1PACT'": "'MGt5'"
+  },
+  {
+    "'ACGAMPM'": "'NADK'",
+    "'G1PACT'": "'NADK2'"
+  },
+  {
+    "'ACGAMPM'": "'NADS1'",
+    "'G1PACT'": "'NADS2'"
+  },
+  {
+    "'ACGAMPM'": "'NDPK2'",
+    "'G1PACT'": "'UTPATPT'"
+  },
+  {
+    "'ACGAMPM'": "'PPM'",
+    "'G1PACT'": "'TKT1'"
+  },
+  {
+    "'ACGAMPM'": "'PPNCL3'",
+    "'G1PACT'": "'r0671'"
+  },
+  {
+    "'ACGAMPM'": "'RNDR1'",
+    "'G1PACT'": "'RNTR1'"
+  },
+  {
+    "'ACGAMPM'": "'THMDt2r'",
+    "'G1PACT'": "'TMDS'"
+  },
+  {
+    "'ACGAMPM'": "'VALabc'",
+    "'G1PACT'": "'VALt2r'"
+  }
+]

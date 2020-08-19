@@ -1,0 +1,638 @@
+[
+  {
+    "'2INSD'": "'ACGAM2E'",
+    "'MALCOAPYRCT'": "'G1PACT'"
+  },
+  {
+    "'2INSD'": "'ACGAM2E'",
+    "'MALCOAPYRCT'": "'PGAMT'"
+  },
+  {
+    "'2INSD'": "'ACGAM2E'",
+    "'MALCOAPYRCT'": "'UAGDP'"
+  },
+  {
+    "'2INSD'": "'ACHBPL'",
+    "'MALCOAPYRCT'": "'EX_ile_L(e)'"
+  },
+  {
+    "'2INSD'": "'ACHBPL'",
+    "'MALCOAPYRCT'": "'ILETA'"
+  },
+  {
+    "'2INSD'": "'ACHBPL'",
+    "'MALCOAPYRCT'": "'ILEt2r'"
+  },
+  {
+    "'2INSD'": "'ACLS_a'",
+    "'MALCOAPYRCT'": "'EX_ile_L(e)'"
+  },
+  {
+    "'2INSD'": "'ACLS_a'",
+    "'MALCOAPYRCT'": "'EX_val_L(e)'"
+  },
+  {
+    "'2INSD'": "'ACLS_a'",
+    "'MALCOAPYRCT'": "'ILETA'"
+  },
+  {
+    "'2INSD'": "'ACLS_a'",
+    "'MALCOAPYRCT'": "'ILEt2r'"
+  },
+  {
+    "'2INSD'": "'ACLS_a'",
+    "'MALCOAPYRCT'": "'VALTA'"
+  },
+  {
+    "'2INSD'": "'ACLS_a'",
+    "'MALCOAPYRCT'": "'VALt2r'"
+  },
+  {
+    "'2INSD'": "'ACLS_b'",
+    "'MALCOAPYRCT'": "'EX_val_L(e)'"
+  },
+  {
+    "'2INSD'": "'ACLS_b'",
+    "'MALCOAPYRCT'": "'VALTA'"
+  },
+  {
+    "'2INSD'": "'ACLS_b'",
+    "'MALCOAPYRCT'": "'VALt2r'"
+  },
+  {
+    "'2INSD'": "'ACOAAGPAT180'",
+    "'MALCOAPYRCT'": "'AGPAT180'"
+  },
+  {
+    "'2INSD'": "'ACt2r'",
+    "'MALCOAPYRCT'": "'PTAr'"
+  },
+  {
+    "'2INSD'": "'ADK10'",
+    "'MALCOAPYRCT'": "'NDPK4'"
+  },
+  {
+    "'2INSD'": "'ADK3'",
+    "'MALCOAPYRCT'": "'NDPK1'"
+  },
+  {
+    "'2INSD'": "'ADK5'",
+    "'MALCOAPYRCT'": "'NDPK3'"
+  },
+  {
+    "'2INSD'": "'ADOCBIK'",
+    "'MALCOAPYRCT'": "'ADOCBIK2'"
+  },
+  {
+    "'2INSD'": "'ALAHIS1c'",
+    "'MALCOAPYRCT'": "'EX_his_L(e)'"
+  },
+  {
+    "'2INSD'": "'ALAHIS1c'",
+    "'MALCOAPYRCT'": "'HISt2r'"
+  },
+  {
+    "'2INSD'": "'ALAHISabc'",
+    "'MALCOAPYRCT'": "'EX_his_L(e)'"
+  },
+  {
+    "'2INSD'": "'ALAHISabc'",
+    "'MALCOAPYRCT'": "'HISt2r'"
+  },
+  {
+    "'2INSD'": "'AMMQLT8'",
+    "'MALCOAPYRCT'": "'AMMQT8r'"
+  },
+  {
+    "'2INSD'": "'AMMQT8r'",
+    "'MALCOAPYRCT'": "'NADH9'"
+  },
+  {
+    "'2INSD'": "'ANPRT'",
+    "'MALCOAPYRCT'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2INSD'": "'ANPRT'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'ASNt2r'",
+    "'MALCOAPYRCT'": "'EX_glyasn(e)'"
+  },
+  {
+    "'2INSD'": "'ASNt2r'",
+    "'MALCOAPYRCT'": "'GLYASN1c'"
+  },
+  {
+    "'2INSD'": "'ASNt2r'",
+    "'MALCOAPYRCT'": "'GLYASNabc'"
+  },
+  {
+    "'2INSD'": "'ASPCT'",
+    "'MALCOAPYRCT'": "'UPPRT'"
+  },
+  {
+    "'2INSD'": "'CBMKr'",
+    "'MALCOAPYRCT'": "'UPPRT'"
+  },
+  {
+    "'2INSD'": "'CHORS'",
+    "'MALCOAPYRCT'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2INSD'": "'CHORS'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'CPPPGO'",
+    "'MALCOAPYRCT'": "'EX_pheme(e)'"
+  },
+  {
+    "'2INSD'": "'CPPPGO'",
+    "'MALCOAPYRCT'": "'HEMEti'"
+  },
+  {
+    "'2INSD'": "'CTPS1'",
+    "'MALCOAPYRCT'": "'CTPS2'"
+  },
+  {
+    "'2INSD'": "'CYSTGL'",
+    "'MALCOAPYRCT'": "'DM_hcys_L[c]'"
+  },
+  {
+    "'2INSD'": "'CYSTS'",
+    "'MALCOAPYRCT'": "'DM_hcys_L[c]'"
+  },
+  {
+    "'2INSD'": "'D5KGK'",
+    "'MALCOAPYRCT'": "'MALCOAPYRCT'"
+  },
+  {
+    "'2INSD'": "'D5KGPA'",
+    "'MALCOAPYRCT'": "'MALCOAPYRCT'"
+  },
+  {
+    "'2INSD'": "'DDPA'",
+    "'MALCOAPYRCT'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2INSD'": "'DDPA'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'DHAD1'",
+    "'MALCOAPYRCT'": "'EX_val_L(e)'"
+  },
+  {
+    "'2INSD'": "'DHAD1'",
+    "'MALCOAPYRCT'": "'VALTA'"
+  },
+  {
+    "'2INSD'": "'DHAD1'",
+    "'MALCOAPYRCT'": "'VALt2r'"
+  },
+  {
+    "'2INSD'": "'DHAD2'",
+    "'MALCOAPYRCT'": "'EX_ile_L(e)'"
+  },
+  {
+    "'2INSD'": "'DHAD2'",
+    "'MALCOAPYRCT'": "'ILETA'"
+  },
+  {
+    "'2INSD'": "'DHAD2'",
+    "'MALCOAPYRCT'": "'ILEt2r'"
+  },
+  {
+    "'2INSD'": "'DHORTS'",
+    "'MALCOAPYRCT'": "'UPPRT'"
+  },
+  {
+    "'2INSD'": "'DHQS'",
+    "'MALCOAPYRCT'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2INSD'": "'DHQS'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'DHQTi'",
+    "'MALCOAPYRCT'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2INSD'": "'DHQTi'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'DUTPDP'",
+    "'MALCOAPYRCT'": "'URIDK3'"
+  },
+  {
+    "'2INSD'": "'EX_ac(e)'",
+    "'MALCOAPYRCT'": "'PTAr'"
+  },
+  {
+    "'2INSD'": "'EX_alahis(e)'",
+    "'MALCOAPYRCT'": "'EX_his_L(e)'"
+  },
+  {
+    "'2INSD'": "'EX_alahis(e)'",
+    "'MALCOAPYRCT'": "'HISt2r'"
+  },
+  {
+    "'2INSD'": "'EX_asn_L(e)'",
+    "'MALCOAPYRCT'": "'EX_glyasn(e)'"
+  },
+  {
+    "'2INSD'": "'EX_asn_L(e)'",
+    "'MALCOAPYRCT'": "'GLYASN1c'"
+  },
+  {
+    "'2INSD'": "'EX_asn_L(e)'",
+    "'MALCOAPYRCT'": "'GLYASNabc'"
+  },
+  {
+    "'2INSD'": "'EX_fe2(e)'",
+    "'MALCOAPYRCT'": "'EX_fe3(e)'"
+  },
+  {
+    "'2INSD'": "'EX_fe2(e)'",
+    "'MALCOAPYRCT'": "'FE2DH'"
+  },
+  {
+    "'2INSD'": "'EX_fe3(e)'",
+    "'MALCOAPYRCT'": "'FE2abc'"
+  },
+  {
+    "'2INSD'": "'EX_glyphe(e)'",
+    "'MALCOAPYRCT'": "'EX_phe_L(e)'"
+  },
+  {
+    "'2INSD'": "'EX_glyphe(e)'",
+    "'MALCOAPYRCT'": "'PHEt2r'"
+  },
+  {
+    "'2INSD'": "'EX_glypro(e)'",
+    "'MALCOAPYRCT'": "'EX_pro_L(e)'"
+  },
+  {
+    "'2INSD'": "'EX_glypro(e)'",
+    "'MALCOAPYRCT'": "'PROabc'"
+  },
+  {
+    "'2INSD'": "'EX_gua(e)'",
+    "'MALCOAPYRCT'": "'GMPS2'"
+  },
+  {
+    "'2INSD'": "'EX_gua(e)'",
+    "'MALCOAPYRCT'": "'IMPD'"
+  },
+  {
+    "'2INSD'": "'EX_ile_L(e)'",
+    "'MALCOAPYRCT'": "'ILETA'"
+  },
+  {
+    "'2INSD'": "'EX_ile_L(e)'",
+    "'MALCOAPYRCT'": "'THRD_L'"
+  },
+  {
+    "'2INSD'": "'EX_inost(e)'",
+    "'MALCOAPYRCT'": "'MALCOAPYRCT'"
+  },
+  {
+    "'2INSD'": "'EX_o2(e)'",
+    "'MALCOAPYRCT'": "'EX_pheme(e)'"
+  },
+  {
+    "'2INSD'": "'EX_o2(e)'",
+    "'MALCOAPYRCT'": "'HEMEti'"
+  },
+  {
+    "'2INSD'": "'EX_phe_L(e)'",
+    "'MALCOAPYRCT'": "'GLYPHEHYc'"
+  },
+  {
+    "'2INSD'": "'EX_phe_L(e)'",
+    "'MALCOAPYRCT'": "'GLYPHEabc'"
+  },
+  {
+    "'2INSD'": "'EX_pheme(e)'",
+    "'MALCOAPYRCT'": "'FCLTc'"
+  },
+  {
+    "'2INSD'": "'EX_pheme(e)'",
+    "'MALCOAPYRCT'": "'O2t'"
+  },
+  {
+    "'2INSD'": "'EX_pheme(e)'",
+    "'MALCOAPYRCT'": "'PPPH'"
+  },
+  {
+    "'2INSD'": "'EX_pheme(e)'",
+    "'MALCOAPYRCT'": "'UPPDC1'"
+  },
+  {
+    "'2INSD'": "'EX_pro_L(e)'",
+    "'MALCOAPYRCT'": "'GLYPROPRO1c'"
+  },
+  {
+    "'2INSD'": "'EX_pro_L(e)'",
+    "'MALCOAPYRCT'": "'GLYPROabc'"
+  },
+  {
+    "'2INSD'": "'EX_rib_D(e)'",
+    "'MALCOAPYRCT'": "'RPE'"
+  },
+  {
+    "'2INSD'": "'EX_rib_D(e)'",
+    "'MALCOAPYRCT'": "'RPI'"
+  },
+  {
+    "'2INSD'": "'EX_rib_D(e)'",
+    "'MALCOAPYRCT'": "'TKT2'"
+  },
+  {
+    "'2INSD'": "'EX_ser_L(e)'",
+    "'MALCOAPYRCT'": "'GHMT2r'"
+  },
+  {
+    "'2INSD'": "'EX_trp_L(e)'",
+    "'MALCOAPYRCT'": "'IGPS'"
+  },
+  {
+    "'2INSD'": "'EX_trp_L(e)'",
+    "'MALCOAPYRCT'": "'PRAI'"
+  },
+  {
+    "'2INSD'": "'EX_trp_L(e)'",
+    "'MALCOAPYRCT'": "'PSCVT'"
+  },
+  {
+    "'2INSD'": "'EX_trp_L(e)'",
+    "'MALCOAPYRCT'": "'SHK3Dr'"
+  },
+  {
+    "'2INSD'": "'EX_trp_L(e)'",
+    "'MALCOAPYRCT'": "'SHKK'"
+  },
+  {
+    "'2INSD'": "'EX_val_L(e)'",
+    "'MALCOAPYRCT'": "'VALTA'"
+  },
+  {
+    "'2INSD'": "'FCLTc'",
+    "'MALCOAPYRCT'": "'HEMEti'"
+  },
+  {
+    "'2INSD'": "'FE2DH'",
+    "'MALCOAPYRCT'": "'FE2abc'"
+  },
+  {
+    "'2INSD'": "'FTHFL'",
+    "'MALCOAPYRCT'": "'MTHFC'"
+  },
+  {
+    "'2INSD'": "'FTHFL'",
+    "'MALCOAPYRCT'": "'MTHFD'"
+  },
+  {
+    "'2INSD'": "'G1PACT'",
+    "'MALCOAPYRCT'": "'UAG2EMA'"
+  },
+  {
+    "'2INSD'": "'GALK'",
+    "'MALCOAPYRCT'": "'PGMT'"
+  },
+  {
+    "'2INSD'": "'GHMT2r'",
+    "'MALCOAPYRCT'": "'SERt2r'"
+  },
+  {
+    "'2INSD'": "'GK1'",
+    "'MALCOAPYRCT'": "'GK2'"
+  },
+  {
+    "'2INSD'": "'GLYPHEHYc'",
+    "'MALCOAPYRCT'": "'PHEt2r'"
+  },
+  {
+    "'2INSD'": "'GLYPHEabc'",
+    "'MALCOAPYRCT'": "'PHEt2r'"
+  },
+  {
+    "'2INSD'": "'GLYPROPRO1c'",
+    "'MALCOAPYRCT'": "'PROabc'"
+  },
+  {
+    "'2INSD'": "'GLYPROabc'",
+    "'MALCOAPYRCT'": "'PROabc'"
+  },
+  {
+    "'2INSD'": "'GMPS2'",
+    "'MALCOAPYRCT'": "'GUAPRT'"
+  },
+  {
+    "'2INSD'": "'GMPS2'",
+    "'MALCOAPYRCT'": "'GUAt2r'"
+  },
+  {
+    "'2INSD'": "'GUAt2r'",
+    "'MALCOAPYRCT'": "'IMPD'"
+  },
+  {
+    "'2INSD'": "'HEMEti'",
+    "'MALCOAPYRCT'": "'O2t'"
+  },
+  {
+    "'2INSD'": "'HEMEti'",
+    "'MALCOAPYRCT'": "'PPPH'"
+  },
+  {
+    "'2INSD'": "'HEMEti'",
+    "'MALCOAPYRCT'": "'UPPDC1'"
+  },
+  {
+    "'2INSD'": "'IGPS'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'ILETA'",
+    "'MALCOAPYRCT'": "'ILEt2r'"
+  },
+  {
+    "'2INSD'": "'ILETA'",
+    "'MALCOAPYRCT'": "'THRD_L'"
+  },
+  {
+    "'2INSD'": "'ILEt2r'",
+    "'MALCOAPYRCT'": "'THRD_L'"
+  },
+  {
+    "'2INSD'": "'INS2D'",
+    "'MALCOAPYRCT'": "'MALCOAPYRCT'"
+  },
+  {
+    "'2INSD'": "'INSTt2r'",
+    "'MALCOAPYRCT'": "'MALCOAPYRCT'"
+  },
+  {
+    "'2INSD'": "'Kt1r'",
+    "'MALCOAPYRCT'": "'ZN2t4'"
+  },
+  {
+    "'2INSD'": "'Kt1r'",
+    "'MALCOAPYRCT'": "'ZNabc'"
+  },
+  {
+    "'2INSD'": "'MALCOAPYRCT'",
+    "'MALCOAPYRCT'": "'MMSAD5'"
+  },
+  {
+    "'2INSD'": "'MALCOAPYRCT'",
+    "'MALCOAPYRCT'": "'TPI'"
+  },
+  {
+    "'2INSD'": "'METFR'",
+    "'MALCOAPYRCT'": "'r0792'"
+  },
+  {
+    "'2INSD'": "'MG2abc'",
+    "'MALCOAPYRCT'": "'MGt5'"
+  },
+  {
+    "'2INSD'": "'NADK'",
+    "'MALCOAPYRCT'": "'NADK2'"
+  },
+  {
+    "'2INSD'": "'NADS1'",
+    "'MALCOAPYRCT'": "'NADS2'"
+  },
+  {
+    "'2INSD'": "'NDPK2'",
+    "'MALCOAPYRCT'": "'UTPATPT'"
+  },
+  {
+    "'2INSD'": "'OMPDC'",
+    "'MALCOAPYRCT'": "'UPPRT'"
+  },
+  {
+    "'2INSD'": "'OROTPT'",
+    "'MALCOAPYRCT'": "'UPPRT'"
+  },
+  {
+    "'2INSD'": "'PGAMT'",
+    "'MALCOAPYRCT'": "'UAG2EMA'"
+  },
+  {
+    "'2INSD'": "'PGMT'",
+    "'MALCOAPYRCT'": "'UDPG4E'"
+  },
+  {
+    "'2INSD'": "'PGMT'",
+    "'MALCOAPYRCT'": "'UGLT'"
+  },
+  {
+    "'2INSD'": "'PIabc'",
+    "'MALCOAPYRCT'": "'PIt6b'"
+  },
+  {
+    "'2INSD'": "'PPNCL3'",
+    "'MALCOAPYRCT'": "'r0671'"
+  },
+  {
+    "'2INSD'": "'PRAI'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'PSCVT'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'RBK'",
+    "'MALCOAPYRCT'": "'RPE'"
+  },
+  {
+    "'2INSD'": "'RBK'",
+    "'MALCOAPYRCT'": "'RPI'"
+  },
+  {
+    "'2INSD'": "'RBK'",
+    "'MALCOAPYRCT'": "'TKT2'"
+  },
+  {
+    "'2INSD'": "'RIBabc'",
+    "'MALCOAPYRCT'": "'RPE'"
+  },
+  {
+    "'2INSD'": "'RIBabc'",
+    "'MALCOAPYRCT'": "'RPI'"
+  },
+  {
+    "'2INSD'": "'RIBabc'",
+    "'MALCOAPYRCT'": "'TKT2'"
+  },
+  {
+    "'2INSD'": "'RNDR1'",
+    "'MALCOAPYRCT'": "'RNTR1'"
+  },
+  {
+    "'2INSD'": "'RNDR2'",
+    "'MALCOAPYRCT'": "'RNTR2'"
+  },
+  {
+    "'2INSD'": "'RNDR3'",
+    "'MALCOAPYRCT'": "'RNTR3'"
+  },
+  {
+    "'2INSD'": "'RPE'",
+    "'MALCOAPYRCT'": "'RPI'"
+  },
+  {
+    "'2INSD'": "'RPE'",
+    "'MALCOAPYRCT'": "'TKT1'"
+  },
+  {
+    "'2INSD'": "'RPE'",
+    "'MALCOAPYRCT'": "'TKT2'"
+  },
+  {
+    "'2INSD'": "'RPI'",
+    "'MALCOAPYRCT'": "'TKT1'"
+  },
+  {
+    "'2INSD'": "'RPI'",
+    "'MALCOAPYRCT'": "'TKT2'"
+  },
+  {
+    "'2INSD'": "'SHK3Dr'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'SHKK'",
+    "'MALCOAPYRCT'": "'TRPt2r'"
+  },
+  {
+    "'2INSD'": "'TALA'",
+    "'MALCOAPYRCT'": "'TKT1'"
+  },
+  {
+    "'2INSD'": "'THMabc'",
+    "'MALCOAPYRCT'": "'THMt3'"
+  },
+  {
+    "'2INSD'": "'TKT1'",
+    "'MALCOAPYRCT'": "'TKT2'"
+  },
+  {
+    "'2INSD'": "'UAG2EMA'",
+    "'MALCOAPYRCT'": "'UAGDP'"
+  },
+  {
+    "'2INSD'": "'VALTA'",
+    "'MALCOAPYRCT'": "'VALt2r'"
+  },
+  {
+    "'2INSD'": "'ZN2t4'",
+    "'MALCOAPYRCT'": "'ZNabc'"
+  }
+]

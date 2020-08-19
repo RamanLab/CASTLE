@@ -1,0 +1,712 @@
+[
+  {
+    "'ACALD'": "'ACGApts'",
+    "'PFL'": "'EX_gam(e)'",
+    "'PTAr'": "'GF6PTA'"
+  },
+  {
+    "'ACALD'": "'ACGApts'",
+    "'PFL'": "'GAMpts'",
+    "'PTAr'": "'GF6PTA'"
+  },
+  {
+    "'ACALD'": "'ADAD'",
+    "'PFL'": "'RNDR3'",
+    "'PTAr'": "'RNTR3'"
+  },
+  {
+    "'ACALD'": "'ADK8'",
+    "'PFL'": "'NDPK7'",
+    "'PTAr'": "'RNTR3'"
+  },
+  {
+    "'ACALD'": "'ADK9'",
+    "'PFL'": "'NDPK5'",
+    "'PTAr'": "'RNTR2'"
+  },
+  {
+    "'ACALD'": "'ADPT'",
+    "'PFL'": "'ADSL1r'",
+    "'PTAr'": "'AMPt2'"
+  },
+  {
+    "'ACALD'": "'ADPT'",
+    "'PFL'": "'ADSL1r'",
+    "'PTAr'": "'EX_amp(e)'"
+  },
+  {
+    "'ACALD'": "'ADPT'",
+    "'PFL'": "'ADSS'",
+    "'PTAr'": "'AMPt2'"
+  },
+  {
+    "'ACALD'": "'ADPT'",
+    "'PFL'": "'ADSS'",
+    "'PTAr'": "'EX_amp(e)'"
+  },
+  {
+    "'ACALD'": "'ADSL2r'",
+    "'PFL'": "'CO2t'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'ADSL2r'",
+    "'PFL'": "'EX_co2(e)'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'ADSL2r'",
+    "'PFL'": "'GUAPRT'",
+    "'PTAr'": "'HXPRT'"
+  },
+  {
+    "'ACALD'": "'AICART'",
+    "'PFL'": "'CO2t'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'AICART'",
+    "'PFL'": "'EX_co2(e)'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'AICART'",
+    "'PFL'": "'GUAPRT'",
+    "'PTAr'": "'HXPRT'"
+  },
+  {
+    "'ACALD'": "'AIRC4'",
+    "'PFL'": "'CO2t'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'AIRC4'",
+    "'PFL'": "'EX_co2(e)'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'AIRC4'",
+    "'PFL'": "'GUAPRT'",
+    "'PTAr'": "'HXPRT'"
+  },
+  {
+    "'ACALD'": "'ALALEU1c'",
+    "'PFL'": "'EX_glyleu(e)'",
+    "'PTAr'": "'EX_leu_L(e)'"
+  },
+  {
+    "'ACALD'": "'ALALEU1c'",
+    "'PFL'": "'EX_leu_L(e)'",
+    "'PTAr'": "'GLYLEUHYDROc'"
+  },
+  {
+    "'ACALD'": "'ALALEU1c'",
+    "'PFL'": "'EX_leu_L(e)'",
+    "'PTAr'": "'GLYLEUPEPT1tc'"
+  },
+  {
+    "'ACALD'": "'ALALEUabc'",
+    "'PFL'": "'EX_glyleu(e)'",
+    "'PTAr'": "'EX_leu_L(e)'"
+  },
+  {
+    "'ACALD'": "'ALALEUabc'",
+    "'PFL'": "'EX_leu_L(e)'",
+    "'PTAr'": "'GLYLEUHYDROc'"
+  },
+  {
+    "'ACALD'": "'ALALEUabc'",
+    "'PFL'": "'EX_leu_L(e)'",
+    "'PTAr'": "'GLYLEUPEPT1tc'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'ASAD'",
+    "'PTAr'": "'EX_thr_L(e)'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'ASAD'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'ASPKi'",
+    "'PTAr'": "'EX_thr_L(e)'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'ASPKi'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'EX_thr_L(e)'",
+    "'PTAr'": "'HSK'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'EX_thr_L(e)'",
+    "'PTAr'": "'THRS'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'HSK'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHR1c'",
+    "'PFL'": "'THRS'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'ASAD'",
+    "'PTAr'": "'EX_thr_L(e)'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'ASAD'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'ASPKi'",
+    "'PTAr'": "'EX_thr_L(e)'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'ASPKi'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'EX_thr_L(e)'",
+    "'PTAr'": "'HSK'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'EX_thr_L(e)'",
+    "'PTAr'": "'THRS'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'HSK'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ALATHRabc'",
+    "'PFL'": "'THRS'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'AMPTASECG'",
+    "'PFL'": "'AMPTASEGC'",
+    "'PTAr'": "'CYSt2r'"
+  },
+  {
+    "'ACALD'": "'AMPTASECG'",
+    "'PFL'": "'AMPTASEGC'",
+    "'PTAr'": "'EX_cys_L(e)'"
+  },
+  {
+    "'ACALD'": "'AMPTASECG'",
+    "'PFL'": "'CYSt2r'",
+    "'PTAr'": "'EX_glycys(e)'"
+  },
+  {
+    "'ACALD'": "'AMPTASECG'",
+    "'PFL'": "'CYSt2r'",
+    "'PTAr'": "'GLYCYSabc'"
+  },
+  {
+    "'ACALD'": "'AMPTASECG'",
+    "'PFL'": "'EX_cys_L(e)'",
+    "'PTAr'": "'EX_glycys(e)'"
+  },
+  {
+    "'ACALD'": "'AMPTASECG'",
+    "'PFL'": "'EX_cys_L(e)'",
+    "'PTAr'": "'GLYCYSabc'"
+  },
+  {
+    "'ACALD'": "'AMPt2'",
+    "'PFL'": "'PIabc'",
+    "'PTAr'": "'PIt6b'"
+  },
+  {
+    "'ACALD'": "'ASAD'",
+    "'PFL'": "'EX_alathr(e)'",
+    "'PTAr'": "'EX_thr_L(e)'"
+  },
+  {
+    "'ACALD'": "'ASAD'",
+    "'PFL'": "'EX_alathr(e)'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ASPCT'",
+    "'PFL'": "'UPPRT'",
+    "'PTAr'": "'URIK1'"
+  },
+  {
+    "'ACALD'": "'ASPKi'",
+    "'PFL'": "'EX_alathr(e)'",
+    "'PTAr'": "'EX_thr_L(e)'"
+  },
+  {
+    "'ACALD'": "'ASPKi'",
+    "'PFL'": "'EX_alathr(e)'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'ASPTA'",
+    "'PFL'": "'FUM'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'ASPTA'",
+    "'PFL'": "'MDH'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'FTHFL'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'GARFTi'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'GLUPRT'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'H2CO3D'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'IMPC'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRAGS'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRAIS'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRASCSi'"
+  },
+  {
+    "'ACALD'": "'CO2t'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRFGS'"
+  },
+  {
+    "'ACALD'": "'CTPS1'",
+    "'PFL'": "'CTPS2'",
+    "'PTAr'": "'CYTDK3'"
+  },
+  {
+    "'ACALD'": "'CTPS1'",
+    "'PFL'": "'CTPS2'",
+    "'PTAr'": "'CYTK1'"
+  },
+  {
+    "'ACALD'": "'CTPS1'",
+    "'PFL'": "'CTPS2'",
+    "'PTAr'": "'NDPK9'"
+  },
+  {
+    "'ACALD'": "'CYTK2'",
+    "'PFL'": "'RNDR3'",
+    "'PTAr'": "'RNTR3'"
+  },
+  {
+    "'ACALD'": "'DCYTt2r'",
+    "'PFL'": "'RNDR3'",
+    "'PTAr'": "'RNTR3'"
+  },
+  {
+    "'ACALD'": "'DGK1'",
+    "'PFL'": "'RNDR2'",
+    "'PTAr'": "'RNTR2'"
+  },
+  {
+    "'ACALD'": "'DGSNt2r'",
+    "'PFL'": "'EX_gua(e)'",
+    "'PTAr'": "'GMPS2'"
+  },
+  {
+    "'ACALD'": "'DGSNt2r'",
+    "'PFL'": "'EX_gua(e)'",
+    "'PTAr'": "'IMPD'"
+  },
+  {
+    "'ACALD'": "'DHORTS'",
+    "'PFL'": "'UPPRT'",
+    "'PTAr'": "'URIK1'"
+  },
+  {
+    "'ACALD'": "'EX_acgam(e)'",
+    "'PFL'": "'EX_gam(e)'",
+    "'PTAr'": "'GF6PTA'"
+  },
+  {
+    "'ACALD'": "'EX_acgam(e)'",
+    "'PFL'": "'GAMpts'",
+    "'PTAr'": "'GF6PTA'"
+  },
+  {
+    "'ACALD'": "'EX_alaleu(e)'",
+    "'PFL'": "'EX_glyleu(e)'",
+    "'PTAr'": "'EX_leu_L(e)'"
+  },
+  {
+    "'ACALD'": "'EX_alaleu(e)'",
+    "'PFL'": "'EX_leu_L(e)'",
+    "'PTAr'": "'GLYLEUHYDROc'"
+  },
+  {
+    "'ACALD'": "'EX_alaleu(e)'",
+    "'PFL'": "'EX_leu_L(e)'",
+    "'PTAr'": "'GLYLEUPEPT1tc'"
+  },
+  {
+    "'ACALD'": "'EX_alathr(e)'",
+    "'PFL'": "'EX_thr_L(e)'",
+    "'PTAr'": "'HSK'"
+  },
+  {
+    "'ACALD'": "'EX_alathr(e)'",
+    "'PFL'": "'EX_thr_L(e)'",
+    "'PTAr'": "'THRS'"
+  },
+  {
+    "'ACALD'": "'EX_alathr(e)'",
+    "'PFL'": "'HSK'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'EX_alathr(e)'",
+    "'PFL'": "'THRS'",
+    "'PTAr'": "'THRt2r'"
+  },
+  {
+    "'ACALD'": "'EX_amp(e)'",
+    "'PFL'": "'PIabc'",
+    "'PTAr'": "'PIt6b'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'FTHFL'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'GARFTi'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'GLUPRT'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'H2CO3D'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'IMPC'",
+    "'PTAr'": "'PPCr'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRAGS'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRAIS'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRASCSi'"
+  },
+  {
+    "'ACALD'": "'EX_co2(e)'",
+    "'PFL'": "'PPCr'",
+    "'PTAr'": "'PRFGS'"
+  },
+  {
+    "'ACALD'": "'EX_dcyt(e)'",
+    "'PFL'": "'RNDR3'",
+    "'PTAr'": "'RNTR3'"
+  },
+  {
+    "'ACALD'": "'EX_dgsn(e)'",
+    "'PFL'": "'EX_gua(e)'",
+    "'PTAr'": "'GMPS2'"
+  },
+  {
+    "'ACALD'": "'EX_dgsn(e)'",
+    "'PFL'": "'EX_gua(e)'",
+    "'PTAr'": "'IMPD'"
+  },
+  {
+    "'ACALD'": "'EX_fe3(e)'",
+    "'PFL'": "'EX_o2(e)'",
+    "'PTAr'": "'FE2DH'"
+  },
+  {
+    "'ACALD'": "'EX_fe3(e)'",
+    "'PFL'": "'FE2DH'",
+    "'PTAr'": "'FERO'"
+  },
+  {
+    "'ACALD'": "'EX_fe3(e)'",
+    "'PFL'": "'FE2DH'",
+    "'PTAr'": "'O2t'"
+  },
+  {
+    "'ACALD'": "'EX_glyphe(e)'",
+    "'PFL'": "'EX_phe_L(e)'",
+    "'PTAr'": "'LARGNAT'"
+  },
+  {
+    "'ACALD'": "'EX_glyphe(e)'",
+    "'PFL'": "'EX_phe_L(e)'",
+    "'PTAr'": "'PHETA1'"
+  },
+  {
+    "'ACALD'": "'EX_glyphe(e)'",
+    "'PFL'": "'EX_phe_L(e)'",
+    "'PTAr'": "'PPNDH'"
+  },
+  {
+    "'ACALD'": "'EX_glyphe(e)'",
+    "'PFL'": "'LARGNAT'",
+    "'PTAr'": "'PHEt2r'"
+  },
+  {
+    "'ACALD'": "'EX_glyphe(e)'",
+    "'PFL'": "'PHETA1'",
+    "'PTAr'": "'PHEt2r'"
+  },
+  {
+    "'ACALD'": "'EX_glyphe(e)'",
+    "'PFL'": "'PHEt2r'",
+    "'PTAr'": "'PPNDH'"
+  },
+  {
+    "'ACALD'": "'EX_gua(e)'",
+    "'PFL'": "'GMPS2'",
+    "'PTAr'": "'PUNP4'"
+  },
+  {
+    "'ACALD'": "'EX_gua(e)'",
+    "'PFL'": "'IMPD'",
+    "'PTAr'": "'PUNP4'"
+  },
+  {
+    "'ACALD'": "'EX_o2(e)'",
+    "'PFL'": "'FE2DH'",
+    "'PTAr'": "'FE3abc'"
+  },
+  {
+    "'ACALD'": "'EX_phe_L(e)'",
+    "'PFL'": "'GLYPHEHYc'",
+    "'PTAr'": "'LARGNAT'"
+  },
+  {
+    "'ACALD'": "'EX_phe_L(e)'",
+    "'PFL'": "'GLYPHEHYc'",
+    "'PTAr'": "'PHETA1'"
+  },
+  {
+    "'ACALD'": "'EX_phe_L(e)'",
+    "'PFL'": "'GLYPHEHYc'",
+    "'PTAr'": "'PPNDH'"
+  },
+  {
+    "'ACALD'": "'EX_phe_L(e)'",
+    "'PFL'": "'GLYPHEabc'",
+    "'PTAr'": "'LARGNAT'"
+  },
+  {
+    "'ACALD'": "'EX_phe_L(e)'",
+    "'PFL'": "'GLYPHEabc'",
+    "'PTAr'": "'PHETA1'"
+  },
+  {
+    "'ACALD'": "'EX_phe_L(e)'",
+    "'PFL'": "'GLYPHEabc'",
+    "'PTAr'": "'PPNDH'"
+  },
+  {
+    "'ACALD'": "'EX_ppi(e)'",
+    "'PFL'": "'PPA'",
+    "'PTAr'": "'PPIACPT'"
+  },
+  {
+    "'ACALD'": "'EX_succ(e)'",
+    "'PFL'": "'UPPRT'",
+    "'PTAr'": "'URIK1'"
+  },
+  {
+    "'ACALD'": "'F6PE4PL'",
+    "'PFL'": "'PPM'",
+    "'PTAr'": "'TKT2'"
+  },
+  {
+    "'ACALD'": "'FBA3'",
+    "'PFL'": "'PPM'",
+    "'PTAr'": "'TALA'"
+  },
+  {
+    "'ACALD'": "'FE2DH'",
+    "'PFL'": "'FE3abc'",
+    "'PTAr'": "'FERO'"
+  },
+  {
+    "'ACALD'": "'FE2DH'",
+    "'PFL'": "'FE3abc'",
+    "'PTAr'": "'O2t'"
+  },
+  {
+    "'ACALD'": "'FTHFL'",
+    "'PFL'": "'MTHFD'",
+    "'PTAr'": "'MTHFD2'"
+  },
+  {
+    "'ACALD'": "'G3PD1'",
+    "'PFL'": "'G3PD2'",
+    "'PTAr'": "'GLYK'"
+  },
+  {
+    "'ACALD'": "'GARFTi'",
+    "'PFL'": "'GUAPRT'",
+    "'PTAr'": "'HXPRT'"
+  },
+  {
+    "'ACALD'": "'GLUPRT'",
+    "'PFL'": "'GUAPRT'",
+    "'PTAr'": "'HXPRT'"
+  },
+  {
+    "'ACALD'": "'GLYCL'",
+    "'PFL'": "'MTHFD'",
+    "'PTAr'": "'MTHFD2'"
+  },
+  {
+    "'ACALD'": "'GLYPHEHYc'",
+    "'PFL'": "'LARGNAT'",
+    "'PTAr'": "'PHEt2r'"
+  },
+  {
+    "'ACALD'": "'GLYPHEHYc'",
+    "'PFL'": "'PHETA1'",
+    "'PTAr'": "'PHEt2r'"
+  },
+  {
+    "'ACALD'": "'GLYPHEHYc'",
+    "'PFL'": "'PHEt2r'",
+    "'PTAr'": "'PPNDH'"
+  },
+  {
+    "'ACALD'": "'GLYPHEabc'",
+    "'PFL'": "'LARGNAT'",
+    "'PTAr'": "'PHEt2r'"
+  },
+  {
+    "'ACALD'": "'GLYPHEabc'",
+    "'PFL'": "'PHETA1'",
+    "'PTAr'": "'PHEt2r'"
+  },
+  {
+    "'ACALD'": "'GLYPHEabc'",
+    "'PFL'": "'PHEt2r'",
+    "'PTAr'": "'PPNDH'"
+  },
+  {
+    "'ACALD'": "'GUAPRT'",
+    "'PFL'": "'H2CO3D'",
+    "'PTAr'": "'HXPRT'"
+  },
+  {
+    "'ACALD'": "'GUAPRT'",
+    "'PFL'": "'HXPRT'",
+    "'PTAr'": "'IMPC'"
+  },
+  {
+    "'ACALD'": "'GUAPRT'",
+    "'PFL'": "'HXPRT'",
+    "'PTAr'": "'PRAGS'"
+  },
+  {
+    "'ACALD'": "'GUAPRT'",
+    "'PFL'": "'HXPRT'",
+    "'PTAr'": "'PRAIS'"
+  },
+  {
+    "'ACALD'": "'GUAPRT'",
+    "'PFL'": "'HXPRT'",
+    "'PTAr'": "'PRASCSi'"
+  },
+  {
+    "'ACALD'": "'GUAPRT'",
+    "'PFL'": "'HXPRT'",
+    "'PTAr'": "'PRFGS'"
+  },
+  {
+    "'ACALD'": "'OMPDC'",
+    "'PFL'": "'UPPRT'",
+    "'PTAr'": "'URIK1'"
+  },
+  {
+    "'ACALD'": "'OROTPT'",
+    "'PFL'": "'UPPRT'",
+    "'PTAr'": "'URIK1'"
+  },
+  {
+    "'ACALD'": "'PPA'",
+    "'PFL'": "'PPIACPT'",
+    "'PTAr'": "'PPIt2e'"
+  },
+  {
+    "'ACALD'": "'PPM'",
+    "'PFL'": "'S17BPH'",
+    "'PTAr'": "'TALA'"
+  },
+  {
+    "'ACALD'": "'RNDR2'",
+    "'PFL'": "'RNTR2'",
+    "'PTAr'": "'r0456'"
+  },
+  {
+    "'ACALD'": "'SUCCt2r'",
+    "'PFL'": "'UPPRT'",
+    "'PTAr'": "'URIK1'"
+  },
+  {
+    "'ACALD'": "'TMDK1'",
+    "'PFL'": "'TMDK2'",
+    "'PTAr'": "'TMDS'"
+  }
+]

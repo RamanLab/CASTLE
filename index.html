@@ -1,0 +1,435 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>CASTLE</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+    <!-- <script src="js/jquery-csv-master/src/jquery.csv.js"></script> -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.js"></script>
+
+    <!-- <script src="js/jquery-csv-master/src/jquery.csv.min.js"></script> -->
+
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/logo.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/slicknav.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+    <!-- header-start -->
+    <header>
+        <div class="header-area ">
+            <div id="sticky-header" class="main-header-area white-bg">
+                <div class="container-fluid p-0">
+                    <div class="row align-items-center justify-content-between no-gutters">
+                        <div class="col-xl-2 col-lg-2">
+                            <div class="logo-img">
+                                <a href="index.html">
+                                    <img src="img/logo.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4">
+                            <div class="main-menu  d-none d-lg-block">
+                                <nav>
+                                    <ul id="navigation">
+                                        <li><a class="active" href="index.html">home</a></li>
+                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="mobile_menu d-block d-lg-none"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header-end -->
+
+    <!-- slider_area_start -->
+    <div class="slider_area">
+        <div class="slider_active owl-carousel">
+            <div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="slider_text text-center">
+                                <h3><mark>CASTLE</mark></h3>
+                                <p><mark>Computational Analysis of SynThetic LEthals</mark></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- slider_area_end -->
+
+    <!-- about_area_start -->
+    <div class="about_area">
+        <div class="container">
+            <div class="row align-items-center">
+                    <div class="col-xl-12 md-4">
+						<div class="text-center mb-5">
+						<p><font color="#000" size="5">CASTLE is a collection of synthetic lethal data for various pathogenic organisms, generated computationally. Here, you can find synthetic lethal genes and reactions for more than 70 organisms.</font></p>
+						</div>
+                        <center><input id="myTextbox1" type="text" placeholder="Search by organism"><br><br></center>
+                    </div>
+                    <div id="out1">
+
+                        <script type='text/javascript'>
+                            //for displaying table at the beginning
+                            $.ajax({
+                                type: "GET",
+                                url: "master.csv",
+                                dataType: "text",
+                                success: function(response) {
+                                    //alert("success");
+                                    console.log(response);
+                                    //console.log(data);
+                                    //var dataArray = data.toArrays(response);
+                                    // debugging toArrays function by RAjiv
+
+                                    //a is a variable with undefined value
+                                    dataArray = csv2array(response, ',');
+                                    //console.log(dataArray); //function call
+                                    generateHtmlTable(dataArray);
+                                }
+                            });
+                        </script>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- footer_start -->
+    <footer class="footer footer_bg">
+        <div class="footer_copy_right">
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+        </div>
+    </footer>
+    <!-- footer_end -->
+
+
+    <!-- JS here -->
+	
+	<script type="text/javascript">
+        function csv2array(data, delimeter) {
+            // Retrieve the delimeter
+            if (delimeter == undefined)
+                delimeter = ',';
+            if (delimeter && delimeter.length > 1)
+                delimeter = ',';
+
+            // initialize variables
+            var newline = '\n';
+            var eof = '';
+            var i = 0;
+            var c = data.charAt(i);
+            var row = 0;
+            var col = 0;
+            var array = new Array();
+
+            while (c != eof) {
+                // skip whitespaces
+                while (c == ' ' || c == '\t' || c == '\r') {
+                    c = data.charAt(++i); // read next char
+                }
+
+                // get value
+                var value = "";
+                if (c == '\"') {
+                    // value enclosed by double-quotes
+                    c = data.charAt(++i);
+
+                    do {
+                        if (c != '\"') {
+                            // read a regular character and go to the next character
+                            value += c;
+                            c = data.charAt(++i);
+                        }
+
+                        if (c == '\"') {
+                            // check for escaped double-quote
+                            var cnext = data.charAt(i + 1);
+                            if (cnext == '\"') {
+                                // this is an escaped double-quote. 
+                                // Add a double-quote to the value, and move two characters ahead.
+                                value += '\"';
+                                i += 2;
+                                c = data.charAt(i);
+                            }
+                        }
+                    }
+                    while (c != eof && c != '\"');
+
+                    if (c == eof) {
+                        throw "Unexpected end of data, double-quote expected";
+                    }
+
+                    c = data.charAt(++i);
+                } else {
+                    // value without quotes
+                    while (c != eof && c != delimeter && c != newline && c != ' ' && c != '\t' && c != '\r' || c == '(' || c == ')') {
+                        value += c;
+                        c = data.charAt(++i);
+                    }
+                }
+
+                // add the value to the array
+                if (array.length <= row)
+                    array.push(new Array());
+                array[row].push(value);
+
+                // skip whitespaces
+                while (c == ' ' || c == '\t' || c == '\r') {
+                    c = data.charAt(++i);
+                }
+
+                // go to the next row or column
+                if (c == delimeter) {
+                    // to the next column
+                    col++;
+                } else if (c == newline) {
+                    // to the next row
+                    col = 0;
+                    row++;
+                }
+                /* else if (c != eof) {
+                                               // unexpected character
+                                               //throw c;
+                                               console.log(data.charAt(i));
+                                               throw "Delimiter expected after character " + i;
+                                           } */
+
+                // go to the next character
+                c = data.charAt(++i);
+            }
+
+            return array;
+        }
+
+        function generateHtmlTable(data, query = '') {
+            //alert("html data");
+            var html = '<font size="6" color="brown"><center><b>LIST OF ORGANISMS</b></center></font>';
+
+            if (typeof(data[0]) === 'undefined') {
+                return null;
+            } else {
+                html += '<table width="100%" align="center">';
+                
+                    html += '<thead><tr><th width="450px"><center><b>NAME OF THE ORGANISM</center></th><th width="60px"><center><b>ZIP FILES</b></center></th><th><center><b>SINGLE LETHAL REACTIONS</th><th><center><b>DOUBLE LETHAL REACTIONS</b></center></th> <th><center><b>TRIPLE LETHAL REACTIONS</center></th> <th><center><b>SINGLE LETHAL GENES</center></th><th><center><b>DOUBLE LETHAL GENES</center></th><th><center><b>TRIPLE LETHAL GENES</center></th></tr></thead><tbody>';
+
+                var flag = 0;
+                $.each(data, function(index, row) {
+                    //bind header
+
+
+                    $.each(row, function(index, colData)
+                        //if(index==0)
+
+                        {
+
+                            if (index == 0) {
+                                var org = colData.split("&nbsp;").join("_");
+                                var y = colData.toLowerCase();
+                                if (y.includes(query)) {
+                                    html += '<tr>';
+                                    $.each(row, function(i, c) {
+                                        if (i == 0) {
+                                            html += '<td width="100px"><center><a href="Synthetic_Lethal/';
+                                            html += org;
+                                            html += '.html"><u>';
+                                            html += c;
+                                            html += '</u></a></center>';
+                                            html += '</td>';
+                                            html += '<td><a href="zip/';
+                                            html += org;
+                                            html += '.zip" download><abbr title="Download the ';
+                                            html += org;
+                                            html +=' ZIP file"><center><i class="fa fa-download" aria-hidden="true"></i></center></abbr></a></td>';
+                                        }
+                                        if (i == 1) {
+                                            var slr = "slr";
+                                            blank = "_blank";
+                                            html += '<td><a href="Single_Lethal_Reaction/';
+                                            html += org;
+                                            html += '.html';
+                                            html += '"target=';
+                                            html += blank;
+                                            html += "'><font color='maroon'><u><center>";
+                                            html += c;
+                                            html += '</center></u></font></a></td>';
+                                        }
+                                        if (i == 2) {
+                                            var dlr = "dlr";
+                                            blank = "_blank";
+                                            html += '<td><a href="Double_Lethal_Reaction/';
+                                            html += org;
+                                            html += '.html';
+                                            html += '"target=';
+                                            html += blank;
+                                            html += "'><font color='maroon'><u><center>";
+                                            html += c;
+                                            html += '</center></u></font></a></td>';
+                                        }
+                                        if (i == 3) {
+                                            var tlr = "tlr";
+                                            blank = "_blank";
+                                            html += '<td><a href="Triple_Lethal_Reaction/';
+                                            html += org;
+                                            html += '.html';
+                                            html += '"target=';
+                                            html += blank;
+                                            html += "'><font color='maroon'><u><center>";
+                                            html += c;
+                                            html += '</center></u></font></a></td>';
+                                        }
+                                        if (i == 4) {
+                                            var slg = "slg";
+                                            blank = "_blank";
+                                            html += '<td><a href="Single_Lethal_Gene/';
+                                            html += org;
+                                            html += '.html';
+                                            html += '"target=';
+                                            html += blank;
+                                            html += "'><font color='maroon'><u><center>";
+                                            html += c;
+                                            html += '</center></u></font></a></td>';
+                                        }
+                                        if (i == 5) {
+                                            var dlg = "dlg";
+                                            blank = "_blank";
+                                            html += '<td><a href="Double_Lethal_Gene/';
+                                            html += org;
+                                            html += '.html';
+                                            html += '"target=';
+                                            html += blank;
+                                            html += "'><font color='maroon'><u><center>";
+                                            html += c;
+                                            html += '</center></u></font></a></td>';
+                                        }
+                                        if (i == 6) {
+                                            var tlg = "tlg";
+                                            blank = "_blank";
+                                            html += '<td><a href="Triple_Lethal_Gene/';
+                                            html += org;
+                                            html += '.html';
+                                            html += '"target=';
+                                            html += blank;
+                                            html += "'><font color='maroon'><u><center>";
+                                            html += c;
+                                            html += '</center></u></font></a></td>';
+                                        }
+                                    });
+                                    html += '</tr>';
+                                    flag = 1;
+                                }
+
+                            }
+
+                        }
+                    );
+
+
+
+                });
+                html += '</tbody>';
+                html += '</table>';
+                if (flag == 0) {
+
+                    html = "<font face='Arial' size=6><center><b>No matches found!</b></center></font>";
+                }
+                
+                //alert(html);
+                $('#out1').html(html);
+            }
+        }
+
+        $('#myTextbox1').on('input', function() {
+
+            query = document.getElementById("myTextbox1").value;
+            //console.log(query);
+            $("out").empty();
+            //var data = $.csv;
+            $.ajax({
+                type: "GET",
+                url: "master.csv",
+                dataType: "text",
+                success: function(response) {
+                    //alert("success");
+                    console.log(response);
+                    //console.log(data);
+                    //var dataArray = data.toArrays(response);
+                    // debugging toArrays function by RAjiv
+
+                    //a is a variable with undefined value
+                    dataArray = csv2array(response, ',');
+                    //console.log(test(dataArray)); //function call
+                    generateHtmlTable(dataArray, query);
+                }
+            });
+
+
+        });
+    </script>
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/scrollIt.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/nice-select.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+
+    <!--contact js-->
+    <script src="js/contact.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/mail-script.js"></script>
+
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

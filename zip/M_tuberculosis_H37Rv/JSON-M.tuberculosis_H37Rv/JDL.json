@@ -1,0 +1,330 @@
+[
+  {
+    "'THRS'": "'THRS'",
+    "'THRD_L'": "'HSST'"
+  },
+  {
+    "'THRS'": "'THRD_L'",
+    "'THRD_L'": "'HSST'"
+  },
+  {
+    "'THRS'": "'THRD_L'",
+    "'THRD_L'": "'HSK'"
+  },
+  {
+    "'THRS'": "'TALA'",
+    "'THRD_L'": "'RPE'"
+  },
+  {
+    "'THRS'": "'TALA'",
+    "'THRD_L'": "'TKT2'"
+  },
+  {
+    "'THRS'": "'SHSL4r'",
+    "'THRD_L'": "'HSST'"
+  },
+  {
+    "'THRS'": "'SADT2'",
+    "'THRD_L'": "'SADT'"
+  },
+  {
+    "'THRS'": "'RPE'",
+    "'THRD_L'": "'PGL'"
+  },
+  {
+    "'THRS'": "'RPE'",
+    "'THRD_L'": "'TKT2'"
+  },
+  {
+    "'THRS'": "'RPE'",
+    "'THRD_L'": "'TKT1'"
+  },
+  {
+    "'THRS'": "'RPE'",
+    "'THRD_L'": "'GND'"
+  },
+  {
+    "'THRS'": "'RPE'",
+    "'THRD_L'": "'G6PDH2r'"
+  },
+  {
+    "'THRS'": "'PUNP5'",
+    "'THRD_L'": "'HXPRT'"
+  },
+  {
+    "'THRS'": "'PREPTTA'",
+    "'THRD_L'": "'PREPHACPH'"
+  },
+  {
+    "'THRS'": "'PREPHACPH'",
+    "'THRD_L'": "'FACOALPREPH'"
+  },
+  {
+    "'THRS'": "'PIt'",
+    "'THRD_L'": "'PIabc'"
+  },
+  {
+    "'THRS'": "'PGM'",
+    "'THRD_L'": "'PGK'"
+  },
+  {
+    "'THRS'": "'PGM'",
+    "'THRD_L'": "'GAPD'"
+  },
+  {
+    "'THRS'": "'PGL'",
+    "'THRD_L'": "'TKT2'"
+  },
+  {
+    "'THRS'": "'PGK'",
+    "'THRD_L'": "'ENO'"
+  },
+  {
+    "'THRS'": "'PGI'",
+    "'THRD_L'": "'GLCabc'"
+  },
+  {
+    "'THRS'": "'PGI'",
+    "'THRD_L'": "'EX_glc__D_e'"
+  },
+  {
+    "'THRS'": "'P5CRx'",
+    "'THRD_L'": "'P5CR'"
+  },
+  {
+    "'THRS'": "'MMSAD3'",
+    "'THRD_L'": "'ALATA_L'"
+  },
+  {
+    "'THRS'": "'MANAT2'",
+    "'THRD_L'": "'G16MTM2'"
+  },
+  {
+    "'THRS'": "'MAN1PT2'",
+    "'THRD_L'": "'MAN1PT'"
+  },
+  {
+    "'THRS'": "'UMPK_copy1'",
+    "'THRD_L'": "'UMPK_copy2'"
+  },
+  {
+    "'THRS'": "'TRPS3'",
+    "'THRD_L'": "'TRPS1'"
+  },
+  {
+    "'THRS'": "'TRPS2'",
+    "'THRD_L'": "'TRPS1'"
+  },
+  {
+    "'THRS'": "'TKT2'",
+    "'THRD_L'": "'TKT1'"
+  },
+  {
+    "'THRS'": "'TKT2'",
+    "'THRD_L'": "'GND'"
+  },
+  {
+    "'THRS'": "'TKT2'",
+    "'THRD_L'": "'G6PDH2r'"
+  },
+  {
+    "'THRS'": "'IPDPS'",
+    "'THRD_L'": "'IPDDI'"
+  },
+  {
+    "'THRS'": "'IPDPS'",
+    "'THRD_L'": "'DMPPS'"
+  },
+  {
+    "'THRS'": "'IPDDI'",
+    "'THRD_L'": "'DMPPS'"
+  },
+  {
+    "'THRS'": "'ICDHyr'",
+    "'THRD_L'": "'GLUt2r'"
+  },
+  {
+    "'THRS'": "'ICDHyr'",
+    "'THRD_L'": "'EX_glu__L_e'"
+  },
+  {
+    "'THRS'": "'HSST'",
+    "'THRD_L'": "'HSK'"
+  },
+  {
+    "'THRS'": "'HSDy'",
+    "'THRD_L'": "'HSDxi'"
+  },
+  {
+    "'THRS'": "'GLYK'",
+    "'THRD_L'": "'G3PD1ir'"
+  },
+  {
+    "'THRS'": "'GLUt2r'",
+    "'THRD_L'": "'NH4t'"
+  },
+  {
+    "'THRS'": "'GLUt2r'",
+    "'THRD_L'": "'EX_nh4_e'"
+  },
+  {
+    "'THRS'": "'GLUt2r'",
+    "'THRD_L'": "'ACONT'"
+  },
+  {
+    "'THRS'": "'GLU5K'",
+    "'THRD_L'": "'ORNTA'"
+  },
+  {
+    "'THRS'": "'GLCabc'",
+    "'THRD_L'": "'FBP'"
+  },
+  {
+    "'THRS'": "'GLCabc'",
+    "'THRD_L'": "'FBA'"
+  },
+  {
+    "'THRS'": "'GAPD'",
+    "'THRD_L'": "'ENO'"
+  },
+  {
+    "'THRS'": "'EX_glu__L_e'",
+    "'THRD_L'": "'NH4t'"
+  },
+  {
+    "'THRS'": "'EX_glu__L_e'",
+    "'THRD_L'": "'EX_nh4_e'"
+  },
+  {
+    "'THRS'": "'EX_glu__L_e'",
+    "'THRD_L'": "'ACONT'"
+  },
+  {
+    "'THRS'": "'EX_glc__D_e'",
+    "'THRD_L'": "'FBP'"
+  },
+  {
+    "'THRS'": "'EX_glc__D_e'",
+    "'THRD_L'": "'FBA'"
+  },
+  {
+    "'THRS'": "'ORNTAC'",
+    "'THRD_L'": "'ACODA'"
+  },
+  {
+    "'THRS'": "'ORNTAC'",
+    "'THRD_L'": "'ACGS'"
+  },
+  {
+    "'THRS'": "'NTPP5'",
+    "'THRD_L'": "'DADK'"
+  },
+  {
+    "'THRS'": "'NTPP3'",
+    "'THRD_L'": "'CYTK2'"
+  },
+  {
+    "'THRS'": "'NDPK8'",
+    "'THRD_L'": "'DADK'"
+  },
+  {
+    "'THRS'": "'NDPK7'",
+    "'THRD_L'": "'CYTK2'"
+  },
+  {
+    "'THRS'": "'DESAT18'",
+    "'THRD_L'": "'FAS181'"
+  },
+  {
+    "'THRS'": "'DESAT18'",
+    "'THRD_L'": "'FACOAL181'"
+  },
+  {
+    "'THRS'": "'DESAT16'",
+    "'THRD_L'": "'FAS161'"
+  },
+  {
+    "'THRS'": "'DCPT2'",
+    "'THRD_L'": "'DCPT'"
+  },
+  {
+    "'THRS'": "'DCPT2'",
+    "'THRD_L'": "'DCPE'"
+  },
+  {
+    "'THRS'": "'DCPT2'",
+    "'THRD_L'": "'DCPDPP'"
+  },
+  {
+    "'THRS'": "'DCPT'",
+    "'THRD_L'": "'DCPDPP2'"
+  },
+  {
+    "'THRS'": "'DCPT'",
+    "'THRD_L'": "'ARI'"
+  },
+  {
+    "'THRS'": "'DCPE'",
+    "'THRD_L'": "'DCPDPP2'"
+  },
+  {
+    "'THRS'": "'DCPE'",
+    "'THRD_L'": "'ARI'"
+  },
+  {
+    "'THRS'": "'DCPDPP2'",
+    "'THRD_L'": "'DCPDPP'"
+  },
+  {
+    "'THRS'": "'DCPDPP'",
+    "'THRD_L'": "'ARI'"
+  },
+  {
+    "'THRS'": "'CTPS2'",
+    "'THRD_L'": "'CTPS1'"
+  },
+  {
+    "'THRS'": "'ASP1DC'",
+    "'THRD_L'": "'ALATA_L'"
+  },
+  {
+    "'THRS'": "'ARGSS'",
+    "'THRD_L'": "'ARGDr'"
+  },
+  {
+    "'THRS'": "'ARGSL'",
+    "'THRD_L'": "'ARGDr'"
+  },
+  {
+    "'THRS'": "'APATr'",
+    "'THRD_L'": "'ALATA_L'"
+  },
+  {
+    "'THRS'": "'AIRCr'",
+    "'THRD_L'": "'AIRC3'"
+  },
+  {
+    "'THRS'": "'AIRCr'",
+    "'THRD_L'": "'AIRC2'"
+  },
+  {
+    "'THRS'": "'AICART2'",
+    "'THRD_L'": "'AICART'"
+  },
+  {
+    "'THRS'": "'FAS181'",
+    "'THRD_L'": "'FACOAL181'"
+  },
+  {
+    "'THRS'": "'FAS181'",
+    "'THRD_L'": "'FACOAL180'"
+  },
+  {
+    "'THRS'": "'FAS161'",
+    "'THRD_L'": "'FACOAL161'"
+  },
+  {
+    "'THRS'": "'FACOAL181'",
+    "'THRD_L'": "'FACOAL180'"
+  }
+]

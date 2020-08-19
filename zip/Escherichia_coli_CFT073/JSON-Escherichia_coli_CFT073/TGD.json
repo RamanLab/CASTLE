@@ -1,0 +1,832 @@
+[
+  {
+    "'ECABU_c09860'": "'ECABU_c46140'",
+    "'ECABU_c03260'": "'ECABU_c07720'",
+    "'ECABU_c43030'": "'ECABU_c07740'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c46140'",
+    "'ECABU_c03260'": "'ECABU_c07720'",
+    "'ECABU_c43030'": "'ECABU_c07730'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c46140'",
+    "'ECABU_c03260'": "'ECABU_c01290'",
+    "'ECABU_c43030'": "'ECABU_c07740'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c46140'",
+    "'ECABU_c03260'": "'ECABU_c01290'",
+    "'ECABU_c43030'": "'ECABU_c07730'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c46140'",
+    "'ECABU_c03260'": "'ECABU_c07710'",
+    "'ECABU_c43030'": "'ECABU_c07740'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c46140'",
+    "'ECABU_c03260'": "'ECABU_c07710'",
+    "'ECABU_c43030'": "'ECABU_c07730'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05570'",
+    "'ECABU_c03260'": "'ECABU_c37980'",
+    "'ECABU_c43030'": "'ECABU_c50180'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c07720'",
+    "'ECABU_c03260'": "'ECABU_c32000'",
+    "'ECABU_c43030'": "'ECABU_c07740'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c07720'",
+    "'ECABU_c03260'": "'ECABU_c32000'",
+    "'ECABU_c43030'": "'ECABU_c07730'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c01290'",
+    "'ECABU_c03260'": "'ECABU_c28520'",
+    "'ECABU_c43030'": "'ECABU_c06100'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c01290'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c31960'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c01290'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c50230'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c01290'",
+    "'ECABU_c03260'": "'ECABU_c32000'",
+    "'ECABU_c43030'": "'ECABU_c07740'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c01290'",
+    "'ECABU_c03260'": "'ECABU_c32000'",
+    "'ECABU_c43030'": "'ECABU_c07730'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c07710'",
+    "'ECABU_c03260'": "'ECABU_c32000'",
+    "'ECABU_c43030'": "'ECABU_c07740'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c07710'",
+    "'ECABU_c03260'": "'ECABU_c32000'",
+    "'ECABU_c43030'": "'ECABU_c07730'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c09110'",
+    "'ECABU_c43030'": "'ECABU_c40590'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c09110'",
+    "'ECABU_c43030'": "'ECABU_c40580'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c31850'",
+    "'ECABU_c43030'": "'ECABU_c06100'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c31860'",
+    "'ECABU_c43030'": "'ECABU_c06100'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c31840'",
+    "'ECABU_c43030'": "'ECABU_c06100'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c28520'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c26990'",
+    "'ECABU_c03260'": "'ECABU_c26220'",
+    "'ECABU_c43030'": "'ECABU_c40150'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c46440'",
+    "'ECABU_c03260'": "'ECABU_c38040'",
+    "'ECABU_c43030'": "'ECABU_c31970'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05950'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05950'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05950'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05950'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05950'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05910'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05910'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05910'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05910'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c05910'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42160'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42160'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42160'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42160'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42160'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42160'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42170'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42170'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42170'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42170'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42170'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42170'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42190'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42190'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42190'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42190'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42190'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42190'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42200'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42200'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42200'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42200'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42200'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42200'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42230'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42230'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42230'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42230'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42230'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42230'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42220'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42220'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42220'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42220'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42220'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42220'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42210'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42210'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42210'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42210'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42210'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42210'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42150'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21110'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42150'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c21120'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42150'",
+    "'ECABU_c03260'": "'ECABU_c20380'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42150'",
+    "'ECABU_c03260'": "'ECABU_c21110'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42150'",
+    "'ECABU_c03260'": "'ECABU_c21120'",
+    "'ECABU_c43030'": "'ECABU_c32060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42150'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c44250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42980'",
+    "'ECABU_c03260'": "'ECABU_c48080'",
+    "'ECABU_c43030'": "'ECABU_c39080'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42980'",
+    "'ECABU_c03260'": "'ECABU_c48080'",
+    "'ECABU_c43030'": "'ECABU_c39060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42980'",
+    "'ECABU_c03260'": "'ECABU_c48080'",
+    "'ECABU_c43030'": "'ECABU_c39100'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42980'",
+    "'ECABU_c03260'": "'ECABU_c48080'",
+    "'ECABU_c43030'": "'ECABU_c39070'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42980'",
+    "'ECABU_c03260'": "'ECABU_c48080'",
+    "'ECABU_c43030'": "'ECABU_c39090'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c04310'",
+    "'ECABU_c03260'": "'ECABU_c09480'",
+    "'ECABU_c43030'": "'ECABU_c30190'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c07930'",
+    "'ECABU_c03260'": "'ECABU_c19590'",
+    "'ECABU_c43030'": "'ECABU_c29020'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c42610'",
+    "'ECABU_c03260'": "'ECABU_c28840'",
+    "'ECABU_c43030'": "'ECABU_c39320'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c18640'",
+    "'ECABU_c03260'": "'ECABU_c18630'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c20380'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c19560'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c20380'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c20380'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c20380'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c20380'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c30500'",
+    "'ECABU_c03260'": "'ECABU_c38220'",
+    "'ECABU_c43030'": "'ECABU_c19560'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31850'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c31960'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31850'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c50230'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31860'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c31960'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31860'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c50230'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31840'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c31960'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31840'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c50230'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c39320'",
+    "'ECABU_c03260'": "'ECABU_c25700'",
+    "'ECABU_c43030'": "'ECABU_c48040'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c39320'",
+    "'ECABU_c03260'": "'ECABU_c25690'",
+    "'ECABU_c43030'": "'ECABU_c48040'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31470'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31470'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31470'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31470'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31470'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31490'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31490'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31490'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31490'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31490'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31480'",
+    "'ECABU_c03260'": "'ECABU_c45310'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31480'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31480'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31480'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31480'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c45310'",
+    "'ECABU_c03260'": "'ECABU_c06100'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c45310'",
+    "'ECABU_c03260'": "'ECABU_c31960'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c45310'",
+    "'ECABU_c03260'": "'ECABU_c32060'",
+    "'ECABU_c43030'": "'ECABU_c19560'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c45310'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c50230'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c45310'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c05850'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c45300'",
+    "'ECABU_c03260'": "'ECABU_c33740'",
+    "'ECABU_c43030'": "'ECABU_c44670'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c01630'",
+    "'ECABU_c03260'": "'ECABU_c38140'",
+    "'ECABU_c43030'": "'ECABU_c28250'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44220'",
+    "'ECABU_c03260'": "'ECABU_c08050'",
+    "'ECABU_c43030'": "'ECABU_c27450'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44220'",
+    "'ECABU_c03260'": "'ECABU_c08040'",
+    "'ECABU_c43030'": "'ECABU_c27450'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44220'",
+    "'ECABU_c03260'": "'ECABU_c27450'",
+    "'ECABU_c43030'": "'ECABU_c08060'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c09400'",
+    "'ECABU_c43030'": "'ECABU_c44620'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c09400'",
+    "'ECABU_c43030'": "'ECABU_c44630'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c35310'",
+    "'ECABU_c43030'": "'ECABU_c44620'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c35310'",
+    "'ECABU_c43030'": "'ECABU_c44630'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c06100'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c15610'",
+    "'ECABU_c03260'": "'ECABU_c34760'",
+    "'ECABU_c43030'": "'ECABU_c08820'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31960'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31960'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31960'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c31960'",
+    "'ECABU_c03260'": "'ECABU_c44670'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c32060'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c32060'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c32060'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c32060'",
+    "'ECABU_c03260'": "'ECABU_c19560'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c50230'",
+    "'ECABU_c43030'": "'ECABU_c07690'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c50230'",
+    "'ECABU_c43030'": "'ECABU_c07680'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c50230'",
+    "'ECABU_c43030'": "'ECABU_c07700'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c50230'",
+    "'ECABU_c43030'": "'ECABU_c07660'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c07690'",
+    "'ECABU_c43030'": "'ECABU_c05850'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c07680'",
+    "'ECABU_c43030'": "'ECABU_c05850'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c07700'",
+    "'ECABU_c43030'": "'ECABU_c05850'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c44670'",
+    "'ECABU_c03260'": "'ECABU_c07660'",
+    "'ECABU_c43030'": "'ECABU_c05850'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c37980'",
+    "'ECABU_c03260'": "'ECABU_c50180'",
+    "'ECABU_c43030'": "'ECABU_c14780'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c25700'",
+    "'ECABU_c03260'": "'ECABU_c29410'",
+    "'ECABU_c43030'": "'ECABU_c48040'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c25700'",
+    "'ECABU_c03260'": "'ECABU_c29420'",
+    "'ECABU_c43030'": "'ECABU_c48040'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c25690'",
+    "'ECABU_c03260'": "'ECABU_c29410'",
+    "'ECABU_c43030'": "'ECABU_c48040'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c25690'",
+    "'ECABU_c03260'": "'ECABU_c29420'",
+    "'ECABU_c43030'": "'ECABU_c48040'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c29410'",
+    "'ECABU_c03260'": "'ECABU_c48040'",
+    "'ECABU_c43030'": "'ECABU_c09290'"
+  },
+  {
+    "'ECABU_c09860'": "'ECABU_c29420'",
+    "'ECABU_c03260'": "'ECABU_c48040'",
+    "'ECABU_c43030'": "'ECABU_c09290'"
+  }
+]

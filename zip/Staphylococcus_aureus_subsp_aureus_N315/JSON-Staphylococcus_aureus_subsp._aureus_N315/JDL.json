@@ -1,0 +1,538 @@
+[
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACACT3r'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACACT4r'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACACT5r'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACACT6r'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACACT7r'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD1'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD2'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD3'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD4'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD5'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD6'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ACOAD7'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH1'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH2'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH3'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH4'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH5'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH6'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'ECOAH7'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'FACOAL160'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD1'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD2'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD3'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD4'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD5'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD6'"
+  },
+  {
+    "'ACACT1r'": "'ACACT1r'",
+    "'ACACT2r'": "'HACD7'"
+  },
+  {
+    "'ACACT1r'": "'ACKr'",
+    "'ACACT2r'": "'ACS'"
+  },
+  {
+    "'ACACT1r'": "'AKP1'",
+    "'ACACT2r'": "'DNMPPA'"
+  },
+  {
+    "'ACACT1r'": "'AKP1'",
+    "'ACACT2r'": "'DNTPPA'"
+  },
+  {
+    "'ACACT1r'": "'ARGDr'",
+    "'ACACT2r'": "'ARGSL'"
+  },
+  {
+    "'ACACT1r'": "'ARGDr'",
+    "'ACACT2r'": "'ARGSS'"
+  },
+  {
+    "'ACACT1r'": "'CBMKr'",
+    "'ACACT2r'": "'CBPS'"
+  },
+  {
+    "'ACACT1r'": "'CYTDK2'",
+    "'ACACT2r'": "'CTPS1'"
+  },
+  {
+    "'ACACT1r'": "'CYTK2'",
+    "'ACACT2r'": "'DCMPDA'"
+  },
+  {
+    "'ACACT1r'": "'DKMPPD2'",
+    "'ACACT2r'": "'DKMPPD'"
+  },
+  {
+    "'ACACT1r'": "'ENO'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'EX_glc__D_e'",
+    "'ACACT2r'": "'FBP'"
+  },
+  {
+    "'ACACT1r'": "'EX_glc__D_e'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'ALCD2x'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'ETOHt'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'EX_etoh_e'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'EX_for_e'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'FORt3'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'EX_h2o_e'",
+    "'ACACT2r'": "'THRA'"
+  },
+  {
+    "'ACACT1r'": "'FBA'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'GAPD'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'GCCa'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'GCCa'",
+    "'ACACT2r'": "'PFL'"
+  },
+  {
+    "'ACACT1r'": "'GCCb'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'GCCb'",
+    "'ACACT2r'": "'PFL'"
+  },
+  {
+    "'ACACT1r'": "'GCCc'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'GCCc'",
+    "'ACACT2r'": "'PFL'"
+  },
+  {
+    "'ACACT1r'": "'GHMT2r'",
+    "'ACACT2r'": "'THRA'"
+  },
+  {
+    "'ACACT1r'": "'GLCpts'",
+    "'ACACT2r'": "'FBP'"
+  },
+  {
+    "'ACACT1r'": "'GLCpts'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'GLYK'",
+    "'ACACT2r'": "'EX_glyc_e'"
+  },
+  {
+    "'ACACT1r'": "'GLYK'",
+    "'ACACT2r'": "'GLYCt'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'ALCD2x'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'ETOHt'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'EX_etoh_e'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'EX_for_e'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'FORt3'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'THRA'"
+  },
+  {
+    "'ACACT1r'": "'MTHFC'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'MTHFC'",
+    "'ACACT2r'": "'PFL'"
+  },
+  {
+    "'ACACT1r'": "'MTHFC'",
+    "'ACACT2r'": "'THRA'"
+  },
+  {
+    "'ACACT1r'": "'MTHFD'",
+    "'ACACT2r'": "'FTHFLi'"
+  },
+  {
+    "'ACACT1r'": "'MTHFD'",
+    "'ACACT2r'": "'PFL'"
+  },
+  {
+    "'ACACT1r'": "'MTHFD'",
+    "'ACACT2r'": "'THRA'"
+  },
+  {
+    "'ACACT1r'": "'ORNDC'",
+    "'ACACT2r'": "'AGMT'"
+  },
+  {
+    "'ACACT1r'": "'ORNDC'",
+    "'ACACT2r'": "'ARGDC'"
+  },
+  {
+    "'ACACT1r'": "'PFK'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'FBP'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'PIabc'",
+    "'ACACT2r'": "'PIt7'"
+  },
+  {
+    "'ACACT1r'": "'PROt4'",
+    "'ACACT2r'": "'PROabc'"
+  },
+  {
+    "'ACACT1r'": "'PTAr'",
+    "'ACACT2r'": "'ACS'"
+  },
+  {
+    "'ACACT1r'": "'RNDR1'",
+    "'ACACT2r'": "'RNTR1'"
+  },
+  {
+    "'ACACT1r'": "'RNDR2'",
+    "'ACACT2r'": "'NDPK5'"
+  },
+  {
+    "'ACACT1r'": "'RNDR2'",
+    "'ACACT2r'": "'RNTR2'"
+  },
+  {
+    "'ACACT1r'": "'TPI'",
+    "'ACACT2r'": "'PPCK'"
+  },
+  {
+    "'ACACT1r'": "'URIDK2r'",
+    "'ACACT2r'": "'DCMPDA'"
+  },
+  {
+    "'ACACT1r'": "'EX_glc__D_e'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'EX_h_e'",
+    "'ACACT2r'": "'EX_h2o_e'"
+  },
+  {
+    "'ACACT1r'": "'FBA'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'FBA'",
+    "'ACACT2r'": "'EX_glc__D_e'"
+  },
+  {
+    "'ACACT1r'": "'GAPD'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'GAPD'",
+    "'ACACT2r'": "'EX_glc__D_e'"
+  },
+  {
+    "'ACACT1r'": "'GAPD'",
+    "'ACACT2r'": "'FBA'"
+  },
+  {
+    "'ACACT1r'": "'GCCa'",
+    "'ACACT2r'": "'EX_h2o_e'"
+  },
+  {
+    "'ACACT1r'": "'GCCb'",
+    "'ACACT2r'": "'EX_h2o_e'"
+  },
+  {
+    "'ACACT1r'": "'GCCc'",
+    "'ACACT2r'": "'EX_h2o_e'"
+  },
+  {
+    "'ACACT1r'": "'GLCpts'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'GLCpts'",
+    "'ACACT2r'": "'FBA'"
+  },
+  {
+    "'ACACT1r'": "'GLCpts'",
+    "'ACACT2r'": "'GAPD'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'EX_h_e'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'GCCa'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'GCCb'"
+  },
+  {
+    "'ACACT1r'": "'H2Ot'",
+    "'ACACT2r'": "'GCCc'"
+  },
+  {
+    "'ACACT1r'": "'MTHFC'",
+    "'ACACT2r'": "'EX_h2o_e'"
+  },
+  {
+    "'ACACT1r'": "'MTHFC'",
+    "'ACACT2r'": "'H2Ot'"
+  },
+  {
+    "'ACACT1r'": "'MTHFD'",
+    "'ACACT2r'": "'EX_h2o_e'"
+  },
+  {
+    "'ACACT1r'": "'MTHFD'",
+    "'ACACT2r'": "'H2Ot'"
+  },
+  {
+    "'ACACT1r'": "'PFK'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'PFK'",
+    "'ACACT2r'": "'GAPD'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'EX_glc__D_e'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'FBA'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'GAPD'"
+  },
+  {
+    "'ACACT1r'": "'PGI'",
+    "'ACACT2r'": "'GLCpts'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'ENO'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'EX_glc__D_e'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'FBA'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'GLCpts'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'PFK'"
+  },
+  {
+    "'ACACT1r'": "'PGK'",
+    "'ACACT2r'": "'PGI'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'EX_glc__D_e'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'FBA'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'GAPD'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'GLCpts'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'PFK'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'PGI'"
+  },
+  {
+    "'ACACT1r'": "'PGM'",
+    "'ACACT2r'": "'PGK'"
+  },
+  {
+    "'ACACT1r'": "'TPI'",
+    "'ACACT2r'": "'EX_glc__D_e'"
+  },
+  {
+    "'ACACT1r'": "'TPI'",
+    "'ACACT2r'": "'FBA'"
+  },
+  {
+    "'ACACT1r'": "'TPI'",
+    "'ACACT2r'": "'GLCpts'"
+  },
+  {
+    "'ACACT1r'": "'TPI'",
+    "'ACACT2r'": "'PFK'"
+  },
+  {
+    "'ACACT1r'": "'TPI'",
+    "'ACACT2r'": "'PGI'"
+  },
+  {
+    "'ACACT1r'": "'URIDK2r'",
+    "'ACACT2r'": "'CYTK2'"
+  }
+]

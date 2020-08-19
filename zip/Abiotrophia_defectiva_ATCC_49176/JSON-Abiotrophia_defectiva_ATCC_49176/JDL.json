@@ -1,0 +1,650 @@
+[
+  {
+    "'ACHBPL'": "'ACHBPL'",
+    "'EX_ile_L(e)'": "'ILETA'"
+  },
+  {
+    "'ACHBPL'": "'ACLS_a'",
+    "'EX_ile_L(e)'": "'EX_ile_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'ACLS_a'",
+    "'EX_ile_L(e)'": "'EX_val_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'ACLS_a'",
+    "'EX_ile_L(e)'": "'ILETA'"
+  },
+  {
+    "'ACHBPL'": "'ACLS_b'",
+    "'EX_ile_L(e)'": "'EX_val_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'ACOAAGPAT180'",
+    "'EX_ile_L(e)'": "'AGPAT180'"
+  },
+  {
+    "'ACHBPL'": "'ACOAAGPAT180'",
+    "'EX_ile_L(e)'": "'STCOATA'"
+  },
+  {
+    "'ACHBPL'": "'ADSL2r'",
+    "'EX_ile_L(e)'": "'EX_hxan(e)'"
+  },
+  {
+    "'ACHBPL'": "'ADSL2r'",
+    "'EX_ile_L(e)'": "'HXPRT'"
+  },
+  {
+    "'ACHBPL'": "'ADSL2r'",
+    "'EX_ile_L(e)'": "'HYXNt'"
+  },
+  {
+    "'ACHBPL'": "'AGMD'",
+    "'EX_ile_L(e)'": "'EX_orn(e)'"
+  },
+  {
+    "'ACHBPL'": "'AGMD'",
+    "'EX_ile_L(e)'": "'ORNDC'"
+  },
+  {
+    "'ACHBPL'": "'AGMD'",
+    "'EX_ile_L(e)'": "'r1667'"
+  },
+  {
+    "'ACHBPL'": "'AICART'",
+    "'EX_ile_L(e)'": "'EX_hxan(e)'"
+  },
+  {
+    "'ACHBPL'": "'AICART'",
+    "'EX_ile_L(e)'": "'HXPRT'"
+  },
+  {
+    "'ACHBPL'": "'AICART'",
+    "'EX_ile_L(e)'": "'HYXNt'"
+  },
+  {
+    "'ACHBPL'": "'AICART'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'AICART'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'AIRC4'",
+    "'EX_ile_L(e)'": "'EX_hxan(e)'"
+  },
+  {
+    "'ACHBPL'": "'AIRC4'",
+    "'EX_ile_L(e)'": "'HXPRT'"
+  },
+  {
+    "'ACHBPL'": "'AIRC4'",
+    "'EX_ile_L(e)'": "'HYXNt'"
+  },
+  {
+    "'ACHBPL'": "'AMPTASECG'",
+    "'EX_ile_L(e)'": "'EX_cys_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'AMPTASECG'",
+    "'EX_ile_L(e)'": "'CYSt2r'"
+  },
+  {
+    "'ACHBPL'": "'ARGDC'",
+    "'EX_ile_L(e)'": "'EX_orn(e)'"
+  },
+  {
+    "'ACHBPL'": "'ARGDC'",
+    "'EX_ile_L(e)'": "'ORNDC'"
+  },
+  {
+    "'ACHBPL'": "'ARGDC'",
+    "'EX_ile_L(e)'": "'r1667'"
+  },
+  {
+    "'ACHBPL'": "'ATPPRT'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'ATPPRT'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'CBPS'",
+    "'EX_ile_L(e)'": "'CBMK'"
+  },
+  {
+    "'ACHBPL'": "'CYTD'",
+    "'EX_ile_L(e)'": "'CYTK1'"
+  },
+  {
+    "'ACHBPL'": "'CYTK1'",
+    "'EX_ile_L(e)'": "'NTD4'"
+  },
+  {
+    "'ACHBPL'": "'DAPDC'",
+    "'EX_ile_L(e)'": "'EX_lys_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'DAPDC'",
+    "'EX_ile_L(e)'": "'LYSt2r'"
+  },
+  {
+    "'ACHBPL'": "'DHAD1'",
+    "'EX_ile_L(e)'": "'EX_val_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'DHAD2'",
+    "'EX_ile_L(e)'": "'EX_ile_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'DHAD2'",
+    "'EX_ile_L(e)'": "'ILETA'"
+  },
+  {
+    "'ACHBPL'": "'DMPPS'",
+    "'EX_ile_L(e)'": "'DMPPS2r'"
+  },
+  {
+    "'ACHBPL'": "'EX_cit(e)'",
+    "'EX_ile_L(e)'": "'FE3abc'"
+  },
+  {
+    "'ACHBPL'": "'EX_glyc3p(e)'",
+    "'EX_ile_L(e)'": "'EX_pi(e)'"
+  },
+  {
+    "'ACHBPL'": "'EX_glyc3p(e)'",
+    "'EX_ile_L(e)'": "'GLYt4r'"
+  },
+  {
+    "'ACHBPL'": "'EX_glyc3p(e)'",
+    "'EX_ile_L(e)'": "'PIt7'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'GARFTi'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'GLUPRT'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'IMPC'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'PRAGS'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'PRAIS'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'PRASCSi'"
+  },
+  {
+    "'ACHBPL'": "'EX_hxan(e)'",
+    "'EX_ile_L(e)'": "'PRFGS'"
+  },
+  {
+    "'ACHBPL'": "'EX_ile_L(e)'",
+    "'EX_ile_L(e)'": "'ILETA'"
+  },
+  {
+    "'ACHBPL'": "'EX_ile_L(e)'",
+    "'EX_ile_L(e)'": "'THRD_L'"
+  },
+  {
+    "'ACHBPL'": "'EX_met_L(e)'",
+    "'EX_ile_L(e)'": "'EX_metsox_S_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'EX_met_L(e)'",
+    "'EX_ile_L(e)'": "'METSOX1abc'"
+  },
+  {
+    "'ACHBPL'": "'EX_met_L(e)'",
+    "'EX_ile_L(e)'": "'METSOXR1r'"
+  },
+  {
+    "'ACHBPL'": "'EX_metsox_S_L(e)'",
+    "'EX_ile_L(e)'": "'METabc'"
+  },
+  {
+    "'ACHBPL'": "'EX_orn(e)'",
+    "'EX_ile_L(e)'": "'NCPTRCA'"
+  },
+  {
+    "'ACHBPL'": "'EX_pi(e)'",
+    "'EX_ile_L(e)'": "'GLYC3Pabc'"
+  },
+  {
+    "'ACHBPL'": "'EX_pro_L(e)'",
+    "'EX_ile_L(e)'": "'G5SADs'"
+  },
+  {
+    "'ACHBPL'": "'EX_pro_L(e)'",
+    "'EX_ile_L(e)'": "'G5SDr'"
+  },
+  {
+    "'ACHBPL'": "'EX_pro_L(e)'",
+    "'EX_ile_L(e)'": "'GLU5K'"
+  },
+  {
+    "'ACHBPL'": "'EX_pro_L(e)'",
+    "'EX_ile_L(e)'": "'P5CRyr'"
+  },
+  {
+    "'ACHBPL'": "'EX_rib_D(e)'",
+    "'EX_ile_L(e)'": "'RPE'"
+  },
+  {
+    "'ACHBPL'": "'EX_rib_D(e)'",
+    "'EX_ile_L(e)'": "'RPI'"
+  },
+  {
+    "'ACHBPL'": "'EX_val_L(e)'",
+    "'EX_ile_L(e)'": "'VALTA'"
+  },
+  {
+    "'ACHBPL'": "'FBA'",
+    "'EX_ile_L(e)'": "'PPA'"
+  },
+  {
+    "'ACHBPL'": "'FE3abc'",
+    "'EX_ile_L(e)'": "'FEDCabc'"
+  },
+  {
+    "'ACHBPL'": "'FE3abc'",
+    "'EX_ile_L(e)'": "'OAASr'"
+  },
+  {
+    "'ACHBPL'": "'FTHFL'",
+    "'EX_ile_L(e)'": "'GHMT2r'"
+  },
+  {
+    "'ACHBPL'": "'FTHFL'",
+    "'EX_ile_L(e)'": "'MTHFC'"
+  },
+  {
+    "'ACHBPL'": "'FTHFL'",
+    "'EX_ile_L(e)'": "'MTHFD'"
+  },
+  {
+    "'ACHBPL'": "'G3PAT180'",
+    "'EX_ile_L(e)'": "'SGAT'"
+  },
+  {
+    "'ACHBPL'": "'G5SADs'",
+    "'EX_ile_L(e)'": "'PROabc'"
+  },
+  {
+    "'ACHBPL'": "'G5SDr'",
+    "'EX_ile_L(e)'": "'PROabc'"
+  },
+  {
+    "'ACHBPL'": "'GALK'",
+    "'EX_ile_L(e)'": "'UGLT'"
+  },
+  {
+    "'ACHBPL'": "'GARFTi'",
+    "'EX_ile_L(e)'": "'HXPRT'"
+  },
+  {
+    "'ACHBPL'": "'GARFTi'",
+    "'EX_ile_L(e)'": "'HYXNt'"
+  },
+  {
+    "'ACHBPL'": "'GHMT2r'",
+    "'EX_ile_L(e)'": "'MTHFC'"
+  },
+  {
+    "'ACHBPL'": "'GHMT2r'",
+    "'EX_ile_L(e)'": "'MTHFD'"
+  },
+  {
+    "'ACHBPL'": "'GK1'",
+    "'EX_ile_L(e)'": "'GK2'"
+  },
+  {
+    "'ACHBPL'": "'GLU5K'",
+    "'EX_ile_L(e)'": "'PROabc'"
+  },
+  {
+    "'ACHBPL'": "'GLUPRT'",
+    "'EX_ile_L(e)'": "'HXPRT'"
+  },
+  {
+    "'ACHBPL'": "'GLUPRT'",
+    "'EX_ile_L(e)'": "'HYXNt'"
+  },
+  {
+    "'ACHBPL'": "'GLYC3Pabc'",
+    "'EX_ile_L(e)'": "'GLYt4r'"
+  },
+  {
+    "'ACHBPL'": "'GLYC3Pabc'",
+    "'EX_ile_L(e)'": "'PIt7'"
+  },
+  {
+    "'ACHBPL'": "'GLYCDx'",
+    "'EX_ile_L(e)'": "'sink_PGPm1[c]'"
+  },
+  {
+    "'ACHBPL'": "'HISTP'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'HISTP'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'HSTPTr'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'HSTPTr'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'HXPRT'",
+    "'EX_ile_L(e)'": "'IMPC'"
+  },
+  {
+    "'ACHBPL'": "'HXPRT'",
+    "'EX_ile_L(e)'": "'PRAGS'"
+  },
+  {
+    "'ACHBPL'": "'HXPRT'",
+    "'EX_ile_L(e)'": "'PRAIS'"
+  },
+  {
+    "'ACHBPL'": "'HXPRT'",
+    "'EX_ile_L(e)'": "'PRASCSi'"
+  },
+  {
+    "'ACHBPL'": "'HXPRT'",
+    "'EX_ile_L(e)'": "'PRFGS'"
+  },
+  {
+    "'ACHBPL'": "'HYXNt'",
+    "'EX_ile_L(e)'": "'IMPC'"
+  },
+  {
+    "'ACHBPL'": "'HYXNt'",
+    "'EX_ile_L(e)'": "'PRAGS'"
+  },
+  {
+    "'ACHBPL'": "'HYXNt'",
+    "'EX_ile_L(e)'": "'PRAIS'"
+  },
+  {
+    "'ACHBPL'": "'HYXNt'",
+    "'EX_ile_L(e)'": "'PRASCSi'"
+  },
+  {
+    "'ACHBPL'": "'HYXNt'",
+    "'EX_ile_L(e)'": "'PRFGS'"
+  },
+  {
+    "'ACHBPL'": "'IG3PS'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'IG3PS'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'IGPDH'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'IGPDH'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'ILETA'",
+    "'EX_ile_L(e)'": "'THRD_L'"
+  },
+  {
+    "'ACHBPL'": "'IMPC'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'IMPC'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'IPDPS'",
+    "'EX_ile_L(e)'": "'IPDPS2'"
+  },
+  {
+    "'ACHBPL'": "'LEUabc'",
+    "'EX_ile_L(e)'": "'LEUt2r'"
+  },
+  {
+    "'ACHBPL'": "'METFR'",
+    "'EX_ile_L(e)'": "'r0792'"
+  },
+  {
+    "'ACHBPL'": "'METSOX1abc'",
+    "'EX_ile_L(e)'": "'METabc'"
+  },
+  {
+    "'ACHBPL'": "'METSOXR1r'",
+    "'EX_ile_L(e)'": "'METabc'"
+  },
+  {
+    "'ACHBPL'": "'MG2abc'",
+    "'EX_ile_L(e)'": "'MGt5'"
+  },
+  {
+    "'ACHBPL'": "'NADK'",
+    "'EX_ile_L(e)'": "'NADK2'"
+  },
+  {
+    "'ACHBPL'": "'NADS1'",
+    "'EX_ile_L(e)'": "'NADS2'"
+  },
+  {
+    "'ACHBPL'": "'NAPRT'",
+    "'EX_ile_L(e)'": "'NNDPR'"
+  },
+  {
+    "'ACHBPL'": "'NAPRT'",
+    "'EX_ile_L(e)'": "'QULNS'"
+  },
+  {
+    "'ACHBPL'": "'NAPRT'",
+    "'EX_ile_L(e)'": "'EX_nac(e)'"
+  },
+  {
+    "'ACHBPL'": "'NAPRT'",
+    "'EX_ile_L(e)'": "'NACt2r'"
+  },
+  {
+    "'ACHBPL'": "'NAPRT'",
+    "'EX_ile_L(e)'": "'ASPO5'"
+  },
+  {
+    "'ACHBPL'": "'NCPTRCA'",
+    "'EX_ile_L(e)'": "'ORNDC'"
+  },
+  {
+    "'ACHBPL'": "'NCPTRCA'",
+    "'EX_ile_L(e)'": "'r1667'"
+  },
+  {
+    "'ACHBPL'": "'NNDPR'",
+    "'EX_ile_L(e)'": "'EX_nac(e)'"
+  },
+  {
+    "'ACHBPL'": "'NNDPR'",
+    "'EX_ile_L(e)'": "'NACt2r'"
+  },
+  {
+    "'ACHBPL'": "'OCDCAt2'",
+    "'EX_ile_L(e)'": "'OCDCAtr'"
+  },
+  {
+    "'ACHBPL'": "'P5CRyr'",
+    "'EX_ile_L(e)'": "'PROabc'"
+  },
+  {
+    "'ACHBPL'": "'PHETA1'",
+    "'EX_ile_L(e)'": "'EX_phe_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'PHETA1'",
+    "'EX_ile_L(e)'": "'PHEt2r'"
+  },
+  {
+    "'ACHBPL'": "'PPA'",
+    "'EX_ile_L(e)'": "'PFK(ppi)'"
+  },
+  {
+    "'ACHBPL'": "'PPNDH'",
+    "'EX_ile_L(e)'": "'EX_phe_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'PPNDH'",
+    "'EX_ile_L(e)'": "'PHEt2r'"
+  },
+  {
+    "'ACHBPL'": "'PRAMPC'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'PRAMPC'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'PRATPP'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'PRATPP'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'PRMICI'",
+    "'EX_ile_L(e)'": "'EX_his_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'PRMICI'",
+    "'EX_ile_L(e)'": "'HISt2r'"
+  },
+  {
+    "'ACHBPL'": "'QULNS'",
+    "'EX_ile_L(e)'": "'EX_nac(e)'"
+  },
+  {
+    "'ACHBPL'": "'QULNS'",
+    "'EX_ile_L(e)'": "'NACt2r'"
+  },
+  {
+    "'ACHBPL'": "'RBK'",
+    "'EX_ile_L(e)'": "'RPE'"
+  },
+  {
+    "'ACHBPL'": "'RBK'",
+    "'EX_ile_L(e)'": "'RPI'"
+  },
+  {
+    "'ACHBPL'": "'RIBabc'",
+    "'EX_ile_L(e)'": "'RPE'"
+  },
+  {
+    "'ACHBPL'": "'RIBabc'",
+    "'EX_ile_L(e)'": "'RPI'"
+  },
+  {
+    "'ACHBPL'": "'RNDR1'",
+    "'EX_ile_L(e)'": "'RNTR1'"
+  },
+  {
+    "'ACHBPL'": "'RNDR2'",
+    "'EX_ile_L(e)'": "'RNTR2'"
+  },
+  {
+    "'ACHBPL'": "'RPE'",
+    "'EX_ile_L(e)'": "'TKT1'"
+  },
+  {
+    "'ACHBPL'": "'RPI'",
+    "'EX_ile_L(e)'": "'TKT1'"
+  },
+  {
+    "'ACHBPL'": "'SGAT'",
+    "'EX_ile_L(e)'": "'STCOATA'"
+  },
+  {
+    "'ACHBPL'": "'SUCD1'",
+    "'EX_ile_L(e)'": "'FRD7'"
+  },
+  {
+    "'ACHBPL'": "'SUCD4'",
+    "'EX_ile_L(e)'": "'FRD7'"
+  },
+  {
+    "'ACHBPL'": "'TKT1'",
+    "'EX_ile_L(e)'": "'TKT2'"
+  },
+  {
+    "'ACHBPL'": "'TYRTA'",
+    "'EX_ile_L(e)'": "'EX_tyr_L(e)'"
+  },
+  {
+    "'ACHBPL'": "'TYRTA'",
+    "'EX_ile_L(e)'": "'TYRt2r'"
+  },
+  {
+    "'ACHBPL'": "'UDPG4E'",
+    "'EX_ile_L(e)'": "'UGLT'"
+  },
+  {
+    "'ACHBPL'": "'EX_phe_L(e)'",
+    "'EX_ile_L(e)'": "'CHORM'"
+  },
+  {
+    "'ACHBPL'": "'PHEt2r'",
+    "'EX_ile_L(e)'": "'CHORM'"
+  },
+  {
+    "'ACHBPL'": "'EX_tyr_L(e)'",
+    "'EX_ile_L(e)'": "'CHORM'"
+  },
+  {
+    "'ACHBPL'": "'TYRt2r'",
+    "'EX_ile_L(e)'": "'CHORM'"
+  },
+  {
+    "'ACHBPL'": "'NDPK4'",
+    "'EX_ile_L(e)'": "'ADK10'"
+  },
+  {
+    "'ACHBPL'": "'NDPK1'",
+    "'EX_ile_L(e)'": "'ADK3'"
+  },
+  {
+    "'ACHBPL'": "'NDPK2'",
+    "'EX_ile_L(e)'": "'UTPATPT'"
+  },
+  {
+    "'ACHBPL'": "'EX_nac(e)'",
+    "'EX_ile_L(e)'": "'ASPO5'"
+  },
+  {
+    "'ACHBPL'": "'NACt2r'",
+    "'EX_ile_L(e)'": "'ASPO5'"
+  },
+  {
+    "'ACHBPL'": "'CTPS1'",
+    "'EX_ile_L(e)'": "'CTPS2'"
+  }
+]
