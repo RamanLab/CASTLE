@@ -1,0 +1,832 @@
+[
+  {
+    "'ECUMN_1143'": "'ECUMN_4605'",
+    "'ECUMN_0242'": "'ECUMN_0803'",
+    "'ECUMN_4347'": "'ECUMN_0806'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4605'",
+    "'ECUMN_0242'": "'ECUMN_0803'",
+    "'ECUMN_4347'": "'ECUMN_0805'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4605'",
+    "'ECUMN_0242'": "'ECUMN_0113'",
+    "'ECUMN_4347'": "'ECUMN_0806'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4605'",
+    "'ECUMN_0242'": "'ECUMN_0113'",
+    "'ECUMN_4347'": "'ECUMN_0805'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4605'",
+    "'ECUMN_0242'": "'ECUMN_0804'",
+    "'ECUMN_4347'": "'ECUMN_0806'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4605'",
+    "'ECUMN_0242'": "'ECUMN_0804'",
+    "'ECUMN_4347'": "'ECUMN_0805'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0513'",
+    "'ECUMN_0242'": "'ECUMN_3837'",
+    "'ECUMN_4347'": "'ECUMN_5007'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0803'",
+    "'ECUMN_0242'": "'ECUMN_3264'",
+    "'ECUMN_4347'": "'ECUMN_0806'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0803'",
+    "'ECUMN_0242'": "'ECUMN_3264'",
+    "'ECUMN_4347'": "'ECUMN_0805'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0113'",
+    "'ECUMN_0242'": "'ECUMN_2871'",
+    "'ECUMN_4347'": "'ECUMN_0569'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0113'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_3254'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0113'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_5012'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0113'",
+    "'ECUMN_0242'": "'ECUMN_3264'",
+    "'ECUMN_4347'": "'ECUMN_0806'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0113'",
+    "'ECUMN_0242'": "'ECUMN_3264'",
+    "'ECUMN_4347'": "'ECUMN_0805'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0804'",
+    "'ECUMN_0242'": "'ECUMN_3264'",
+    "'ECUMN_4347'": "'ECUMN_0806'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0804'",
+    "'ECUMN_0242'": "'ECUMN_3264'",
+    "'ECUMN_4347'": "'ECUMN_0805'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_1065'",
+    "'ECUMN_0242'": "'ECUMN_2871'",
+    "'ECUMN_4347'": "'ECUMN_4134'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_1065'",
+    "'ECUMN_0242'": "'ECUMN_2871'",
+    "'ECUMN_4347'": "'ECUMN_4133'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_3245'",
+    "'ECUMN_4347'": "'ECUMN_0569'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_3244'",
+    "'ECUMN_4347'": "'ECUMN_0569'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_3246'",
+    "'ECUMN_4347'": "'ECUMN_0569'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2871'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2709'",
+    "'ECUMN_0242'": "'ECUMN_2629'",
+    "'ECUMN_4347'": "'ECUMN_4085'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0556'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0556'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0556'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0556'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0556'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0552'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0552'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0552'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0552'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0552'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4268'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4268'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4268'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4268'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4268'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4268'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4261'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4261'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4261'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4261'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4261'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4261'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4264'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4264'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4264'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4264'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4264'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4264'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4262'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4262'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4262'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4262'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4262'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4262'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4266'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4266'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4266'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4266'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4266'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4266'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4265'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4265'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4265'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4265'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4265'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4265'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4267'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4267'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4267'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4267'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4267'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4267'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4263'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2147'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4263'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_2148'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4263'",
+    "'ECUMN_0242'": "'ECUMN_2068'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4263'",
+    "'ECUMN_0242'": "'ECUMN_2147'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4263'",
+    "'ECUMN_0242'": "'ECUMN_2148'",
+    "'ECUMN_4347'": "'ECUMN_3271'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4263'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_4447'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4342'",
+    "'ECUMN_0242'": "'ECUMN_4775'",
+    "'ECUMN_4347'": "'ECUMN_3960'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4342'",
+    "'ECUMN_0242'": "'ECUMN_4775'",
+    "'ECUMN_4347'": "'ECUMN_3959'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4342'",
+    "'ECUMN_0242'": "'ECUMN_4775'",
+    "'ECUMN_4347'": "'ECUMN_3958'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4342'",
+    "'ECUMN_0242'": "'ECUMN_4775'",
+    "'ECUMN_4347'": "'ECUMN_3957'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4342'",
+    "'ECUMN_0242'": "'ECUMN_4775'",
+    "'ECUMN_4347'": "'ECUMN_3961'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0380'",
+    "'ECUMN_0242'": "'ECUMN_1103'",
+    "'ECUMN_4347'": "'ECUMN_3068'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_1995'",
+    "'ECUMN_0242'": "'ECUMN_2926'",
+    "'ECUMN_4347'": "'ECUMN_0838'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4305'",
+    "'ECUMN_0242'": "'ECUMN_2908'",
+    "'ECUMN_4347'": "'ECUMN_3985'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2068'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_1992'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2068'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2068'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2068'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2068'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3110'",
+    "'ECUMN_0242'": "'ECUMN_3862'",
+    "'ECUMN_4347'": "'ECUMN_1992'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_1900'",
+    "'ECUMN_0242'": "'ECUMN_1901'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3245'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_3254'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3245'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_5012'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3244'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_3254'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3244'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_5012'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3246'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_3254'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3246'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_5012'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2371'",
+    "'ECUMN_0242'": "'ECUMN_4900'",
+    "'ECUMN_4347'": "'ECUMN_3844'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3985'",
+    "'ECUMN_0242'": "'ECUMN_2571'",
+    "'ECUMN_4347'": "'ECUMN_4771'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3985'",
+    "'ECUMN_0242'": "'ECUMN_2572'",
+    "'ECUMN_4347'": "'ECUMN_4771'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3209'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3209'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3209'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3209'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3209'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3211'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3211'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3211'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3211'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3211'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3210'",
+    "'ECUMN_0242'": "'ECUMN_4541'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3210'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3210'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3210'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3210'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4541'",
+    "'ECUMN_0242'": "'ECUMN_0569'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4541'",
+    "'ECUMN_0242'": "'ECUMN_3254'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4541'",
+    "'ECUMN_0242'": "'ECUMN_3271'",
+    "'ECUMN_4347'": "'ECUMN_1992'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4541'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_5012'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4541'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0546'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3451'",
+    "'ECUMN_0242'": "'ECUMN_4540'",
+    "'ECUMN_4347'": "'ECUMN_4487'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0146'",
+    "'ECUMN_0242'": "'ECUMN_3854'",
+    "'ECUMN_4347'": "'ECUMN_2839'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0849'",
+    "'ECUMN_0242'": "'ECUMN_4445'",
+    "'ECUMN_4347'": "'ECUMN_2746'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0848'",
+    "'ECUMN_0242'": "'ECUMN_4445'",
+    "'ECUMN_4347'": "'ECUMN_2746'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0850'",
+    "'ECUMN_0242'": "'ECUMN_4445'",
+    "'ECUMN_4347'": "'ECUMN_2746'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0569'",
+    "'ECUMN_0242'": "'ECUMN_1095'",
+    "'ECUMN_4347'": "'ECUMN_4482'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0569'",
+    "'ECUMN_0242'": "'ECUMN_1095'",
+    "'ECUMN_4347'": "'ECUMN_4483'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0569'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0569'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0569'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_0569'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_1580'",
+    "'ECUMN_0242'": "'ECUMN_1031'",
+    "'ECUMN_4347'": "'ECUMN_3540'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3254'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3254'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3254'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3254'",
+    "'ECUMN_0242'": "'ECUMN_4487'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3271'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3271'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3271'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3271'",
+    "'ECUMN_0242'": "'ECUMN_1992'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_5012'",
+    "'ECUMN_4347'": "'ECUMN_0799'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_5012'",
+    "'ECUMN_4347'": "'ECUMN_0802'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_5012'",
+    "'ECUMN_4347'": "'ECUMN_0801'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_5012'",
+    "'ECUMN_4347'": "'ECUMN_0800'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_0799'",
+    "'ECUMN_4347'": "'ECUMN_0546'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_0802'",
+    "'ECUMN_4347'": "'ECUMN_0546'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_0801'",
+    "'ECUMN_4347'": "'ECUMN_0546'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4487'",
+    "'ECUMN_0242'": "'ECUMN_0800'",
+    "'ECUMN_4347'": "'ECUMN_0546'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3837'",
+    "'ECUMN_0242'": "'ECUMN_5007'",
+    "'ECUMN_4347'": "'ECUMN_1504'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2571'",
+    "'ECUMN_0242'": "'ECUMN_3002'",
+    "'ECUMN_4347'": "'ECUMN_4771'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2571'",
+    "'ECUMN_0242'": "'ECUMN_3001'",
+    "'ECUMN_4347'": "'ECUMN_4771'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2572'",
+    "'ECUMN_0242'": "'ECUMN_3002'",
+    "'ECUMN_4347'": "'ECUMN_4771'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_2572'",
+    "'ECUMN_0242'": "'ECUMN_3001'",
+    "'ECUMN_4347'": "'ECUMN_4771'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3002'",
+    "'ECUMN_0242'": "'ECUMN_4771'",
+    "'ECUMN_4347'": "'ECUMN_1083'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3001'",
+    "'ECUMN_0242'": "'ECUMN_4771'",
+    "'ECUMN_4347'": "'ECUMN_1083'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_4900'",
+    "'ECUMN_0242'": "'ECUMN_3844'",
+    "'ECUMN_4347'": "'ECUMN_3255'"
+  },
+  {
+    "'ECUMN_1143'": "'ECUMN_3255'",
+    "'ECUMN_0242'": "'ECUMN_0009'",
+    "'ECUMN_4347'": "'ECUMN_2776'"
+  }
+]

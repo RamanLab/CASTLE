@@ -262,6 +262,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
                             if (index == 0) {
                                 var org = colData.split("&nbsp;").join("_");
+								var words = colData.split("&nbsp;")
+								var org_proper = '<i>' + words[0] + ' ' + words[1] + '</i> ' + words[2] + ' ' + words[3]
                                 var y = colData.toLowerCase();
                                 if (y.includes(query)) {
                                     html += '<tr>';
@@ -270,7 +272,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                                             html += '<td width="100px"><center><a href="Synthetic_Lethal/';
                                             html += org;
                                             html += '.html"><u>';
-                                            html += c;
+                                            html += org_proper.replace(" undefined", "");
                                             html += '</u></a></center>';
                                             html += '</td>';
                                             html += '<td><a href="zip/';

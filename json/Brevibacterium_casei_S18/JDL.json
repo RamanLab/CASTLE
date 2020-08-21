@@ -1,0 +1,510 @@
+[
+  {
+    "'2DMMQ8abc'": "'2DMMQ8abc'",
+    "'AMMQT8r'": "'EX_mqn8(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'2DMMQ8abc'",
+    "'AMMQT8r'": "'MK8t'"
+  },
+  {
+    "'2DMMQ8abc'": "'2MEBCOADH'",
+    "'AMMQT8r'": "'OIVD3'"
+  },
+  {
+    "'2DMMQ8abc'": "'3HAD160'",
+    "'AMMQT8r'": "'ACACT7r'"
+  },
+  {
+    "'2DMMQ8abc'": "'3HAD160'",
+    "'AMMQT8r'": "'ACOAD7i'"
+  },
+  {
+    "'2DMMQ8abc'": "'3HAD160'",
+    "'AMMQT8r'": "'ECOAH7'"
+  },
+  {
+    "'2DMMQ8abc'": "'3HAD160'",
+    "'AMMQT8r'": "'HACD7'"
+  },
+  {
+    "'2DMMQ8abc'": "'3HAD160'",
+    "'AMMQT8r'": "'PMTCOATA'"
+  },
+  {
+    "'2DMMQ8abc'": "'3MEBCOADH'",
+    "'AMMQT8r'": "'OIVD1r'"
+  },
+  {
+    "'2DMMQ8abc'": "'3MOPt2r'",
+    "'AMMQT8r'": "'ACHBPL'"
+  },
+  {
+    "'2DMMQ8abc'": "'3MOPt2r'",
+    "'AMMQT8r'": "'DHAD2'"
+  },
+  {
+    "'2DMMQ8abc'": "'ACACT7r'",
+    "'AMMQT8r'": "'EAR160x'"
+  },
+  {
+    "'2DMMQ8abc'": "'ACHBPL'",
+    "'AMMQT8r'": "'EX_3mop(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ACLS_b'",
+    "'AMMQT8r'": "'EX_val_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ACLS_b'",
+    "'AMMQT8r'": "'VALt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'ACOAAGPAT180'",
+    "'AMMQT8r'": "'AGPAT180'"
+  },
+  {
+    "'2DMMQ8abc'": "'ACOAD7i'",
+    "'AMMQT8r'": "'EAR160x'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADAD'",
+    "'AMMQT8r'": "'RNDR3'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADK10'",
+    "'AMMQT8r'": "'NDPK4'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADK3'",
+    "'AMMQT8r'": "'NDPK1'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADK8'",
+    "'AMMQT8r'": "'NDPK7'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADK9'",
+    "'AMMQT8r'": "'NDPK5'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADNCNT3tc'",
+    "'AMMQT8r'": "'ADSL1r'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADNCNT3tc'",
+    "'AMMQT8r'": "'ADSS'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADSL1r'",
+    "'AMMQT8r'": "'EX_adn(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ADSS'",
+    "'AMMQT8r'": "'EX_adn(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'AHC'",
+    "'AMMQT8r'": "'METAT'"
+  },
+  {
+    "'2DMMQ8abc'": "'ALAR'",
+    "'AMMQT8r'": "'DALAt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'ALAR'",
+    "'AMMQT8r'": "'EX_ala_D(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'AMMQT8r'",
+    "'AMMQT8r'": "'EX_2dmmq8(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'AMMQT8r'",
+    "'AMMQT8r'": "'METAT'"
+  },
+  {
+    "'2DMMQ8abc'": "'ANPRT'",
+    "'AMMQT8r'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ANPRT'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'APATr'",
+    "'AMMQT8r'": "'ASP1DC'"
+  },
+  {
+    "'2DMMQ8abc'": "'ARGSL'",
+    "'AMMQT8r'": "'ARGt2'"
+  },
+  {
+    "'2DMMQ8abc'": "'ARGSL'",
+    "'AMMQT8r'": "'EX_arg_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ARGSS'",
+    "'AMMQT8r'": "'ARGt2'"
+  },
+  {
+    "'2DMMQ8abc'": "'ARGSS'",
+    "'AMMQT8r'": "'EX_arg_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ARGt2'",
+    "'AMMQT8r'": "'CBPS'"
+  },
+  {
+    "'2DMMQ8abc'": "'ARGt2'",
+    "'AMMQT8r'": "'H2CO3D'"
+  },
+  {
+    "'2DMMQ8abc'": "'ASNt2r'",
+    "'AMMQT8r'": "'EX_glyasn(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'ASNt2r'",
+    "'AMMQT8r'": "'GLYASN1c'"
+  },
+  {
+    "'2DMMQ8abc'": "'ASNt2r'",
+    "'AMMQT8r'": "'GLYASNabc'"
+  },
+  {
+    "'2DMMQ8abc'": "'CBPS'",
+    "'AMMQT8r'": "'EX_arg_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'CGLYabc'",
+    "'AMMQT8r'": "'EX_gthrd(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'CGLYabc'",
+    "'AMMQT8r'": "'GTHRDt2'"
+  },
+  {
+    "'2DMMQ8abc'": "'CHORS'",
+    "'AMMQT8r'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'CHORS'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'CYTK1'",
+    "'AMMQT8r'": "'NTD4'"
+  },
+  {
+    "'2DMMQ8abc'": "'CYTK2'",
+    "'AMMQT8r'": "'RNDR3'"
+  },
+  {
+    "'2DMMQ8abc'": "'DAPDC'",
+    "'AMMQT8r'": "'EX_lys_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'DAPDC'",
+    "'AMMQT8r'": "'LYSt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'DCYTt2r'",
+    "'AMMQT8r'": "'RNDR3'"
+  },
+  {
+    "'2DMMQ8abc'": "'DDPA'",
+    "'AMMQT8r'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'DDPA'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'DGK1'",
+    "'AMMQT8r'": "'RNDR2'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHAD1'",
+    "'AMMQT8r'": "'EX_val_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHAD1'",
+    "'AMMQT8r'": "'VALt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHAD2'",
+    "'AMMQT8r'": "'EX_3mop(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHPPDA'",
+    "'AMMQT8r'": "'DHPPDA2'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHPPDA'",
+    "'AMMQT8r'": "'GTPCII2'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHPPDA2'",
+    "'AMMQT8r'": "'GTPCII'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHQS'",
+    "'AMMQT8r'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHQS'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHQTi'",
+    "'AMMQT8r'": "'EX_trp_L(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'DHQTi'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'EAR160x'",
+    "'AMMQT8r'": "'ECOAH7'"
+  },
+  {
+    "'2DMMQ8abc'": "'EAR160x'",
+    "'AMMQT8r'": "'HACD7'"
+  },
+  {
+    "'2DMMQ8abc'": "'EAR160x'",
+    "'AMMQT8r'": "'PMTCOATA'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_2dmmq8(e)'",
+    "'AMMQT8r'": "'EX_mqn8(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_2dmmq8(e)'",
+    "'AMMQT8r'": "'MK8t'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_arg_L(e)'",
+    "'AMMQT8r'": "'H2CO3D'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_asn_L(e)'",
+    "'AMMQT8r'": "'EX_glyasn(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_asn_L(e)'",
+    "'AMMQT8r'": "'GLYASN1c'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_asn_L(e)'",
+    "'AMMQT8r'": "'GLYASNabc'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_cgly(e)'",
+    "'AMMQT8r'": "'EX_gthrd(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_cgly(e)'",
+    "'AMMQT8r'": "'GTHRDt2'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_dcyt(e)'",
+    "'AMMQT8r'": "'RNDR3'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_glyc3p(e)'",
+    "'AMMQT8r'": "'EX_pi(e)'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_gthrd(e)'",
+    "'AMMQT8r'": "'GGTA'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_mqn8(e)'",
+    "'AMMQT8r'": "'METAT'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_nac(e)'",
+    "'AMMQT8r'": "'NAPRT'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_nac(e)'",
+    "'AMMQT8r'": "'NNDPR'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_nac(e)'",
+    "'AMMQT8r'": "'QULNS'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_ppi(e)'",
+    "'AMMQT8r'": "'PPA'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_trp_L(e)'",
+    "'AMMQT8r'": "'IGPS'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_trp_L(e)'",
+    "'AMMQT8r'": "'PRAI'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_trp_L(e)'",
+    "'AMMQT8r'": "'PSCVT'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_trp_L(e)'",
+    "'AMMQT8r'": "'SHK3Dr'"
+  },
+  {
+    "'2DMMQ8abc'": "'EX_trp_L(e)'",
+    "'AMMQT8r'": "'SHKK'"
+  },
+  {
+    "'2DMMQ8abc'": "'FE3abc'",
+    "'AMMQT8r'": "'FE3t4'"
+  },
+  {
+    "'2DMMQ8abc'": "'FTHFL'",
+    "'AMMQT8r'": "'MTHFC'"
+  },
+  {
+    "'2DMMQ8abc'": "'GGTA'",
+    "'AMMQT8r'": "'GTHRDt2'"
+  },
+  {
+    "'2DMMQ8abc'": "'GK1'",
+    "'AMMQT8r'": "'GK2'"
+  },
+  {
+    "'2DMMQ8abc'": "'GMPS2'",
+    "'AMMQT8r'": "'GUAPRT'"
+  },
+  {
+    "'2DMMQ8abc'": "'GTPCII'",
+    "'AMMQT8r'": "'GTPCII2'"
+  },
+  {
+    "'2DMMQ8abc'": "'IGPS'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'METAT'",
+    "'AMMQT8r'": "'MK8t'"
+  },
+  {
+    "'2DMMQ8abc'": "'METFR'",
+    "'AMMQT8r'": "'r0792'"
+  },
+  {
+    "'2DMMQ8abc'": "'MG2abc'",
+    "'AMMQT8r'": "'MGt5'"
+  },
+  {
+    "'2DMMQ8abc'": "'NACt2r'",
+    "'AMMQT8r'": "'NAPRT'"
+  },
+  {
+    "'2DMMQ8abc'": "'NACt2r'",
+    "'AMMQT8r'": "'NNDPR'"
+  },
+  {
+    "'2DMMQ8abc'": "'NACt2r'",
+    "'AMMQT8r'": "'QULNS'"
+  },
+  {
+    "'2DMMQ8abc'": "'NADK'",
+    "'AMMQT8r'": "'NADK2'"
+  },
+  {
+    "'2DMMQ8abc'": "'NAPRT'",
+    "'AMMQT8r'": "'NNDPR'"
+  },
+  {
+    "'2DMMQ8abc'": "'NAPRT'",
+    "'AMMQT8r'": "'QULNS'"
+  },
+  {
+    "'2DMMQ8abc'": "'NDPK2'",
+    "'AMMQT8r'": "'UTPATPT'"
+  },
+  {
+    "'2DMMQ8abc'": "'NMNAT'",
+    "'AMMQT8r'": "'NNATr'"
+  },
+  {
+    "'2DMMQ8abc'": "'NNATr'",
+    "'AMMQT8r'": "'r0527'"
+  },
+  {
+    "'2DMMQ8abc'": "'PPA'",
+    "'AMMQT8r'": "'PPIt2e'"
+  },
+  {
+    "'2DMMQ8abc'": "'PPNCL3'",
+    "'AMMQT8r'": "'r0671'"
+  },
+  {
+    "'2DMMQ8abc'": "'PRAI'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'PSCVT'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'PUNP4'",
+    "'AMMQT8r'": "'RNDR2'"
+  },
+  {
+    "'2DMMQ8abc'": "'RNDR2'",
+    "'AMMQT8r'": "'r0456'"
+  },
+  {
+    "'2DMMQ8abc'": "'RPE'",
+    "'AMMQT8r'": "'RPI'"
+  },
+  {
+    "'2DMMQ8abc'": "'RPE'",
+    "'AMMQT8r'": "'TKT1'"
+  },
+  {
+    "'2DMMQ8abc'": "'RPE'",
+    "'AMMQT8r'": "'TKT2'"
+  },
+  {
+    "'2DMMQ8abc'": "'RPI'",
+    "'AMMQT8r'": "'TKT1'"
+  },
+  {
+    "'2DMMQ8abc'": "'RPI'",
+    "'AMMQT8r'": "'TKT2'"
+  },
+  {
+    "'2DMMQ8abc'": "'SHK3Dr'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'SHKK'",
+    "'AMMQT8r'": "'TRPt2r'"
+  },
+  {
+    "'2DMMQ8abc'": "'TALA'",
+    "'AMMQT8r'": "'TKT1'"
+  },
+  {
+    "'2DMMQ8abc'": "'THMabc'",
+    "'AMMQT8r'": "'THMt3'"
+  },
+  {
+    "'2DMMQ8abc'": "'TKT1'",
+    "'AMMQT8r'": "'TKT2'"
+  },
+  {
+    "'2DMMQ8abc'": "'TMDK1'",
+    "'AMMQT8r'": "'TMDK2'"
+  },
+  {
+    "'2DMMQ8abc'": "'ZN2t4'",
+    "'AMMQT8r'": "'ZNabc'"
+  }
+]

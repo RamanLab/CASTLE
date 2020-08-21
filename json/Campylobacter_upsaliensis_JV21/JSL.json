@@ -1,0 +1,419 @@
+[
+  {
+    "'ACGK'": "'ACOTA'"
+  },
+  {
+    "'ACGK'": "'ACPS1'"
+  },
+  {
+    "'ACGK'": "'ADSL1r'"
+  },
+  {
+    "'ACGK'": "'ADSL2r'"
+  },
+  {
+    "'ACGK'": "'ADSS'"
+  },
+  {
+    "'ACGK'": "'AGPR'"
+  },
+  {
+    "'ACGK'": "'AICART'"
+  },
+  {
+    "'ACGK'": "'AIRC4'"
+  },
+  {
+    "'ACGK'": "'ALAALA'"
+  },
+  {
+    "'ACGK'": "'ANPRT'"
+  },
+  {
+    "'ACGK'": "'APRAUR'"
+  },
+  {
+    "'ACGK'": "'ARGSL'"
+  },
+  {
+    "'ACGK'": "'ARGSSr'"
+  },
+  {
+    "'ACGK'": "'ASAD'"
+  },
+  {
+    "'ACGK'": "'ASP1DC'"
+  },
+  {
+    "'ACGK'": "'ASPCT'"
+  },
+  {
+    "'ACGK'": "'ASPKi'"
+  },
+  {
+    "'ACGK'": "'BPNT'"
+  },
+  {
+    "'ACGK'": "'CA2abc'"
+  },
+  {
+    "'ACGK'": "'CBPS'"
+  },
+  {
+    "'ACGK'": "'CDPMEK'"
+  },
+  {
+    "'ACGK'": "'CHORS'"
+  },
+  {
+    "'ACGK'": "'COBALTt5'"
+  },
+  {
+    "'ACGK'": "'CYTK1'"
+  },
+  {
+    "'ACGK'": "'Cuabc'"
+  },
+  {
+    "'ACGK'": "'DAPE'"
+  },
+  {
+    "'ACGK'": "'DB4PS'"
+  },
+  {
+    "'ACGK'": "'DDPA'"
+  },
+  {
+    "'ACGK'": "'DHDPRy'"
+  },
+  {
+    "'ACGK'": "'DHDPS'"
+  },
+  {
+    "'ACGK'": "'DHORTS'"
+  },
+  {
+    "'ACGK'": "'DHPPDA'"
+  },
+  {
+    "'ACGK'": "'DHQS'"
+  },
+  {
+    "'ACGK'": "'DHQTi'"
+  },
+  {
+    "'ACGK'": "'DMATT'"
+  },
+  {
+    "'ACGK'": "'DPCOAK'"
+  },
+  {
+    "'ACGK'": "'DPRr'"
+  },
+  {
+    "'ACGK'": "'DTMPK'"
+  },
+  {
+    "'ACGK'": "'DXPRIr'"
+  },
+  {
+    "'ACGK'": "'DXPS'"
+  },
+  {
+    "'ACGK'": "'ENO'"
+  },
+  {
+    "'ACGK'": "'EX_biomass(e)'"
+  },
+  {
+    "'ACGK'": "'EX_ca2(e)'"
+  },
+  {
+    "'ACGK'": "'EX_cl(e)'"
+  },
+  {
+    "'ACGK'": "'EX_cobalt2(e)'"
+  },
+  {
+    "'ACGK'": "'EX_cu2(e)'"
+  },
+  {
+    "'ACGK'": "'EX_fe2(e)'"
+  },
+  {
+    "'ACGK'": "'EX_fe3(e)'"
+  },
+  {
+    "'ACGK'": "'EX_ile_L(e)'"
+  },
+  {
+    "'ACGK'": "'EX_k(e)'"
+  },
+  {
+    "'ACGK'": "'EX_mg2(e)'"
+  },
+  {
+    "'ACGK'": "'EX_mn2(e)'"
+  },
+  {
+    "'ACGK'": "'EX_pydx(e)'"
+  },
+  {
+    "'ACGK'": "'EX_so4(e)'"
+  },
+  {
+    "'ACGK'": "'EX_val_L(e)'"
+  },
+  {
+    "'ACGK'": "'EX_zn2(e)'"
+  },
+  {
+    "'ACGK'": "'FE2abc'"
+  },
+  {
+    "'ACGK'": "'FMNAT'"
+  },
+  {
+    "'ACGK'": "'G1PACT'"
+  },
+  {
+    "'ACGK'": "'GAPD'"
+  },
+  {
+    "'ACGK'": "'GARFTi'"
+  },
+  {
+    "'ACGK'": "'GF6PTA'"
+  },
+  {
+    "'ACGK'": "'GHMT2r'"
+  },
+  {
+    "'ACGK'": "'GLUPRT'"
+  },
+  {
+    "'ACGK'": "'GMPS2'"
+  },
+  {
+    "'ACGK'": "'GRTT'"
+  },
+  {
+    "'ACGK'": "'GTPCII'"
+  },
+  {
+    "'ACGK'": "'H2CO3D'"
+  },
+  {
+    "'ACGK'": "'IGPS'"
+  },
+  {
+    "'ACGK'": "'ILEabc'"
+  },
+  {
+    "'ACGK'": "'IMPC'"
+  },
+  {
+    "'ACGK'": "'IMPD'"
+  },
+  {
+    "'ACGK'": "'MECDPDH2'"
+  },
+  {
+    "'ACGK'": "'MECDPS'"
+  },
+  {
+    "'ACGK'": "'MEPCT'"
+  },
+  {
+    "'ACGK'": "'METAT'"
+  },
+  {
+    "'ACGK'": "'MNabc'"
+  },
+  {
+    "'ACGK'": "'MOHMT'"
+  },
+  {
+    "'ACGK'": "'MTHFC'"
+  },
+  {
+    "'ACGK'": "'MTHFD'"
+  },
+  {
+    "'ACGK'": "'NAPRT'"
+  },
+  {
+    "'ACGK'": "'NNATr'"
+  },
+  {
+    "'ACGK'": "'OCBT'"
+  },
+  {
+    "'ACGK'": "'OMPDC'"
+  },
+  {
+    "'ACGK'": "'ORNTAC'"
+  },
+  {
+    "'ACGK'": "'OROTPT'"
+  },
+  {
+    "'ACGK'": "'PANTS'"
+  },
+  {
+    "'ACGK'": "'PAPPT3'"
+  },
+  {
+    "'ACGK'": "'PEPGLY'"
+  },
+  {
+    "'ACGK'": "'PGAMT'"
+  },
+  {
+    "'ACGK'": "'PGK'"
+  },
+  {
+    "'ACGK'": "'PGM'"
+  },
+  {
+    "'ACGK'": "'PMDPHT'"
+  },
+  {
+    "'ACGK'": "'PNTK'"
+  },
+  {
+    "'ACGK'": "'PPCDC'"
+  },
+  {
+    "'ACGK'": "'PPCKr'"
+  },
+  {
+    "'ACGK'": "'PRAGS'"
+  },
+  {
+    "'ACGK'": "'PRAI'"
+  },
+  {
+    "'ACGK'": "'PRAIS'"
+  },
+  {
+    "'ACGK'": "'PRASCSi'"
+  },
+  {
+    "'ACGK'": "'PRFGS'"
+  },
+  {
+    "'ACGK'": "'PRPPS'"
+  },
+  {
+    "'ACGK'": "'PSCVT'"
+  },
+  {
+    "'ACGK'": "'PTPAT'"
+  },
+  {
+    "'ACGK'": "'PYDXK'"
+  },
+  {
+    "'ACGK'": "'PYDXtr'"
+  },
+  {
+    "'ACGK'": "'RBFK'"
+  },
+  {
+    "'ACGK'": "'RBFSa'"
+  },
+  {
+    "'ACGK'": "'RBFSb'"
+  },
+  {
+    "'ACGK'": "'RNDR1'"
+  },
+  {
+    "'ACGK'": "'RNDR2'"
+  },
+  {
+    "'ACGK'": "'RNDR3'"
+  },
+  {
+    "'ACGK'": "'SDPDS'"
+  },
+  {
+    "'ACGK'": "'SDPTA'"
+  },
+  {
+    "'ACGK'": "'SHK3Dr'"
+  },
+  {
+    "'ACGK'": "'SHKK'"
+  },
+  {
+    "'ACGK'": "'SO4t2'"
+  },
+  {
+    "'ACGK'": "'THDPS'"
+  },
+  {
+    "'ACGK'": "'TMDSf2'"
+  },
+  {
+    "'ACGK'": "'TRDRr'"
+  },
+  {
+    "'ACGK'": "'UAAGDS'"
+  },
+  {
+    "'ACGK'": "'UAGCVT_r'"
+  },
+  {
+    "'ACGK'": "'UAGDP'"
+  },
+  {
+    "'ACGK'": "'UAGPT3'"
+  },
+  {
+    "'ACGK'": "'UAMAGS'"
+  },
+  {
+    "'ACGK'": "'UAMAS'"
+  },
+  {
+    "'ACGK'": "'UAPGR'"
+  },
+  {
+    "'ACGK'": "'UDCPDP'"
+  },
+  {
+    "'ACGK'": "'UDCPDPS'"
+  },
+  {
+    "'ACGK'": "'UGMDDS'"
+  },
+  {
+    "'ACGK'": "'UMPK'"
+  },
+  {
+    "'ACGK'": "'URIDK3'"
+  },
+  {
+    "'ACGK'": "'VALTA'"
+  },
+  {
+    "'ACGK'": "'VALabc'"
+  },
+  {
+    "'ACGK'": "'dreplication'"
+  },
+  {
+    "'ACGK'": "'pbiosynthesis'"
+  },
+  {
+    "'ACGK'": "'r2137'"
+  },
+  {
+    "'ACGK'": "'rtranscription'"
+  },
+  {
+    "'ACGK'": "'biomass525'"
+  }
+]

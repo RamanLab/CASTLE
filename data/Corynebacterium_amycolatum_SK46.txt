@@ -1,0 +1,17 @@
+Growth Rate:98.386
+
+Human Pathogen: Yes (opportunistic)
+
+#Jsl: 223
+
+#Jdl:214
+
+#Jtl:367
+
+#Sgd:161
+
+#Dgd:35
+
+#Tgd:35
+
+Database Link: https://www.vmh.life/#microbe/Corynebacterium_amycolatum_SK46

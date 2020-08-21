@@ -1,0 +1,731 @@
+[
+  {
+    "'ACCOAC'": "'ACGK'"
+  },
+  {
+    "'ACCOAC'": "'ACHBS'"
+  },
+  {
+    "'ACCOAC'": "'ACLS'"
+  },
+  {
+    "'ACCOAC'": "'ACOTA'"
+  },
+  {
+    "'ACCOAC'": "'ADCL'"
+  },
+  {
+    "'ACCOAC'": "'ADCS'"
+  },
+  {
+    "'ACCOAC'": "'ADK1'"
+  },
+  {
+    "'ACCOAC'": "'ADKd'"
+  },
+  {
+    "'ACCOAC'": "'ADMDC'"
+  },
+  {
+    "'ACCOAC'": "'ADPT'"
+  },
+  {
+    "'ACCOAC'": "'ADSK'"
+  },
+  {
+    "'ACCOAC'": "'ADSL1r'"
+  },
+  {
+    "'ACCOAC'": "'ADSL2r'"
+  },
+  {
+    "'ACCOAC'": "'ADSS'"
+  },
+  {
+    "'ACCOAC'": "'AGPR'"
+  },
+  {
+    "'ACCOAC'": "'AICART'"
+  },
+  {
+    "'ACCOAC'": "'AIRC2'"
+  },
+  {
+    "'ACCOAC'": "'AIRC3'"
+  },
+  {
+    "'ACCOAC'": "'AKGDa'"
+  },
+  {
+    "'ACCOAC'": "'AKGDb'"
+  },
+  {
+    "'ACCOAC'": "'ALAR'"
+  },
+  {
+    "'ACCOAC'": "'ALATA_D'"
+  },
+  {
+    "'ACCOAC'": "'ANPRT'"
+  },
+  {
+    "'ACCOAC'": "'ANS'"
+  },
+  {
+    "'ACCOAC'": "'APRAUR'"
+  },
+  {
+    "'ACCOAC'": "'ASAD'"
+  },
+  {
+    "'ACCOAC'": "'ASNS1'"
+  },
+  {
+    "'ACCOAC'": "'ASPK'"
+  },
+  {
+    "'ACCOAC'": "'ASPTA'"
+  },
+  {
+    "'ACCOAC'": "'ATPPRT'"
+  },
+  {
+    "'ACCOAC'": "'BPNT'"
+  },
+  {
+    "'ACCOAC'": "'CHORM'"
+  },
+  {
+    "'ACCOAC'": "'CHORS'"
+  },
+  {
+    "'ACCOAC'": "'CLPNS_SA'"
+  },
+  {
+    "'ACCOAC'": "'CO2t'"
+  },
+  {
+    "'ACCOAC'": "'CPPPGO'"
+  },
+  {
+    "'ACCOAC'": "'CSNt2'"
+  },
+  {
+    "'ACCOAC'": "'CYSS'"
+  },
+  {
+    "'ACCOAC'": "'CYSTL'"
+  },
+  {
+    "'ACCOAC'": "'CYTBD'"
+  },
+  {
+    "'ACCOAC'": "'CYTD'"
+  },
+  {
+    "'ACCOAC'": "'CYTK1'"
+  },
+  {
+    "'ACCOAC'": "'DAPDC'"
+  },
+  {
+    "'ACCOAC'": "'DAPE'"
+  },
+  {
+    "'ACCOAC'": "'DASYN_SA'"
+  },
+  {
+    "'ACCOAC'": "'DB4PS'"
+  },
+  {
+    "'ACCOAC'": "'DDPA'"
+  },
+  {
+    "'ACCOAC'": "'DGK1'"
+  },
+  {
+    "'ACCOAC'": "'DHAD1'"
+  },
+  {
+    "'ACCOAC'": "'DHAD2'"
+  },
+  {
+    "'ACCOAC'": "'DHDPRy'"
+  },
+  {
+    "'ACCOAC'": "'DHDPS'"
+  },
+  {
+    "'ACCOAC'": "'DHFR'"
+  },
+  {
+    "'ACCOAC'": "'DHFS'"
+  },
+  {
+    "'ACCOAC'": "'DHNPA2r'"
+  },
+  {
+    "'ACCOAC'": "'DHPPDA'"
+  },
+  {
+    "'ACCOAC'": "'DHPS2'"
+  },
+  {
+    "'ACCOAC'": "'DHQTi'"
+  },
+  {
+    "'ACCOAC'": "'DHQS'"
+  },
+  {
+    "'ACCOAC'": "'DMATT'"
+  },
+  {
+    "'ACCOAC'": "'DPMVD'"
+  },
+  {
+    "'ACCOAC'": "'EX_co2_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_csn_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_fe2_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_nac_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_o2_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_pi_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_pro__L_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_so4_e'"
+  },
+  {
+    "'ACCOAC'": "'EX_thm_e'"
+  },
+  {
+    "'ACCOAC'": "'FCLT'"
+  },
+  {
+    "'ACCOAC'": "'FE2abc'"
+  },
+  {
+    "'ACCOAC'": "'FMNAT'"
+  },
+  {
+    "'ACCOAC'": "'FUM'"
+  },
+  {
+    "'ACCOAC'": "'G1PACT'"
+  },
+  {
+    "'ACCOAC'": "'G1SAT'"
+  },
+  {
+    "'ACCOAC'": "'G3PCT'"
+  },
+  {
+    "'ACCOAC'": "'G3PD2'"
+  },
+  {
+    "'ACCOAC'": "'GALUi'"
+  },
+  {
+    "'ACCOAC'": "'GARFT'"
+  },
+  {
+    "'ACCOAC'": "'GCALDD'"
+  },
+  {
+    "'ACCOAC'": "'GF6PTA'"
+  },
+  {
+    "'ACCOAC'": "'GK1'"
+  },
+  {
+    "'ACCOAC'": "'GLCPcom_SA'"
+  },
+  {
+    "'ACCOAC'": "'GLNS'"
+  },
+  {
+    "'ACCOAC'": "'GLUPRT'"
+  },
+  {
+    "'ACCOAC'": "'GLUR'"
+  },
+  {
+    "'ACCOAC'": "'GLUTRR'"
+  },
+  {
+    "'ACCOAC'": "'GLUTRS'"
+  },
+  {
+    "'ACCOAC'": "'GMPS2'"
+  },
+  {
+    "'ACCOAC'": "'GRTT'"
+  },
+  {
+    "'ACCOAC'": "'GTPCI'"
+  },
+  {
+    "'ACCOAC'": "'GTPCII'"
+  },
+  {
+    "'ACCOAC'": "'HCO3E'"
+  },
+  {
+    "'ACCOAC'": "'HEMEOS'"
+  },
+  {
+    "'ACCOAC'": "'HISTD'"
+  },
+  {
+    "'ACCOAC'": "'HISTP'"
+  },
+  {
+    "'ACCOAC'": "'HMBS'"
+  },
+  {
+    "'ACCOAC'": "'HMGCOAR'"
+  },
+  {
+    "'ACCOAC'": "'HMGCOAS'"
+  },
+  {
+    "'ACCOAC'": "'HPPK2'"
+  },
+  {
+    "'ACCOAC'": "'HSDy'"
+  },
+  {
+    "'ACCOAC'": "'HSK'"
+  },
+  {
+    "'ACCOAC'": "'HSTPT'"
+  },
+  {
+    "'ACCOAC'": "'IG3PS'"
+  },
+  {
+    "'ACCOAC'": "'IGPDH'"
+  },
+  {
+    "'ACCOAC'": "'IGPS'"
+  },
+  {
+    "'ACCOAC'": "'ILETA'"
+  },
+  {
+    "'ACCOAC'": "'IMPC'"
+  },
+  {
+    "'ACCOAC'": "'IMPD'"
+  },
+  {
+    "'ACCOAC'": "'IPDDI'"
+  },
+  {
+    "'ACCOAC'": "'IPMD'"
+  },
+  {
+    "'ACCOAC'": "'IPPMIa'"
+  },
+  {
+    "'ACCOAC'": "'IPPMIb'"
+  },
+  {
+    "'ACCOAC'": "'IPPS'"
+  },
+  {
+    "'ACCOAC'": "'KARA1'"
+  },
+  {
+    "'ACCOAC'": "'KARA2'"
+  },
+  {
+    "'ACCOAC'": "'KAS1'"
+  },
+  {
+    "'ACCOAC'": "'KAS11'"
+  },
+  {
+    "'ACCOAC'": "'KAS12'"
+  },
+  {
+    "'ACCOAC'": "'KAS13'"
+  },
+  {
+    "'ACCOAC'": "'KAS19SA'"
+  },
+  {
+    "'ACCOAC'": "'KAS2'"
+  },
+  {
+    "'ACCOAC'": "'KAS20SA'"
+  },
+  {
+    "'ACCOAC'": "'KAS3'"
+  },
+  {
+    "'ACCOAC'": "'KAS4'"
+  },
+  {
+    "'ACCOAC'": "'KAS6'"
+  },
+  {
+    "'ACCOAC'": "'KAS8'"
+  },
+  {
+    "'ACCOAC'": "'LEUTA'"
+  },
+  {
+    "'ACCOAC'": "'MDRPD'"
+  },
+  {
+    "'ACCOAC'": "'METAT'"
+  },
+  {
+    "'ACCOAC'": "'METS'"
+  },
+  {
+    "'ACCOAC'": "'MTAN'"
+  },
+  {
+    "'ACCOAC'": "'MTHFR2'"
+  },
+  {
+    "'ACCOAC'": "'MTRI'"
+  },
+  {
+    "'ACCOAC'": "'MTRK'"
+  },
+  {
+    "'ACCOAC'": "'NACt'"
+  },
+  {
+    "'ACCOAC'": "'NADK'"
+  },
+  {
+    "'ACCOAC'": "'NADS1'"
+  },
+  {
+    "'ACCOAC'": "'NAPRT'"
+  },
+  {
+    "'ACCOAC'": "'NDPK1'"
+  },
+  {
+    "'ACCOAC'": "'NDPK2'"
+  },
+  {
+    "'ACCOAC'": "'NDPK3'"
+  },
+  {
+    "'ACCOAC'": "'NDPK8'"
+  },
+  {
+    "'ACCOAC'": "'NNATr'"
+  },
+  {
+    "'ACCOAC'": "'O2t'"
+  },
+  {
+    "'ACCOAC'": "'OCBT'"
+  },
+  {
+    "'ACCOAC'": "'OIVD1r'"
+  },
+  {
+    "'ACCOAC'": "'OIVD2'"
+  },
+  {
+    "'ACCOAC'": "'OIVD3'"
+  },
+  {
+    "'ACCOAC'": "'OMCDC'"
+  },
+  {
+    "'ACCOAC'": "'ORNTAC'"
+  },
+  {
+    "'ACCOAC'": "'P5CD'"
+  },
+  {
+    "'ACCOAC'": "'PALASA_SA2'"
+  },
+  {
+    "'ACCOAC'": "'PAPA_SA'"
+  },
+  {
+    "'ACCOAC'": "'PAPSR'"
+  },
+  {
+    "'ACCOAC'": "'PASYN_SA'"
+  },
+  {
+    "'ACCOAC'": "'PDHcr'"
+  },
+  {
+    "'ACCOAC'": "'PGAMT'"
+  },
+  {
+    "'ACCOAC'": "'PGCD'"
+  },
+  {
+    "'ACCOAC'": "'PGLYSA_SA2'"
+  },
+  {
+    "'ACCOAC'": "'PGMT'"
+  },
+  {
+    "'ACCOAC'": "'PGPP_SA'"
+  },
+  {
+    "'ACCOAC'": "'PGSA_SA'"
+  },
+  {
+    "'ACCOAC'": "'PHETA1'"
+  },
+  {
+    "'ACCOAC'": "'PLEUSA_SA2'"
+  },
+  {
+    "'ACCOAC'": "'PLYSSA_SA2'"
+  },
+  {
+    "'ACCOAC'": "'PMDPHT'"
+  },
+  {
+    "'ACCOAC'": "'PMEVK'"
+  },
+  {
+    "'ACCOAC'": "'PPA'"
+  },
+  {
+    "'ACCOAC'": "'PPBNGS'"
+  },
+  {
+    "'ACCOAC'": "'PPM'"
+  },
+  {
+    "'ACCOAC'": "'PPND'"
+  },
+  {
+    "'ACCOAC'": "'PPNDH'"
+  },
+  {
+    "'ACCOAC'": "'PPPGO'"
+  },
+  {
+    "'ACCOAC'": "'PRAGSr'"
+  },
+  {
+    "'ACCOAC'": "'PRAIi'"
+  },
+  {
+    "'ACCOAC'": "'PRAIS'"
+  },
+  {
+    "'ACCOAC'": "'PRAMPC'"
+  },
+  {
+    "'ACCOAC'": "'PRASCSi'"
+  },
+  {
+    "'ACCOAC'": "'PRATPP'"
+  },
+  {
+    "'ACCOAC'": "'PRFGS'"
+  },
+  {
+    "'ACCOAC'": "'PRMICI'"
+  },
+  {
+    "'ACCOAC'": "'PROD2'"
+  },
+  {
+    "'ACCOAC'": "'PRPPS'"
+  },
+  {
+    "'ACCOAC'": "'PSCVT'"
+  },
+  {
+    "'ACCOAC'": "'PSD_SA'"
+  },
+  {
+    "'ACCOAC'": "'PSERT'"
+  },
+  {
+    "'ACCOAC'": "'PSP_L'"
+  },
+  {
+    "'ACCOAC'": "'PSSA_SA'"
+  },
+  {
+    "'ACCOAC'": "'PYNP1'"
+  },
+  {
+    "'ACCOAC'": "'RBFK'"
+  },
+  {
+    "'ACCOAC'": "'RBFSa'"
+  },
+  {
+    "'ACCOAC'": "'RBFSb'"
+  },
+  {
+    "'ACCOAC'": "'RPE'"
+  },
+  {
+    "'ACCOAC'": "'RPI'"
+  },
+  {
+    "'ACCOAC'": "'SADT2'"
+  },
+  {
+    "'ACCOAC'": "'SA_free_FA'"
+  },
+  {
+    "'ACCOAC'": "'SDPDS'"
+  },
+  {
+    "'ACCOAC'": "'SDPTA'"
+  },
+  {
+    "'ACCOAC'": "'SERAT'"
+  },
+  {
+    "'ACCOAC'": "'SHCHD2'"
+  },
+  {
+    "'ACCOAC'": "'SHCHF'"
+  },
+  {
+    "'ACCOAC'": "'SHK3Dr'"
+  },
+  {
+    "'ACCOAC'": "'SHKK'"
+  },
+  {
+    "'ACCOAC'": "'SHSL1'"
+  },
+  {
+    "'ACCOAC'": "'SHSL4r'"
+  },
+  {
+    "'ACCOAC'": "'SPMS'"
+  },
+  {
+    "'ACCOAC'": "'SUCD1'"
+  },
+  {
+    "'ACCOAC'": "'SUCD4'"
+  },
+  {
+    "'ACCOAC'": "'SUCOAS'"
+  },
+  {
+    "'ACCOAC'": "'SULR'"
+  },
+  {
+    "'ACCOAC'": "'SULabc'"
+  },
+  {
+    "'ACCOAC'": "'TAGO'"
+  },
+  {
+    "'ACCOAC'": "'TECA1S'"
+  },
+  {
+    "'ACCOAC'": "'TECA2S'"
+  },
+  {
+    "'ACCOAC'": "'TECA3S'"
+  },
+  {
+    "'ACCOAC'": "'TECA4S'"
+  },
+  {
+    "'ACCOAC'": "'THDPS'"
+  },
+  {
+    "'ACCOAC'": "'THMabc'"
+  },
+  {
+    "'ACCOAC'": "'THRD_L'"
+  },
+  {
+    "'ACCOAC'": "'THRS'"
+  },
+  {
+    "'ACCOAC'": "'TKT2'"
+  },
+  {
+    "'ACCOAC'": "'TMDS'"
+  },
+  {
+    "'ACCOAC'": "'TRDR'"
+  },
+  {
+    "'ACCOAC'": "'TRPS1'"
+  },
+  {
+    "'ACCOAC'": "'TYRTA'"
+  },
+  {
+    "'ACCOAC'": "'UAG2E'"
+  },
+  {
+    "'ACCOAC'": "'UAG4Ei'"
+  },
+  {
+    "'ACCOAC'": "'UAGCVT'"
+  },
+  {
+    "'ACCOAC'": "'UAGDP'"
+  },
+  {
+    "'ACCOAC'": "'UAPGR'"
+  },
+  {
+    "'ACCOAC'": "'UDPG12dgrGT_SA2'"
+  },
+  {
+    "'ACCOAC'": "'UDPG3g12dgrGT_SA2'"
+  },
+  {
+    "'ACCOAC'": "'UMPK'"
+  },
+  {
+    "'ACCOAC'": "'UNK3'"
+  },
+  {
+    "'ACCOAC'": "'UPP3MT'"
+  },
+  {
+    "'ACCOAC'": "'UPP3S'"
+  },
+  {
+    "'ACCOAC'": "'UPPDC1'"
+  },
+  {
+    "'ACCOAC'": "'VALTA'"
+  },
+  {
+    "'ACCOAC'": "'BIOMASS_SA_8a'"
+  },
+  {
+    "'ACCOAC'": "'SK_ahcys_c'"
+  },
+  {
+    "'ACCOAC'": "'SK_glyclt_c'"
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "'2MBCOATA'": "'3HAD10M12'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD11M12'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD12M14'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD13M14'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD14M16'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD15M16'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD4M6'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD5M6'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD6M8'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD7M8'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD8M10'"
+  },
+  {
+    "'2MBCOATA'": "'3HAD9M10'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR10M12'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR11M12'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR12M14'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR13M14'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR14M16'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR15M16'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR4M6'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR5M6'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR6M8'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR7M8'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR8M10'"
+  },
+  {
+    "'2MBCOATA'": "'3OAR9M10'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS10M12'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS11M12'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS12M14'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS13M14'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS3M4'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS4M3O6'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS4M6'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS5M6'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS6M8'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS7M8'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS8M10'"
+  },
+  {
+    "'2MBCOATA'": "'3OAS9M10'"
+  },
+  {
+    "'2MBCOATA'": "'ACBIPGT'"
+  },
+  {
+    "'2MBCOATA'": "'ACGAMT'"
+  },
+  {
+    "'2MBCOATA'": "'ACOAAGPATAI17'"
+  },
+  {
+    "'2MBCOATA'": "'ACOAAGPATI17'"
+  },
+  {
+    "'2MBCOATA'": "'ACPS1'"
+  },
+  {
+    "'2MBCOATA'": "'ADCL'"
+  },
+  {
+    "'2MBCOATA'": "'ADCS'"
+  },
+  {
+    "'2MBCOATA'": "'ADOCBLS'"
+  },
+  {
+    "'2MBCOATA'": "'AIHDUDPMG'"
+  },
+  {
+    "'2MBCOATA'": "'AIHDUPDG'"
+  },
+  {
+    "'2MBCOATA'": "'AIHPDCOATA'"
+  },
+  {
+    "'2MBCOATA'": "'AKP1'"
+  },
+  {
+    "'2MBCOATA'": "'ALAALA'"
+  },
+  {
+    "'2MBCOATA'": "'ALAPGPL'"
+  },
+  {
+    "'2MBCOATA'": "'AMMQLT8'"
+  },
+  {
+    "'2MBCOATA'": "'ARGt2'"
+  },
+  {
+    "'2MBCOATA'": "'ASAD'"
+  },
+  {
+    "'2MBCOATA'": "'ASPK'"
+  },
+  {
+    "'2MBCOATA'": "'BPNT'"
+  },
+  {
+    "'2MBCOATA'": "'CAt4i'"
+  },
+  {
+    "'2MBCOATA'": "'CBIAT'"
+  },
+  {
+    "'2MBCOATA'": "'CDPGLYCGPT'"
+  },
+  {
+    "'2MBCOATA'": "'CDPMEK'"
+  },
+  {
+    "'2MBCOATA'": "'CHORS'"
+  },
+  {
+    "'2MBCOATA'": "'CLPNS180'"
+  },
+  {
+    "'2MBCOATA'": "'CLPNSAI17'"
+  },
+  {
+    "'2MBCOATA'": "'CLPNSI17'"
+  },
+  {
+    "'2MBCOATA'": "'Cuabc'"
+  },
+  {
+    "'2MBCOATA'": "'DASYN180'"
+  },
+  {
+    "'2MBCOATA'": "'DASYNAI17'"
+  },
+  {
+    "'2MBCOATA'": "'DASYNI17'"
+  },
+  {
+    "'2MBCOATA'": "'DDPA'"
+  },
+  {
+    "'2MBCOATA'": "'DHDPRy'"
+  },
+  {
+    "'2MBCOATA'": "'DHDPS'"
+  },
+  {
+    "'2MBCOATA'": "'DHFR'"
+  },
+  {
+    "'2MBCOATA'": "'DHFS'"
+  },
+  {
+    "'2MBCOATA'": "'DHNAOT4'"
+  },
+  {
+    "'2MBCOATA'": "'DHQS'"
+  },
+  {
+    "'2MBCOATA'": "'DHQTi'"
+  },
+  {
+    "'2MBCOATA'": "'DMATT'"
+  },
+  {
+    "'2MBCOATA'": "'DM_4HBA'"
+  },
+  {
+    "'2MBCOATA'": "'DPCOAK'"
+  },
+  {
+    "'2MBCOATA'": "'DTMPK'"
+  },
+  {
+    "'2MBCOATA'": "'DXPRIr'"
+  },
+  {
+    "'2MBCOATA'": "'DXPS'"
+  },
+  {
+    "'2MBCOATA'": "'EAR10M12x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR11M12x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR12M14x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR13M14x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR14M16x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR15M16x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR4M6x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR5M6x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR6M8x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR7M8x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR8M10x'"
+  },
+  {
+    "'2MBCOATA'": "'EAR9M10x'"
+  },
+  {
+    "'2MBCOATA'": "'EX_biomass(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_ca2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_cl(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_cobalt2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_cu2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_fe2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_fe3(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_ile_L(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_k(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_mg2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_mn2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_pnto_R(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_so4(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_val_L(e)'"
+  },
+  {
+    "'2MBCOATA'": "'EX_zn2(e)'"
+  },
+  {
+    "'2MBCOATA'": "'FCLTc'"
+  },
+  {
+    "'2MBCOATA'": "'FE2abc'"
+  },
+  {
+    "'2MBCOATA'": "'FE3abc'"
+  },
+  {
+    "'2MBCOATA'": "'FMNAT'"
+  },
+  {
+    "'2MBCOATA'": "'G1SAT'"
+  },
+  {
+    "'2MBCOATA'": "'G3PATAI17'"
+  },
+  {
+    "'2MBCOATA'": "'G3PATI17'"
+  },
+  {
+    "'2MBCOATA'": "'G3PCT'"
+  },
+  {
+    "'2MBCOATA'": "'GLUCYS'"
+  },
+  {
+    "'2MBCOATA'": "'GLUPRT'"
+  },
+  {
+    "'2MBCOATA'": "'GLUR'"
+  },
+  {
+    "'2MBCOATA'": "'GLUTRR'"
+  },
+  {
+    "'2MBCOATA'": "'GLUTRS'"
+  },
+  {
+    "'2MBCOATA'": "'GRTT'"
+  },
+  {
+    "'2MBCOATA'": "'GTHS'"
+  },
+  {
+    "'2MBCOATA'": "'GTPCI'"
+  },
+  {
+    "'2MBCOATA'": "'HETT'"
+  },
+  {
+    "'2MBCOATA'": "'HMBS'"
+  },
+  {
+    "'2MBCOATA'": "'IHDUDPG'"
+  },
+  {
+    "'2MBCOATA'": "'IHDUDPMG'"
+  },
+  {
+    "'2MBCOATA'": "'IHPDCOATA'"
+  },
+  {
+    "'2MBCOATA'": "'ILETA'"
+  },
+  {
+    "'2MBCOATA'": "'ILEt2r'"
+  },
+  {
+    "'2MBCOATA'": "'IVCOATA'"
+  },
+  {
+    "'2MBCOATA'": "'LEUTA'"
+  },
+  {
+    "'2MBCOATA'": "'MCOATA'"
+  },
+  {
+    "'2MBCOATA'": "'MECDPDH2'"
+  },
+  {
+    "'2MBCOATA'": "'MECDPS'"
+  },
+  {
+    "'2MBCOATA'": "'MEPCT'"
+  },
+  {
+    "'2MBCOATA'": "'METAT'"
+  },
+  {
+    "'2MBCOATA'": "'MNt2'"
+  },
+  {
+    "'2MBCOATA'": "'NNDMBRT'"
+  },
+  {
+    "'2MBCOATA'": "'OIVD1r'"
+  },
+  {
+    "'2MBCOATA'": "'OIVD3'"
+  },
+  {
+    "'2MBCOATA'": "'PAAI17P'"
+  },
+  {
+    "'2MBCOATA'": "'PAI17P'"
+  },
+  {
+    "'2MBCOATA'": "'PAPPT3'"
+  },
+  {
+    "'2MBCOATA'": "'PEPGLY'"
+  },
+  {
+    "'2MBCOATA'": "'PGPGT'"
+  },
+  {
+    "'2MBCOATA'": "'PGPP180'"
+  },
+  {
+    "'2MBCOATA'": "'PGPPAI17'"
+  },
+  {
+    "'2MBCOATA'": "'PGPPI17'"
+  },
+  {
+    "'2MBCOATA'": "'PGSA180'"
+  },
+  {
+    "'2MBCOATA'": "'PGSAAI17'"
+  },
+  {
+    "'2MBCOATA'": "'PGSAI17'"
+  },
+  {
+    "'2MBCOATA'": "'PMPK'"
+  },
+  {
+    "'2MBCOATA'": "'PNTK'"
+  },
+  {
+    "'2MBCOATA'": "'PNTOabc'"
+  },
+  {
+    "'2MBCOATA'": "'PPBNGS'"
+  },
+  {
+    "'2MBCOATA'": "'PPCDC'"
+  },
+  {
+    "'2MBCOATA'": "'PRAGS'"
+  },
+  {
+    "'2MBCOATA'": "'PRAIS'"
+  },
+  {
+    "'2MBCOATA'": "'PRFGS'"
+  },
+  {
+    "'2MBCOATA'": "'PRPPS'"
+  },
+  {
+    "'2MBCOATA'": "'PSCVT'"
+  },
+  {
+    "'2MBCOATA'": "'PSD180'"
+  },
+  {
+    "'2MBCOATA'": "'PSDAI17'"
+  },
+  {
+    "'2MBCOATA'": "'PSDI17'"
+  },
+  {
+    "'2MBCOATA'": "'PSSA180'"
+  },
+  {
+    "'2MBCOATA'": "'PSSAAI17'"
+  },
+  {
+    "'2MBCOATA'": "'PSSAI17'"
+  },
+  {
+    "'2MBCOATA'": "'PTPAT'"
+  },
+  {
+    "'2MBCOATA'": "'RBFK'"
+  },
+  {
+    "'2MBCOATA'": "'RZ5PP'"
+  },
+  {
+    "'2MBCOATA'": "'SHK3Dr'"
+  },
+  {
+    "'2MBCOATA'": "'SHKK'"
+  },
+  {
+    "'2MBCOATA'": "'SO4t2'"
+  },
+  {
+    "'2MBCOATA'": "'SUDPDGT'"
+  },
+  {
+    "'2MBCOATA'": "'SUDPMGT'"
+  },
+  {
+    "'2MBCOATA'": "'TECA1S180'"
+  },
+  {
+    "'2MBCOATA'": "'TECA1SAI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA1SI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA2S180'"
+  },
+  {
+    "'2MBCOATA'": "'TECA2SAI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA2SI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA3S180'"
+  },
+  {
+    "'2MBCOATA'": "'TECA3SAI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA3SI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA4S'"
+  },
+  {
+    "'2MBCOATA'": "'TECA5S180'"
+  },
+  {
+    "'2MBCOATA'": "'TECA5SAI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECA5SI17'"
+  },
+  {
+    "'2MBCOATA'": "'TECAAE'"
+  },
+  {
+    "'2MBCOATA'": "'TECAGE'"
+  },
+  {
+    "'2MBCOATA'": "'TECAUE'"
+  },
+  {
+    "'2MBCOATA'": "'THZPSN'"
+  },
+  {
+    "'2MBCOATA'": "'TMPK'"
+  },
+  {
+    "'2MBCOATA'": "'TMPPP'"
+  },
+  {
+    "'2MBCOATA'": "'UAAGDS'"
+  },
+  {
+    "'2MBCOATA'": "'UACMAMAT'"
+  },
+  {
+    "'2MBCOATA'": "'UAG2E'"
+  },
+  {
+    "'2MBCOATA'": "'UAG4E'"
+  },
+  {
+    "'2MBCOATA'": "'UAGCVT_r'"
+  },
+  {
+    "'2MBCOATA'": "'UAGPT3'"
+  },
+  {
+    "'2MBCOATA'": "'UAMAGS'"
+  },
+  {
+    "'2MBCOATA'": "'UAMAS'"
+  },
+  {
+    "'2MBCOATA'": "'UAPGR'"
+  },
+  {
+    "'2MBCOATA'": "'UDCPDP'"
+  },
+  {
+    "'2MBCOATA'": "'UDCPDPS'"
+  },
+  {
+    "'2MBCOATA'": "'UGMDDS'"
+  },
+  {
+    "'2MBCOATA'": "'UMPK'"
+  },
+  {
+    "'2MBCOATA'": "'UPP3S'"
+  },
+  {
+    "'2MBCOATA'": "'UPPDC1'"
+  },
+  {
+    "'2MBCOATA'": "'VALt2r'"
+  },
+  {
+    "'2MBCOATA'": "'ZNabc'"
+  },
+  {
+    "'2MBCOATA'": "'dreplication'"
+  },
+  {
+    "'2MBCOATA'": "'pbiosynthesis'"
+  },
+  {
+    "'2MBCOATA'": "'r0792'"
+  },
+  {
+    "'2MBCOATA'": "'r2137'"
+  },
+  {
+    "'2MBCOATA'": "'rtranscription'"
+  },
+  {
+    "'2MBCOATA'": "'sink_PGPm1[c]'"
+  },
+  {
+    "'2MBCOATA'": "'biomass012'"
+  }
+]

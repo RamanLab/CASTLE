@@ -1,0 +1,818 @@
+[
+  {
+    "'DM_mththf_c'": "'BIOMASS_Ec_iJO1366_core_53p95M'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_ca2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_cl_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_cobalt2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_cu2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_glc__D_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_k_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_mg2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_mn2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_mobd_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_nac_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_nh4_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_ni2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_pi_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_so4_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_thm_e'"
+  },
+  {
+    "'DM_mththf_c'": "'EX_zn2_e'"
+  },
+  {
+    "'DM_mththf_c'": "'3HAD100'"
+  },
+  {
+    "'DM_mththf_c'": "'3HAD121'"
+  },
+  {
+    "'DM_mththf_c'": "'3HAD141'"
+  },
+  {
+    "'DM_mththf_c'": "'3HAD161'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAR100'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAR121'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAR140'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAR141'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAR161'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAS100'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAS121'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAS140'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAS141'"
+  },
+  {
+    "'DM_mththf_c'": "'3OAS161'"
+  },
+  {
+    "'DM_mththf_c'": "'A5PISO'"
+  },
+  {
+    "'DM_mththf_c'": "'ACCOAC'"
+  },
+  {
+    "'DM_mththf_c'": "'ACGK'"
+  },
+  {
+    "'DM_mththf_c'": "'ACGS'"
+  },
+  {
+    "'DM_mththf_c'": "'ACHBS'"
+  },
+  {
+    "'DM_mththf_c'": "'ACLS'"
+  },
+  {
+    "'DM_mththf_c'": "'ACODA'"
+  },
+  {
+    "'DM_mththf_c'": "'ACONTa'"
+  },
+  {
+    "'DM_mththf_c'": "'ACONTb'"
+  },
+  {
+    "'DM_mththf_c'": "'ACOTA'"
+  },
+  {
+    "'DM_mththf_c'": "'ADSK'"
+  },
+  {
+    "'DM_mththf_c'": "'ADSL1r'"
+  },
+  {
+    "'DM_mththf_c'": "'ADSL2r'"
+  },
+  {
+    "'DM_mththf_c'": "'ADSS'"
+  },
+  {
+    "'DM_mththf_c'": "'AGPAT160'"
+  },
+  {
+    "'DM_mththf_c'": "'AGPAT161'"
+  },
+  {
+    "'DM_mththf_c'": "'AGPR'"
+  },
+  {
+    "'DM_mththf_c'": "'AHCYSNS'"
+  },
+  {
+    "'DM_mththf_c'": "'AICART'"
+  },
+  {
+    "'DM_mththf_c'": "'AIRC2'"
+  },
+  {
+    "'DM_mththf_c'": "'AIRC3'"
+  },
+  {
+    "'DM_mththf_c'": "'ALAALAr'"
+  },
+  {
+    "'DM_mththf_c'": "'ALAR'"
+  },
+  {
+    "'DM_mththf_c'": "'ANPRT'"
+  },
+  {
+    "'DM_mththf_c'": "'ANS'"
+  },
+  {
+    "'DM_mththf_c'": "'APRAUR'"
+  },
+  {
+    "'DM_mththf_c'": "'ARGSL'"
+  },
+  {
+    "'DM_mththf_c'": "'ARGSS'"
+  },
+  {
+    "'DM_mththf_c'": "'ASAD'"
+  },
+  {
+    "'DM_mththf_c'": "'ASP1DC'"
+  },
+  {
+    "'DM_mththf_c'": "'ASPCT'"
+  },
+  {
+    "'DM_mththf_c'": "'ASPK'"
+  },
+  {
+    "'DM_mththf_c'": "'ASPTA'"
+  },
+  {
+    "'DM_mththf_c'": "'ATPPRT'"
+  },
+  {
+    "'DM_mththf_c'": "'BMOCOS'"
+  },
+  {
+    "'DM_mththf_c'": "'BMOGDS1'"
+  },
+  {
+    "'DM_mththf_c'": "'BMOGDS2'"
+  },
+  {
+    "'DM_mththf_c'": "'BPNT'"
+  },
+  {
+    "'DM_mththf_c'": "'CA2tex'"
+  },
+  {
+    "'DM_mththf_c'": "'CAt6pp'"
+  },
+  {
+    "'DM_mththf_c'": "'CDPMEK'"
+  },
+  {
+    "'DM_mththf_c'": "'CHORM'"
+  },
+  {
+    "'DM_mththf_c'": "'CHORS'"
+  },
+  {
+    "'DM_mththf_c'": "'CHRPL'"
+  },
+  {
+    "'DM_mththf_c'": "'CLt3_2pp'"
+  },
+  {
+    "'DM_mththf_c'": "'CLtex'"
+  },
+  {
+    "'DM_mththf_c'": "'COBALT2tex'"
+  },
+  {
+    "'DM_mththf_c'": "'COBALT2tpp'"
+  },
+  {
+    "'DM_mththf_c'": "'CPMPS'"
+  },
+  {
+    "'DM_mththf_c'": "'CS'"
+  },
+  {
+    "'DM_mththf_c'": "'CTPS2'"
+  },
+  {
+    "'DM_mththf_c'": "'CU2tex'"
+  },
+  {
+    "'DM_mththf_c'": "'CU2tpp'"
+  },
+  {
+    "'DM_mththf_c'": "'CYSS'"
+  },
+  {
+    "'DM_mththf_c'": "'CYSTL'"
+  },
+  {
+    "'DM_mththf_c'": "'DAPDC'"
+  },
+  {
+    "'DM_mththf_c'": "'DAPE'"
+  },
+  {
+    "'DM_mththf_c'": "'DASYN160'"
+  },
+  {
+    "'DM_mththf_c'": "'DASYN161'"
+  },
+  {
+    "'DM_mththf_c'": "'DB4PS'"
+  },
+  {
+    "'DM_mththf_c'": "'DDPA'"
+  },
+  {
+    "'DM_mththf_c'": "'DHAD1'"
+  },
+  {
+    "'DM_mththf_c'": "'DHAD2'"
+  },
+  {
+    "'DM_mththf_c'": "'DHDPRy'"
+  },
+  {
+    "'DM_mththf_c'": "'DHDPS'"
+  },
+  {
+    "'DM_mththf_c'": "'DHFR'"
+  },
+  {
+    "'DM_mththf_c'": "'DHORTS'"
+  },
+  {
+    "'DM_mththf_c'": "'DHPPDA2'"
+  },
+  {
+    "'DM_mththf_c'": "'DHPTDCs2'"
+  },
+  {
+    "'DM_mththf_c'": "'DHQS'"
+  },
+  {
+    "'DM_mththf_c'": "'DHQTi'"
+  },
+  {
+    "'DM_mththf_c'": "'DMATT'"
+  },
+  {
+    "'DM_mththf_c'": "'DPCOAK'"
+  },
+  {
+    "'DM_mththf_c'": "'DPR'"
+  },
+  {
+    "'DM_mththf_c'": "'DTMPK'"
+  },
+  {
+    "'DM_mththf_c'": "'DXPRIi'"
+  },
+  {
+    "'DM_mththf_c'": "'DXPS'"
+  },
+  {
+    "'DM_mththf_c'": "'E4PD'"
+  },
+  {
+    "'DM_mththf_c'": "'FCLT'"
+  },
+  {
+    "'DM_mththf_c'": "'FMNAT'"
+  },
+  {
+    "'DM_mththf_c'": "'G1PACT'"
+  },
+  {
+    "'DM_mththf_c'": "'G1SAT'"
+  },
+  {
+    "'DM_mththf_c'": "'G3PD2'"
+  },
+  {
+    "'DM_mththf_c'": "'G5SADs'"
+  },
+  {
+    "'DM_mththf_c'": "'GF6PTA'"
+  },
+  {
+    "'DM_mththf_c'": "'GK1'"
+  },
+  {
+    "'DM_mththf_c'": "'GLCtex'"
+  },
+  {
+    "'DM_mththf_c'": "'GLNS'"
+  },
+  {
+    "'DM_mththf_c'": "'GLUPRT'"
+  },
+  {
+    "'DM_mththf_c'": "'GLUR'"
+  },
+  {
+    "'DM_mththf_c'": "'GLUTRR'"
+  },
+  {
+    "'DM_mththf_c'": "'GLUTRS'"
+  },
+  {
+    "'DM_mththf_c'": "'GMPS2'"
+  },
+  {
+    "'DM_mththf_c'": "'GRTT'"
+  },
+  {
+    "'DM_mththf_c'": "'GTPCII2'"
+  },
+  {
+    "'DM_mththf_c'": "'HBZOPT'"
+  },
+  {
+    "'DM_mththf_c'": "'HCO3E'"
+  },
+  {
+    "'DM_mththf_c'": "'HISTD'"
+  },
+  {
+    "'DM_mththf_c'": "'HISTP'"
+  },
+  {
+    "'DM_mththf_c'": "'HMBS'"
+  },
+  {
+    "'DM_mththf_c'": "'HSDy'"
+  },
+  {
+    "'DM_mththf_c'": "'HSK'"
+  },
+  {
+    "'DM_mththf_c'": "'HSST'"
+  },
+  {
+    "'DM_mththf_c'": "'HSTPT'"
+  },
+  {
+    "'DM_mththf_c'": "'ICDHyr'"
+  },
+  {
+    "'DM_mththf_c'": "'ICYSDS'"
+  },
+  {
+    "'DM_mththf_c'": "'IG3PS'"
+  },
+  {
+    "'DM_mththf_c'": "'IGPDH'"
+  },
+  {
+    "'DM_mththf_c'": "'IGPS'"
+  },
+  {
+    "'DM_mththf_c'": "'ILETA'"
+  },
+  {
+    "'DM_mththf_c'": "'IMPC'"
+  },
+  {
+    "'DM_mththf_c'": "'IPMD'"
+  },
+  {
+    "'DM_mththf_c'": "'IPPMIa'"
+  },
+  {
+    "'DM_mththf_c'": "'IPPMIb'"
+  },
+  {
+    "'DM_mththf_c'": "'IPPS'"
+  },
+  {
+    "'DM_mththf_c'": "'K2L4Aabcpp'"
+  },
+  {
+    "'DM_mththf_c'": "'K2L4Aabctex'"
+  },
+  {
+    "'DM_mththf_c'": "'KARA1'"
+  },
+  {
+    "'DM_mththf_c'": "'KARA2'"
+  },
+  {
+    "'DM_mththf_c'": "'KDOCT2'"
+  },
+  {
+    "'DM_mththf_c'": "'KDOPP'"
+  },
+  {
+    "'DM_mththf_c'": "'KDOPS'"
+  },
+  {
+    "'DM_mththf_c'": "'Kt2pp'"
+  },
+  {
+    "'DM_mththf_c'": "'Ktex'"
+  },
+  {
+    "'DM_mththf_c'": "'LEUTAi'"
+  },
+  {
+    "'DM_mththf_c'": "'LPADSS'"
+  },
+  {
+    "'DM_mththf_c'": "'MCOATA'"
+  },
+  {
+    "'DM_mththf_c'": "'MCTP1App'"
+  },
+  {
+    "'DM_mththf_c'": "'MECDPS'"
+  },
+  {
+    "'DM_mththf_c'": "'MEPCT'"
+  },
+  {
+    "'DM_mththf_c'": "'METAT'"
+  },
+  {
+    "'DM_mththf_c'": "'METS'"
+  },
+  {
+    "'DM_mththf_c'": "'MG2tex'"
+  },
+  {
+    "'DM_mththf_c'": "'MNtex'"
+  },
+  {
+    "'DM_mththf_c'": "'MOADSUx'"
+  },
+  {
+    "'DM_mththf_c'": "'MOAT'"
+  },
+  {
+    "'DM_mththf_c'": "'MOAT2'"
+  },
+  {
+    "'DM_mththf_c'": "'MOBDabcpp'"
+  },
+  {
+    "'DM_mththf_c'": "'MOBDtex'"
+  },
+  {
+    "'DM_mththf_c'": "'MOCOS'"
+  },
+  {
+    "'DM_mththf_c'": "'MOHMT'"
+  },
+  {
+    "'DM_mththf_c'": "'MPTAT'"
+  },
+  {
+    "'DM_mththf_c'": "'MPTG'"
+  },
+  {
+    "'DM_mththf_c'": "'MPTS'"
+  },
+  {
+    "'DM_mththf_c'": "'MPTSS'"
+  },
+  {
+    "'DM_mththf_c'": "'MTHFR2'"
+  },
+  {
+    "'DM_mththf_c'": "'MTHTHFSs'"
+  },
+  {
+    "'DM_mththf_c'": "'NACtex'"
+  },
+  {
+    "'DM_mththf_c'": "'NACtpp'"
+  },
+  {
+    "'DM_mththf_c'": "'NADK'"
+  },
+  {
+    "'DM_mththf_c'": "'NADS1'"
+  },
+  {
+    "'DM_mththf_c'": "'NAMNPP'"
+  },
+  {
+    "'DM_mththf_c'": "'NDPK2'"
+  },
+  {
+    "'DM_mththf_c'": "'NDPK4'"
+  },
+  {
+    "'DM_mththf_c'": "'NH4tex'"
+  },
+  {
+    "'DM_mththf_c'": "'NH4tpp'"
+  },
+  {
+    "'DM_mththf_c'": "'NI2tex'"
+  },
+  {
+    "'DM_mththf_c'": "'NNATr'"
+  },
+  {
+    "'DM_mththf_c'": "'OCBT'"
+  },
+  {
+    "'DM_mththf_c'": "'OCTDPS'"
+  },
+  {
+    "'DM_mththf_c'": "'OHPBAT'"
+  },
+  {
+    "'DM_mththf_c'": "'OMCDC'"
+  },
+  {
+    "'DM_mththf_c'": "'OMPDC'"
+  },
+  {
+    "'DM_mththf_c'": "'OPHBDC'"
+  },
+  {
+    "'DM_mththf_c'": "'ORPT'"
+  },
+  {
+    "'DM_mththf_c'": "'P5CR'"
+  },
+  {
+    "'DM_mththf_c'": "'PANTS'"
+  },
+  {
+    "'DM_mththf_c'": "'PAPPT3'"
+  },
+  {
+    "'DM_mththf_c'": "'PDX5PS'"
+  },
+  {
+    "'DM_mththf_c'": "'PE160abcpp'"
+  },
+  {
+    "'DM_mththf_c'": "'PE161abcpp'"
+  },
+  {
+    "'DM_mththf_c'": "'PERD'"
+  },
+  {
+    "'DM_mththf_c'": "'PGAMT'"
+  },
+  {
+    "'DM_mththf_c'": "'PHETA1'"
+  },
+  {
+    "'DM_mththf_c'": "'PItex'"
+  },
+  {
+    "'DM_mththf_c'": "'PMDPHT'"
+  },
+  {
+    "'DM_mththf_c'": "'PNTK'"
+  },
+  {
+    "'DM_mththf_c'": "'PPBNGS'"
+  },
+  {
+    "'DM_mththf_c'": "'PPC'"
+  },
+  {
+    "'DM_mththf_c'": "'PPCDC'"
+  },
+  {
+    "'DM_mththf_c'": "'PPNCL2'"
+  },
+  {
+    "'DM_mththf_c'": "'PPND'"
+  },
+  {
+    "'DM_mththf_c'": "'PPNDH'"
+  },
+  {
+    "'DM_mththf_c'": "'PRAGSr'"
+  },
+  {
+    "'DM_mththf_c'": "'PRAIS'"
+  },
+  {
+    "'DM_mththf_c'": "'PRAIi'"
+  },
+  {
+    "'DM_mththf_c'": "'PRAMPC'"
+  },
+  {
+    "'DM_mththf_c'": "'PRATPP'"
+  },
+  {
+    "'DM_mththf_c'": "'PRFGS'"
+  },
+  {
+    "'DM_mththf_c'": "'PRMICI'"
+  },
+  {
+    "'DM_mththf_c'": "'PSCVT'"
+  },
+  {
+    "'DM_mththf_c'": "'PSD160'"
+  },
+  {
+    "'DM_mththf_c'": "'PSD161'"
+  },
+  {
+    "'DM_mththf_c'": "'PSSA160'"
+  },
+  {
+    "'DM_mththf_c'": "'PSSA161'"
+  },
+  {
+    "'DM_mththf_c'": "'PTPATi'"
+  },
+  {
+    "'DM_mththf_c'": "'RBFK'"
+  },
+  {
+    "'DM_mththf_c'": "'RBFSa'"
+  },
+  {
+    "'DM_mththf_c'": "'RBFSb'"
+  },
+  {
+    "'DM_mththf_c'": "'RHCCE'"
+  },
+  {
+    "'DM_mththf_c'": "'SADT2'"
+  },
+  {
+    "'DM_mththf_c'": "'SDPDS'"
+  },
+  {
+    "'DM_mththf_c'": "'SDPTA'"
+  },
+  {
+    "'DM_mththf_c'": "'SERAT'"
+  },
+  {
+    "'DM_mththf_c'": "'SHCHD2'"
+  },
+  {
+    "'DM_mththf_c'": "'SHCHF'"
+  },
+  {
+    "'DM_mththf_c'": "'SHK3Dr'"
+  },
+  {
+    "'DM_mththf_c'": "'SHKK'"
+  },
+  {
+    "'DM_mththf_c'": "'SHSL1'"
+  },
+  {
+    "'DM_mththf_c'": "'SO4tex'"
+  },
+  {
+    "'DM_mththf_c'": "'SULR'"
+  },
+  {
+    "'DM_mththf_c'": "'T2DECAI'"
+  },
+  {
+    "'DM_mththf_c'": "'TDSK'"
+  },
+  {
+    "'DM_mththf_c'": "'THDPS'"
+  },
+  {
+    "'DM_mththf_c'": "'THMabcpp'"
+  },
+  {
+    "'DM_mththf_c'": "'THMtex'"
+  },
+  {
+    "'DM_mththf_c'": "'THRD_L'"
+  },
+  {
+    "'DM_mththf_c'": "'THRS'"
+  },
+  {
+    "'DM_mththf_c'": "'TMDS'"
+  },
+  {
+    "'DM_mththf_c'": "'TMK'"
+  },
+  {
+    "'DM_mththf_c'": "'TMPK'"
+  },
+  {
+    "'DM_mththf_c'": "'TYRTA'"
+  },
+  {
+    "'DM_mththf_c'": "'U23GAAT'"
+  },
+  {
+    "'DM_mththf_c'": "'UAAGDS'"
+  },
+  {
+    "'DM_mththf_c'": "'UAGAAT'"
+  },
+  {
+    "'DM_mththf_c'": "'UAGCVT'"
+  },
+  {
+    "'DM_mththf_c'": "'UAGDP'"
+  },
+  {
+    "'DM_mththf_c'": "'UAGPT3'"
+  },
+  {
+    "'DM_mththf_c'": "'UAMAGS'"
+  },
+  {
+    "'DM_mththf_c'": "'UAMAS'"
+  },
+  {
+    "'DM_mththf_c'": "'UAPGR'"
+  },
+  {
+    "'DM_mththf_c'": "'UDCPDP'"
+  },
+  {
+    "'DM_mththf_c'": "'UDCPDPS'"
+  },
+  {
+    "'DM_mththf_c'": "'UGMDDS'"
+  },
+  {
+    "'DM_mththf_c'": "'UHGADA'"
+  },
+  {
+    "'DM_mththf_c'": "'UMPK'"
+  },
+  {
+    "'DM_mththf_c'": "'UPP3MT'"
+  },
+  {
+    "'DM_mththf_c'": "'UPP3S'"
+  },
+  {
+    "'DM_mththf_c'": "'UPPDC1'"
+  },
+  {
+    "'DM_mththf_c'": "'USHD'"
+  },
+  {
+    "'DM_mththf_c'": "'Zn2tex'"
+  }
+]

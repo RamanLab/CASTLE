@@ -1,0 +1,382 @@
+[
+  {
+    "'ACGK'": "'ACGK'",
+    "'ARGabc'": "'EX_arg_L(e)'"
+  },
+  {
+    "'ACGK'": "'ACHBPL'",
+    "'ARGabc'": "'EX_ile_L(e)'"
+  },
+  {
+    "'ACGK'": "'ACHBPL'",
+    "'ARGabc'": "'ILEabc'"
+  },
+  {
+    "'ACGK'": "'ACLS_b'",
+    "'ARGabc'": "'EX_val_L(e)'"
+  },
+  {
+    "'ACGK'": "'ACLS_b'",
+    "'ARGabc'": "'VALTA'"
+  },
+  {
+    "'ACGK'": "'ACLS_b'",
+    "'ARGabc'": "'VALabc'"
+  },
+  {
+    "'ACGK'": "'ACOTA'",
+    "'ARGabc'": "'ARGabc'"
+  },
+  {
+    "'ACGK'": "'ACOTA'",
+    "'ARGabc'": "'EX_arg_L(e)'"
+  },
+  {
+    "'ACGK'": "'ADK10'",
+    "'ARGabc'": "'NDPK4'"
+  },
+  {
+    "'ACGK'": "'ADK3'",
+    "'ARGabc'": "'NDPK1'"
+  },
+  {
+    "'ACGK'": "'ADK5'",
+    "'ARGabc'": "'NDPK3'"
+  },
+  {
+    "'ACGK'": "'ADK8'",
+    "'ARGabc'": "'NDPK7'"
+  },
+  {
+    "'ACGK'": "'ADK9'",
+    "'ARGabc'": "'NDPK5'"
+  },
+  {
+    "'ACGK'": "'AGPR'",
+    "'ARGabc'": "'ARGabc'"
+  },
+  {
+    "'ACGK'": "'AGPR'",
+    "'ARGabc'": "'EX_arg_L(e)'"
+  },
+  {
+    "'ACGK'": "'AHSERL3'",
+    "'ARGabc'": "'ASAD'"
+  },
+  {
+    "'ACGK'": "'AHSERL3'",
+    "'ARGabc'": "'ASPKi'"
+  },
+  {
+    "'ACGK'": "'ANS'",
+    "'ARGabc'": "'ANS2'"
+  },
+  {
+    "'ACGK'": "'ARGSL'",
+    "'ARGabc'": "'ARGabc'"
+  },
+  {
+    "'ACGK'": "'ARGSL'",
+    "'ARGabc'": "'EX_arg_L(e)'"
+  },
+  {
+    "'ACGK'": "'ARGSSr'",
+    "'ARGabc'": "'ARGabc'"
+  },
+  {
+    "'ACGK'": "'ARGSSr'",
+    "'ARGabc'": "'EX_arg_L(e)'"
+  },
+  {
+    "'ACGK'": "'ARGabc'",
+    "'ARGabc'": "'OCBT'"
+  },
+  {
+    "'ACGK'": "'ARGabc'",
+    "'ARGabc'": "'ORNTAC'"
+  },
+  {
+    "'ACGK'": "'ASAD'",
+    "'ARGabc'": "'CYSS3r'"
+  },
+  {
+    "'ACGK'": "'ASAD'",
+    "'ARGabc'": "'HSERTA'"
+  },
+  {
+    "'ACGK'": "'ASAD'",
+    "'ARGabc'": "'SERATi'"
+  },
+  {
+    "'ACGK'": "'ASPKi'",
+    "'ARGabc'": "'CYSS3r'"
+  },
+  {
+    "'ACGK'": "'ASPKi'",
+    "'ARGabc'": "'HSERTA'"
+  },
+  {
+    "'ACGK'": "'ASPKi'",
+    "'ARGabc'": "'SERATi'"
+  },
+  {
+    "'ACGK'": "'CHORM'",
+    "'ARGabc'": "'TALA'"
+  },
+  {
+    "'ACGK'": "'CHORM'",
+    "'ARGabc'": "'TKT1'"
+  },
+  {
+    "'ACGK'": "'CTPS1'",
+    "'ARGabc'": "'CTPS2'"
+  },
+  {
+    "'ACGK'": "'DAPDC'",
+    "'ARGabc'": "'EX_lys_L(e)'"
+  },
+  {
+    "'ACGK'": "'DAPDC'",
+    "'ARGabc'": "'LYSt2r'"
+  },
+  {
+    "'ACGK'": "'DCTPD'",
+    "'ARGabc'": "'RNDR4'"
+  },
+  {
+    "'ACGK'": "'DHAD1'",
+    "'ARGabc'": "'EX_val_L(e)'"
+  },
+  {
+    "'ACGK'": "'DHAD1'",
+    "'ARGabc'": "'VALTA'"
+  },
+  {
+    "'ACGK'": "'DHAD1'",
+    "'ARGabc'": "'VALabc'"
+  },
+  {
+    "'ACGK'": "'DHAD2'",
+    "'ARGabc'": "'EX_ile_L(e)'"
+  },
+  {
+    "'ACGK'": "'DHAD2'",
+    "'ARGabc'": "'ILEabc'"
+  },
+  {
+    "'ACGK'": "'DMPPS'",
+    "'ARGabc'": "'DMPPS2r'"
+  },
+  {
+    "'ACGK'": "'ENO'",
+    "'ARGabc'": "'PPCKr'"
+  },
+  {
+    "'ACGK'": "'EX_arg_L(e)'",
+    "'ARGabc'": "'OCBT'"
+  },
+  {
+    "'ACGK'": "'EX_arg_L(e)'",
+    "'ARGabc'": "'ORNTAC'"
+  },
+  {
+    "'ACGK'": "'EX_for(e)'",
+    "'ARGabc'": "'FDH'"
+  },
+  {
+    "'ACGK'": "'EX_fuc_L(e)'",
+    "'ARGabc'": "'GAPD'"
+  },
+  {
+    "'ACGK'": "'EX_fuc_L(e)'",
+    "'ARGabc'": "'PGK'"
+  },
+  {
+    "'ACGK'": "'EX_fuc_L(e)'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'EX_ile_L(e)'",
+    "'ARGabc'": "'ILETA'"
+  },
+  {
+    "'ACGK'": "'EX_nac(e)'",
+    "'ARGabc'": "'EX_ncam(e)'"
+  },
+  {
+    "'ACGK'": "'EX_nac(e)'",
+    "'ARGabc'": "'NCAMt2r'"
+  },
+  {
+    "'ACGK'": "'EX_nac(e)'",
+    "'ARGabc'": "'NNAM'"
+  },
+  {
+    "'ACGK'": "'EX_ncam(e)'",
+    "'ARGabc'": "'NACt2r'"
+  },
+  {
+    "'ACGK'": "'EX_ser_L(e)'",
+    "'ARGabc'": "'PGCDr'"
+  },
+  {
+    "'ACGK'": "'EX_ser_L(e)'",
+    "'ARGabc'": "'PSERT'"
+  },
+  {
+    "'ACGK'": "'EX_ser_L(e)'",
+    "'ARGabc'": "'PSP_L'"
+  },
+  {
+    "'ACGK'": "'EX_val_L(e)'",
+    "'ARGabc'": "'VALTA'"
+  },
+  {
+    "'ACGK'": "'FCI'",
+    "'ARGabc'": "'GAPD'"
+  },
+  {
+    "'ACGK'": "'FCI'",
+    "'ARGabc'": "'PGK'"
+  },
+  {
+    "'ACGK'": "'FCI'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'FCLK'",
+    "'ARGabc'": "'GAPD'"
+  },
+  {
+    "'ACGK'": "'FCLK'",
+    "'ARGabc'": "'PGK'"
+  },
+  {
+    "'ACGK'": "'FCLK'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'FCLPA'",
+    "'ARGabc'": "'GAPD'"
+  },
+  {
+    "'ACGK'": "'FCLPA'",
+    "'ARGabc'": "'PGK'"
+  },
+  {
+    "'ACGK'": "'FCLPA'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'FDH'",
+    "'ARGabc'": "'FORt'"
+  },
+  {
+    "'ACGK'": "'FUCt2_1'",
+    "'ARGabc'": "'GAPD'"
+  },
+  {
+    "'ACGK'": "'FUCt2_1'",
+    "'ARGabc'": "'PGK'"
+  },
+  {
+    "'ACGK'": "'FUCt2_1'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'GAPD'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'GK1'",
+    "'ARGabc'": "'GK2'"
+  },
+  {
+    "'ACGK'": "'ILETA'",
+    "'ARGabc'": "'ILEabc'"
+  },
+  {
+    "'ACGK'": "'IPDPS'",
+    "'ARGabc'": "'IPDPS2'"
+  },
+  {
+    "'ACGK'": "'Kt3r'",
+    "'ARGabc'": "'ZN2t4'"
+  },
+  {
+    "'ACGK'": "'Kt3r'",
+    "'ARGabc'": "'ZNabc'"
+  },
+  {
+    "'ACGK'": "'MG2abc'",
+    "'ARGabc'": "'MGt5'"
+  },
+  {
+    "'ACGK'": "'NACt2r'",
+    "'ARGabc'": "'NCAMt2r'"
+  },
+  {
+    "'ACGK'": "'NACt2r'",
+    "'ARGabc'": "'NNAM'"
+  },
+  {
+    "'ACGK'": "'NADK'",
+    "'ARGabc'": "'NADK2'"
+  },
+  {
+    "'ACGK'": "'NADS1'",
+    "'ARGabc'": "'NADS2'"
+  },
+  {
+    "'ACGK'": "'NDPK2'",
+    "'ARGabc'": "'UTPATPT'"
+  },
+  {
+    "'ACGK'": "'OOR2r'",
+    "'ARGabc'": "'SUCOAS'"
+  },
+  {
+    "'ACGK'": "'PGCDr'",
+    "'ARGabc'": "'SERt2r'"
+  },
+  {
+    "'ACGK'": "'PGK'",
+    "'ARGabc'": "'TPI'"
+  },
+  {
+    "'ACGK'": "'PGM'",
+    "'ARGabc'": "'PPCKr'"
+  },
+  {
+    "'ACGK'": "'POR4'",
+    "'ARGabc'": "'SUCOAS'"
+  },
+  {
+    "'ACGK'": "'PPNCL3'",
+    "'ARGabc'": "'r0671'"
+  },
+  {
+    "'ACGK'": "'PSERT'",
+    "'ARGabc'": "'SERt2r'"
+  },
+  {
+    "'ACGK'": "'PSP_L'",
+    "'ARGabc'": "'SERt2r'"
+  },
+  {
+    "'ACGK'": "'TRPS1'",
+    "'ARGabc'": "'TRPS2'"
+  },
+  {
+    "'ACGK'": "'TRPS1'",
+    "'ARGabc'": "'TRPS3'"
+  },
+  {
+    "'ACGK'": "'VALTA'",
+    "'ARGabc'": "'VALabc'"
+  },
+  {
+    "'ACGK'": "'ZN2t4'",
+    "'ARGabc'": "'ZNabc'"
+  }
+]
