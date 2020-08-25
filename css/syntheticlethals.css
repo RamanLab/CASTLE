@@ -1,0 +1,69 @@
+/* Synthetic lethal page CSS */
+
+table.minimalistBlack {
+  border: 2.5px solid #000000;
+  width: 60%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.minimalistBlack td, table.minimalistBlack th {
+  border: 1.5px solid #000000;
+  padding: 5px 5px;
+}
+table.minimalistBlack  td {
+  font-size: 16px;
+  width:200px;
+}
+.footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+p {
+	font-family: "Rubik";
+}
+.sidenav {
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 100px;
+  right: 100px;
+  background: #fff;
+  overflow-x: hidden;
+  padding: 8px 0;
+  display: none;
+  border: 3px solid #131313;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #2196F3;
+  display: block;
+}
+.sidenav h4 {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: "Rubik";
+  color: #131313;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+  text-decoration: underline;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

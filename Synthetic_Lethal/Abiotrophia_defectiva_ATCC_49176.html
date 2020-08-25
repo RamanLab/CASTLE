@@ -1,4 +1,5 @@
 
+
     <!doctype html>
 <html lang="en">
 <head>
@@ -25,75 +26,8 @@
 	<script src="https://www.w3schools.com/lib/w3data.js"></script>
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="../css/style.css">
-    <style>
-		table.minimalistBlack {
-		  border: 2.5px solid #000000;
-		  width: 60%;
-		  text-align: left;
-		  border-collapse: collapse;
-		}
-		table.minimalistBlack td, table.minimalistBlack th {
-		  border: 1.5px solid #000000;
-		  padding: 5px 5px;
-		}
-		table.minimalistBlack  td {
-		  font-size: 16px;
-		  width:200px;
-		}
-		.footer {
-		  background-color: #777;
-		  padding: 10px;
-		  text-align: center;
-		  color: white;
-		}
-		p {
-			font-family: "Rubik";
-		}
-		.sidenav {
-		  width: 200px;
-		  position: fixed;
-		  z-index: 1;
-		  top: 100px;
-		  right: 100px;
-		  background: #fff;
-		  overflow-x: hidden;
-		  padding: 8px 0;
-		  display: none;
-		  border: 3px solid #131313;
-		}
+    <link rel="stylesheet" href="../css/syntheticlethals.css">
 
-		.sidenav a {
-		  padding: 6px 8px 6px 16px;
-		  text-decoration: none;
-		  font-size: 15px;
-		  color: #2196F3;
-		  display: block;
-		}
-		.sidenav h4 {
-		  padding: 6px 8px 6px 16px;
-		  text-decoration: none;
-		  font-size: 15px;
-		  font-family: "Rubik";
-		  color: #131313;
-		  display: block;
-		}
-
-		.sidenav a:hover {
-		  color: #064579;
-		  text-decoration: underline;
-		}
-
-		.main {
-		  margin-left: 140px; /* Same width as the sidebar + left position in px */
-		  font-size: 28px; /* Increased text to enable scrolling */
-		  padding: 0px 10px;
-		}
-
-		@media screen and (max-height: 450px) {
-		  .sidenav {padding-top: 15px;}
-		  .sidenav a {font-size: 18px;}
-		}
-</style>
 <script>
 	$(document).scroll(function() {
 	  var y = $(this).scrollTop();
@@ -172,7 +106,7 @@
                     <br>
                    <br>
                     <table class="minimalistBlack" border="0" align="center">
-                        <tr><td><center><a href="../Single_Lethal_Reaction/Abiotrophia_defectiva_ATCC_49176.html"><font color="maroon"><u>Single lethal reactions</u>
+                        <tr><td><center><a href="#slr"><font color="maroon"><u>Single lethal reactions</u>
                             <br> (Jsl)</font></a></center></td>
                         <td> <p><a href="../CSV/Abiotrophia_defectiva_ATCC_49176/JSL.csv" download="Abiotrophia_defectiva_ATCC_49176_Jsl.csv"><center><abbr title='Download the Jsl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
                           <td> <p><a href="../json/Abiotrophia_defectiva_ATCC_49176/JSL.json" download="Abiotrophia_defectiva_ATCC_49176_Jsl.json"><center><abbr title='Download the Jsl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
@@ -181,7 +115,7 @@
                                 of Jsl, Jdl and Jtl)</font></p></td>
                         
                         </tr>
-                            <tr><td><center><a href="../Double_Lethal_Reaction/Abiotrophia_defectiva_ATCC_49176.html"><font color="maroon"><u>Double lethal reactions</u>
+                            <tr><td><center><a href="#dlr"><font color="maroon"><u>Double lethal reactions</u>
                             <br> (Jdl)</font></a></center> </td>
                               <td> <p><a href="../CSV/Abiotrophia_defectiva_ATCC_49176/JDL.csv" download="Abiotrophia_defectiva_ATCC_49176_Jdl.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
                                 <td> <p><a href="../json/Abiotrophia_defectiva_ATCC_49176/JDL.json" download="Abiotrophia_defectiva_ATCC_49176_Jdl.json"><center><abbr title='Download the Jdl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
@@ -189,26 +123,26 @@
 
 
                         </tr>
-                        <tr><td><center><a href="../Triple_Lethal_Reaction/Abiotrophia_defectiva_ATCC_49176.html"><font color="maroon"><u>Triple lethal<br>reactions</u>
+                        <tr><td><center><a href="#tlr"><font color="maroon"><u>Triple lethal<br>reactions</u>
                             <br> (Jtl)</font></a></center> </td>
                           <td> <p><a href="../CSV/Abiotrophia_defectiva_ATCC_49176/JTL.csv" download="Abiotrophia_defectiva_ATCC_49176_Jtl.csv"><center><abbr title='Download the Jtl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
                             <td> <p><a href="../json/Abiotrophia_defectiva_ATCC_49176/JTL.json" download="Abiotrophia_defectiva_ATCC_49176_Jtl.json"><center><abbr title='Download the Jtl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
                            
                         </tr>
-                        <tr><td><center><a href="../Single_Lethal_Gene/Abiotrophia_defectiva_ATCC_49176.html"><font color="maroon"><u>Single lethal genes</u>
+                        <tr><td><center><a href="#slg"><font color="maroon"><u>Single lethal genes</u>
                             <br> (Sgd)</font></a></center> </td>
                           <td> <p><a href="../CSV/Abiotrophia_defectiva_ATCC_49176/SGD.csv" download="Abiotrophia_defectiva_ATCC_49176_Sgd.csv"><center><abbr title='Download the Sgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
                             <td> <p><a href="../json/Abiotrophia_defectiva_ATCC_49176/SGD.json" download="Abiotrophia_defectiva_ATCC_49176_Sgd.json"><center><abbr title='Download the Sgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
                               <td rowspan="3"><p><a href="../mat/Abiotrophia_defectiva_ATCC_49176/Abiotrophia_defectiva_ATCC_49176.mat_gene_lethals.mat" download="Abiotrophia_defectiva_ATCC_49176.mat_gene_lethals.mat"><center><abbr title='Download all the Lethal Genes MAT file'><img src='../img/elements/matlab.png' height='65' width='70 '></abbr></a>
                                 <br><font size="2">(Combined download <br>of Sgd, Dgd and Tgd)</font></p></td>
                         </tr>
-                        <tr><td><center><a href="../Double_Lethal_Gene/Abiotrophia_defectiva_ATCC_49176.html"><font color="maroon"><u>Double lethal genes</u>
+                        <tr><td><center><a href="#dlg"><font color="maroon"><u>Double lethal genes</u>
                             <br> (Dgd)</font></a></center> </td>
                           <td> <p><a href="../CSV/Abiotrophia_defectiva_ATCC_49176/DGD.csv" download="Abiotrophia_defectiva_ATCC_49176_Dgd.csv"><center><abbr title='Download the Dgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
                             <td> <p><a href="../json/Abiotrophia_defectiva_ATCC_49176/DGD.json" download="Abiotrophia_defectiva_ATCC_49176_Dgd.json"><center><abbr title='Download the Dgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
                            
                         </tr>
-                        <tr><td><center><a href="../Triple_Lethal_Gene/Abiotrophia_defectiva_ATCC_49176.html"><font color="maroon"><u>Triple lethal genes</u><br>(Tgd)</font></a>
+                        <tr><td><center><a href="#tlg"><font color="maroon"><u>Triple lethal genes</u><br>(Tgd)</font></a>
                             </center> </td>
                           <td> <p><a href="../CSV/Abiotrophia_defectiva_ATCC_49176/TGD.csv" download="Abiotrophia_defectiva_ATCC_49176_Tgd.csv"><center><abbr title='Download the Tgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
                             <td> <p><a href="../json/Abiotrophia_defectiva_ATCC_49176/TGD.json" download="Abiotrophia_defectiva_ATCC_49176_Tgd.json"><center><abbr title='Download the Tgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
@@ -220,7 +154,7 @@
                <br>
 			   	<p style = 'line-height: 10px'>
 					<img src = '../img/elements/model_link.png' width=20 height=20 style='vertical-align: middle' />
-                    <font size=4> Model Link:<a href="https://www.vmh.life/#microbe/Corynebacterium_amycolatum_SK46" target="blank"> <font color="black"><u>https://www.vmh.life/#microbe/Corynebacterium_amycolatum_SK46</u></font></a>
+                    <font size=4>Model Link:<a href="https://www.vmh.life/#microbe/Corynebacterium_amycolatum_SK46" target="blank"> <font color="black"><u>https://www.vmh.life/#microbe/Corynebacterium_amycolatum_SK46</u></font></a>
 				</font></p>
                         <br>
              <br><br>
@@ -316,17 +250,12 @@
     <footer class="footer footer_bg">
         <div class="footer_copy_right">
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved by CASTLE | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
         </div>
     </footer>
           </div> <!-- END .site-section -->
 
-<script>
-w3IncludeHTML();
-</script>
-
 </body>
 </html>
-    
     
