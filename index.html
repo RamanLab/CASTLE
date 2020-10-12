@@ -311,50 +311,78 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                                         if (i == 3) {
                                             var tlr = "tlr";
                                             blank = "_blank";
-                                            html += '<td><a href="Synthetic_Lethal/';
-                                            html += org;
-                                            html += '.html#tlr';
-                                            html += '"target=';
-                                            html += blank;
-                                            html += "'><font color='maroon'><u><center>";
-                                            html += c;
-                                            html += '</center></u></font></a></td>';
+											if (c == "-") {
+												html += '<td><center>';
+												html += c;
+												html += '</center></td>';
+											}
+											else {
+												html += '<td><a href="Synthetic_Lethal/';
+												html += org;
+												html += '.html#tlr';
+												html += '"target=';
+												html += blank;
+												html += "'><font color='maroon'><u><center>";
+												html += c;
+												html += '</center></u></font></a></td>';
+											}
                                         }
                                         if (i == 4) {
                                             var slg = "slg";
                                             blank = "_blank";
-                                            html += '<td><a href="Synthetic_Lethal/';
-                                            html += org;
-                                            html += '.html#slg';
-                                            html += '"target=';
-                                            html += blank;
-                                            html += "'><font color='maroon'><u><center>";
-                                            html += c;
-                                            html += '</center></u></font></a></td>';
+											if (c == "-") {
+												html += '<td><center>';
+												html += c;
+												html += '</center></td>';
+											}
+											else {
+												html += '<td><a href="Synthetic_Lethal/';
+												html += org;
+												html += '.html#slg';
+												html += '"target=';
+												html += blank;
+												html += "'><font color='maroon'><u><center>";
+												html += c;
+												html += '</center></u></font></a></td>';
+											}
                                         }
                                         if (i == 5) {
                                             var dlg = "dlg";
                                             blank = "_blank";
-                                            html += '<td><a href="Synthetic_Lethal/';
-                                            html += org;
-                                            html += '.html#dlg';
-                                            html += '"target=';
-                                            html += blank;
-                                            html += "'><font color='maroon'><u><center>";
-                                            html += c;
-                                            html += '</center></u></font></a></td>';
+											if (c == "-") {
+												html += '<td><center>';
+												html += c;
+												html += '</center></td>';
+											}
+											else {										
+												html += '<td><a href="Synthetic_Lethal/';
+												html += org;
+												html += '.html#dlg';
+												html += '"target=';
+												html += blank;
+												html += "'><font color='maroon'><u><center>";
+												html += c;
+												html += '</center></u></font></a></td>';
+											}
                                         }
                                         if (i == 6) {
                                             var tlg = "tlg";
                                             blank = "_blank";
-                                            html += '<td><a href="Synthetic_Lethal/';
-                                            html += org;
-                                            html += '.html#tlg';
-                                            html += '"target=';
-                                            html += blank;
-                                            html += "'><font color='maroon'><u><center>";
-                                            html += c;
-                                            html += '</center></u></font></a></td>';
+											if (c == "-") {
+												html += '<td><center>';
+												html += c;
+												html += '</center></td>';
+											}
+											else {
+												html += '<td><a href="Synthetic_Lethal/';
+												html += org;
+												html += '.html#tlg';
+												html += '"target=';
+												html += blank;
+												html += "'><font color='maroon'><u><center>";
+												html += c;
+												html += '</center></u></font></a></td>';
+											}
                                         }
                                     });
                                     html += '</tr>';
