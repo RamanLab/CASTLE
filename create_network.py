@@ -96,7 +96,7 @@ for idx, org in enumerate(vmh_orgs):
         pd.DataFrame(result_dicts).to_csv('networks/{}/results.csv'.format(org), index=None)
         print(org)
         
-        break;
+        # break;
         
     except:
         continue;

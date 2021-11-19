@@ -6,6 +6,7 @@ Created on Tue Aug 25 23:06:44 2020
 """
 
 import csv
+import os
 
 #replace the name with your actual csv file name
 file_name = "master.csv" 
@@ -272,6 +273,11 @@ html = """
              <br><br>
              
             </div>
+            
+            
+            <div>
+            {network:}
+            </div>
 			
             <div class="site-section">
 				<div id="slr" class="container">
@@ -372,9 +378,22 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     
 """
 
+network_str = """            
+                <iframe style="display: block; margin: auto; width: 35%; height: 620px" scrolling=no
+                    src="../networks/{organism:}/networkx_graph.html" seamless="seamless">
+                </iframe>
+            """
+
 for line in csv_file:
     line[0] = line[0].replace('&nbsp;', '_')
     try:
+        if os.path.isfile('networks/{}/networkx_graph.html'.format(line[0])):
+            print(line[0])
+            network_str = network_str.format(organism = line[0])
+            html = html.replace("{network:}", network_str)
+        else:
+            html = html.replace("{network:}", '')
+            
         full_html = html.format(organism = line[0], organism1 = ' '.join([i for i in line[0].split('_')]), gr = line[7],hp = line[9],link = line[8],
                                 slrtable=slr(line), dlrtable=dlr(line), tlrtable=tlr(line),
                                 slgtable=slg(line), dlgtable=dlg(line), tlgtable=tlg(line))
