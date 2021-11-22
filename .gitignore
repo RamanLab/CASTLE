@@ -1,3 +1,6 @@
 # zip files
 *.zip
 CASTLE.zip
+
+# python files
+*.py
