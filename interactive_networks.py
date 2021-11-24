@@ -26,6 +26,17 @@ for org in vmh_orgs:
         attrs = df.drop_duplicates().set_index('genename').to_dict('index')
         nx.set_node_attributes(G, attrs)
         
+        tlg = pd.read_csv(r'CSV/{}/TGD.csv'.format(org), header=None)
+        
+        df['subsystem'] = df['subsystem'].astype('category')
+        df['sys_labels'] = df['subsystem'].cat.codes
+        
+        H = nx.from_pandas_edgelist(tlg.replace("'", "", regex=True), 0, 1)
+        attrs = df.drop_duplicates().set_index('genename').to_dict('index')
+        nx.set_node_attributes(H, attrs)
+        
+        F = nx.compose(G, H)
+        
         #Establish which categories will appear when hovering over each node
         HOVER_TOOLTIPS = [("Gene", "@index"), ("Function", "@subsystem"), ("KEGG ID", "@keggId")]
         
@@ -45,7 +56,7 @@ for org in vmh_orgs:
         plot.yaxis.visible=False
         plot.toolbar.logo = None
         
-        graph = from_networkx(G, nx.spring_layout(G, k=0.95/math.log(G.order())), scale=10, center=(0, 0))
+        graph = from_networkx(F, nx.spring_layout(F, k=0.95/math.log(F.order())), scale=10, center=(0, 0))
         
         
         minimum_value_color = min(graph.node_renderer.data_source.data[color_by_this_attribute])

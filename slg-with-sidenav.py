@@ -517,21 +517,9 @@ html_bifido = """
                     <font size=4>Model Link:<a href="{link:}" target="blank"> <font color="black"><u>{link:}</u></font></a>
 				</font></p>
                         <br>
-             
-             <div class="row">
-                   <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist">Download DGD gene network (edgelist)</a></u></h4>
-                       <img src="../img/elements/image.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.png">Download DGD gene network (PNG)</a></u></h4>
-                   </div>
-                   <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist">Download TGD gene network (edgelist)</a></u></h4>
-                       <img src="../img/elements/image.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.png">Download TGD gene network (PNG)</a></u></h4>
-                   </div>
-               </div>
-                        <br>
-             <br><br>
-             
+                        
             </div>
+
             
             
             <div id="network">
@@ -539,10 +527,20 @@ html_bifido = """
                 <iframe style="display: block; margin: auto; width: 35%; height: 620px" scrolling=no
                     src="../networks/{organism:}/networkx_graph.html" seamless="seamless">
                 </iframe>
+                <p class="container" style="text-align: center; width: 35%;">This figure depicts the lethal sets in the form of interaction network. Each synthetic lethal gene in the organism is shown as a node and these nodes are connected to other genes with which they form a lethal set. This interactive figure shows the name, function and KEGG ID of the gene on hovering over the node. You can download the edgelist files for double lethals and triple lethals below.</p>
             
             </div><br>
-             
+            
+            <div class="row" style="width: 50%; margin: auto;">
+                   <div class="col-lg-6" style="text-align: center">
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist">Download DGD gene network (edgelist)</a></u></h4>
+                   </div>
+                   <div class="col-lg-6" style="text-align: center">
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist">Download TGD gene network (edgelist)</a></u></h4>
+                   </div>
+               </div>
             </div>
+             
 			
             <div class="site-section">
 				<div id="slr" class="container">
@@ -797,21 +795,11 @@ html_net = """
                     
                     </table>
              <br>
+             <br>
+             <br>
              
-             <div class="row">
-                   <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist">Download DGD gene network (edgelist)</a></u></h4>
-                       <img src="../img/elements/image.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.png">Download DGD gene network (PNG)</a></u></h4>
-                   </div>
-                   <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist">Download TGD gene network (edgelist)</a></u></h4>
-                       <img src="../img/elements/image.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.png">Download TGD gene network (PNG)</a></u></h4>
-                   </div>
-               </div>
-                        <br>
-             <br><br>
-             
-            </div>
+             </div>
+
             
             
             <div id="network">
@@ -819,8 +807,19 @@ html_net = """
                 <iframe style="display: block; margin: auto; width: 35%; height: 620px" scrolling=no
                     src="../networks/{organism:}/networkx_graph.html" seamless="seamless">
                 </iframe>
+                <p class="container" style="text-align: center; width: 35%;">This figure depicts the lethal sets in the form of interaction network. Each synthetic lethal gene in the organism is shown as a node and these nodes are connected to other genes with which they form a lethal set. This interactive figure shows the name, function and KEGG ID of the gene on hovering over the node. <b style="color: #000">You can download the edgelist files for double lethals and triple lethals below.</b></p>
             
             </div><br>
+            
+            <div class="row" style="width: 50%; margin: auto;">
+                   <div class="col-lg-6" style="text-align: center">
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist">Download DGD gene network (edgelist)</a></u></h4>
+                   </div>
+                   <div class="col-lg-6" style="text-align: center">
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist">Download TGD gene network (edgelist)</a></u></h4>
+                   </div>
+               </div>
+            </div>
              
             </div>
 			
@@ -931,7 +930,7 @@ for line in csv_file:
             full_html = html_bifido.format(organism = line[0], organism1 = ' '.join([i for i in line[0].split('_')]), gr = line[7],hp = line[9],link = line[8],
                                     slrtable=slr(line), dlrtable=dlr(line), tlrtable=tlr(line), slgtable=slg(line), dlgtable=dlg(line), tlgtable=tlg(line))
             filename='Synthetic_Lethal/'+line[0]+'.html'
-            print(filename)
+            print(filename + '- Bifido')
             f = open(filename,'w')
             f.write(full_html)
             f.close()
@@ -939,7 +938,7 @@ for line in csv_file:
             full_html = html_net.format(organism = line[0], organism1 = ' '.join([i for i in line[0].split('_')]), gr = line[7],hp = line[9],link = line[8],
                                     slrtable=slr(line), dlrtable=dlr(line), tlrtable=tlr(line), slgtable=slg(line), dlgtable=dlg(line), tlgtable=tlg(line))
             filename='Synthetic_Lethal/'+line[0]+'.html'
-            print(filename)
+            print(filename + '- Net')
             f = open(filename,'w')
             f.write(full_html)
             f.close()
@@ -947,7 +946,7 @@ for line in csv_file:
             full_html = html_normal.format(organism = line[0], organism1 = ' '.join([i for i in line[0].split('_')]), gr = line[7],hp = line[9],link = line[8],
                                     slrtable=slr(line), dlrtable=dlr(line), tlrtable=tlr(line), slgtable=slg(line), dlgtable=dlg(line), tlgtable=tlg(line))
             filename='Synthetic_Lethal/'+line[0]+'.html'
-            print(filename)
+            print(filename + '- Normal')
             f = open(filename,'w')
             f.write(full_html)
             f.close()
