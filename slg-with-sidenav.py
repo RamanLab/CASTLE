@@ -527,7 +527,7 @@ html_bifido = """
                 <iframe style="display: block; margin: auto; width: 35%; height: 620px" scrolling=no
                     src="../networks/{organism:}/networkx_graph.html" seamless="seamless">
                 </iframe>
-                <p class="container" style="text-align: center; width: 35%;">This figure depicts the lethal sets in the form of interaction network. Each synthetic lethal gene in the organism is shown as a node and these nodes are connected to other genes with which they form a lethal set. This interactive figure shows the name, function and KEGG ID of the gene on hovering over the node. You can download the edgelist files for double lethals and triple lethals below.</p>
+                <p class="container" style="text-align: center; width: 35%;">This figure depicts the lethal sets in the form of interaction network. Each synthetic lethal gene in the organism is shown as a node and these nodes are connected to other genes with which they form a lethal set. This interactive figure shows the name, function and KEGG ID of the gene on hovering over the node. Clicking on a node highlights its connections. <b style="color: #000">You can download the edgelist files for double lethals and triple lethals below.</b></p>
             
             </div><br>
             
@@ -807,7 +807,7 @@ html_net = """
                 <iframe style="display: block; margin: auto; width: 35%; height: 620px" scrolling=no
                     src="../networks/{organism:}/networkx_graph.html" seamless="seamless">
                 </iframe>
-                <p class="container" style="text-align: center; width: 35%;">This figure depicts the lethal sets in the form of interaction network. Each synthetic lethal gene in the organism is shown as a node and these nodes are connected to other genes with which they form a lethal set. This interactive figure shows the name, function and KEGG ID of the gene on hovering over the node. <b style="color: #000">You can download the edgelist files for double lethals and triple lethals below.</b></p>
+                <p class="container" style="text-align: center; width: 35%;">This figure depicts the lethal sets in the form of interaction network. Each synthetic lethal gene in the organism is shown as a node and these nodes are connected to other genes with which they form a lethal set. This interactive figure shows the name, function and KEGG ID of the gene on hovering over the node. Clicking on a node highlights its connections. <b style="color: #000">You can download the edgelist files for double lethals and triple lethals below.</b></p>
             
             </div><br>
             
