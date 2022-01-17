@@ -17,28 +17,38 @@ vmh_orgs = master[master[10] == 'vmh'][0].str.replace('&nbsp;', '_').values.toli
 for org in vmh_orgs:
     try:
         df = pd.read_csv('networks/{}/results.csv'.format(org))
-        dlg = pd.read_csv(r'CSV/{}/DGD.csv'.format(org), header=None)
         
+        dlg = pd.read_csv(r'CSV/{}/DGD.csv'.format(org), header=None)
+        tlg = pd.read_csv(r'CSV/{}/TGD.csv'.format(org), header=None)
+        
+        dlg_clean = dlg.replace("'", "", regex=True)
+        tlg_clean = tlg.replace("'", "", regex=True)
+
         df['subsystem'] = df['subsystem'].astype('category')
         df['sys_labels'] = df['subsystem'].cat.codes
         
-        G = nx.from_pandas_edgelist(dlg.replace("'", "", regex=True), 0, 1)
+        df['type'] = df['genename'].apply(lambda x: 'Double & Triple' if x in dlg_clean.values
+                                                                  and x in tlg_clean.values else
+                                                    ('Triple' if x in tlg_clean.values else
+                                                    'Double')
+                                        )
+        
+        # df['subsystem'] = df['subsystem'].astype('category')
+        # df['sys_labels'] = df['subsystem'].cat.codes
+        
+        G = nx.from_pandas_edgelist(dlg_clean, 0, 1)
         attrs = df.drop_duplicates().set_index('genename').to_dict('index')
         nx.set_node_attributes(G, attrs)
         
-        tlg = pd.read_csv(r'CSV/{}/TGD.csv'.format(org), header=None)
-        
-        df['subsystem'] = df['subsystem'].astype('category')
-        df['sys_labels'] = df['subsystem'].cat.codes
-        
-        H = nx.from_pandas_edgelist(tlg.replace("'", "", regex=True), 0, 1)
+        H = nx.from_pandas_edgelist(tlg_clean, 0, 1)
         attrs = df.drop_duplicates().set_index('genename').to_dict('index')
         nx.set_node_attributes(H, attrs)
         
         F = nx.compose(G, H)
         
         #Establish which categories will appear when hovering over each node
-        HOVER_TOOLTIPS = [("Gene", "@index"), ("Function", "@subsystem"), ("KEGG ID", "@keggId")]
+        HOVER_TOOLTIPS = [("Gene", "@index"), ("Function", "@subsystem"), ("KEGG ID", "@keggId"),
+                          ("Lethal Type", "@type")]
         
         title = 'Lethals Interaction Network - {}'.format(org.replace('_', ' '))
         # color_palette = Blues8
