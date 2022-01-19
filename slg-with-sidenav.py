@@ -224,44 +224,44 @@ html_normal = """
                     <table class="minimalistBlack" border="0" align="center">
                         <tr><td><center><a href="#slr"><font color="maroon"><u>Single lethal reactions</u>
                             <br> (Jsl)</font></a></center></td>
-                        <td> <p><a href="../CSV/{organism:}/JSL.csv" download="{organism:}_Jsl.csv"><center><abbr title='Download the Jsl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                          <td> <p><a href="../json/{organism:}/JSL.json" download="{organism:}_Jsl.json"><center><abbr title='Download the Jsl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
-                            <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.matRxn_lethals.mat" download="{organism:}.matRxn_lethals.mat"><center><abbr title='Download all the Lethal Reactions MAT file'><img src='../img/elements/matlab.png' height='65' width='70 '></abbr></a>
+                        <td> <p><a href="../CSV/{organism:}/JSL.csv" download="{organism:}_Jsl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                          <td> <p><a href="../json/{organism:}/JSL.json" download="{organism:}_Jsl.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
+                            <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.matRxn_lethals.mat" download="{organism:}.matRxn_lethals.mat"><center><img src='../img/elements/matlab.png' height='65' width='70 '></a>
                               <br><font size="2">(Combined download <br>
                                 of Jsl, Jdl and Jtl)</font></p></td>
                         
                         </tr>
                             <tr><td><center><a href="#dlr"><font color="maroon"><u>Double lethal reactions</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/JDL.csv" download="{organism:}_Jdl.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                                <td> <p><a href="../json/{organism:}/JDL.json" download="{organism:}_Jdl.json"><center><abbr title='Download the Jdl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/JDL.csv" download="{organism:}_Jdl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                                <td> <p><a href="../json/{organism:}/JDL.json" download="{organism:}_Jdl.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                                
 
 
                         </tr>
                         <tr><td><center><a href="#tlr"><font color="maroon"><u>Triple lethal<br>reactions</u>
                             <br> (Jtl)</font></a></center> </td>
-                          <td> <p><a href="../CSV/{organism:}/JTL.csv" download="{organism:}_Jtl.csv"><center><abbr title='Download the Jtl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/JTL.json" download="{organism:}_Jtl.json"><center><abbr title='Download the Jtl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                          <td> <p><a href="../CSV/{organism:}/JTL.csv" download="{organism:}_Jtl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/JTL.json" download="{organism:}_Jtl.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                            
                         </tr>
                         <tr><td><center><a href="#slg"><font color="maroon"><u>Single lethal genes</u>
                             <br> (Sgd)</font></a></center> </td>
-                          <td> <p><a href="../CSV/{organism:}/SGD.csv" download="{organism:}_Sgd.csv"><center><abbr title='Download the Sgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/SGD.json" download="{organism:}_Sgd.json"><center><abbr title='Download the Sgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
-                              <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.mat_gene_lethals.mat" download="{organism:}.mat_gene_lethals.mat"><center><abbr title='Download all the Lethal Genes MAT file'><img src='../img/elements/matlab.png' height='65' width='70 '></abbr></a>
+                          <td> <p><a href="../CSV/{organism:}/SGD.csv" download="{organism:}_Sgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/SGD.json" download="{organism:}_Sgd.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
+                              <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.mat_gene_lethals.mat" download="{organism:}.mat_gene_lethals.mat"><center><img src='../img/elements/matlab.png' height='65' width='70 '></a>
                                 <br><font size="2">(Combined download <br>of Sgd, Dgd and Tgd)</font></p></td>
                         </tr>
                         <tr><td><center><a href="#dlg"><font color="maroon"><u>Double lethal genes</u>
                             <br> (Dgd)</font></a></center> </td>
-                          <td> <p><a href="../CSV/{organism:}/DGD.csv" download="{organism:}_Dgd.csv"><center><abbr title='Download the Dgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/DGD.json" download="{organism:}_Dgd.json"><center><abbr title='Download the Dgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                          <td> <p><a href="../CSV/{organism:}/DGD.csv" download="{organism:}_Dgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/DGD.json" download="{organism:}_Dgd.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                            
                         </tr>
                         <tr><td><center><a href="#tlg"><font color="maroon"><u>Triple lethal genes</u><br>(Tgd)</font></a>
                             </center> </td>
-                          <td> <p><a href="../CSV/{organism:}/TGD.csv" download="{organism:}_Tgd.csv"><center><abbr title='Download the Tgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/TGD.json" download="{organism:}_Tgd.json"><center><abbr title='Download the Tgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                          <td> <p><a href="../CSV/{organism:}/TGD.csv" download="{organism:}_Tgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/TGD.json" download="{organism:}_Tgd.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                            
                         </tr>
                     
@@ -480,32 +480,32 @@ html_bifido = """
                     <table class="minimalistBlack" border="0" align="center">
                         <tr><td><center><a href="#slr"><font color="maroon"><u>Single lethal reactions</u>
                             <br> (Jsl)</font></a></center></td>
-                            <td> <p><a href="../CSV/{organism:}/JSL.csv" download="{organism:}_Jsl.csv"><center><abbr title='Download the Jsl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
+                            <td> <p><a href="../CSV/{organism:}/JSL.csv" download="{organism:}_Jsl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
                         
                         </tr>
                         <tr><td><center><a href="#dlr"><font color="maroon"><u>Double lethal reactions</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/JDL.csv" download="{organism:}_Jdl.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/JDL.csv" download="{organism:}_Jdl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
                           
                         </tr>
                         <tr><td><center><a href="#tlr"><font color="maroon"><u>Triple lethal reactions</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/JTL.csv" download="{organism:}_Jtl.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/JTL.csv" download="{organism:}_Jtl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
                           
                         </tr>
                         <tr><td><center><a href="#slg"><font color="maroon"><u>Single lethal genes</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/SGD.csv" download="{organism:}_Sgd.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/SGD.csv" download="{organism:}_Sgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
                           
                         </tr>
                         <tr><td><center><a href="#dlg"><font color="maroon"><u>Double lethal genes</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/DGD.csv" download="{organism:}_Dgd.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/DGD.csv" download="{organism:}_Dgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
                           
                         </tr>
                         <tr><td><center><a href="#tlg"><font color="maroon"><u>Triple lethal genes</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/TGD.csv" download="{organism:}_Tgd.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/TGD.csv" download="{organism:}_Tgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
                           
                         </tr>
                     
@@ -533,10 +533,10 @@ html_bifido = """
             
             <div class="row" style="width: 50%; margin: auto;">
                    <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist">Download DGD gene network (edgelist)</a></u></h4>
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist" download="{organism:}_dlg_network">Download DGD gene network (edgelist)</a></u></h4>
                    </div>
                    <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist">Download TGD gene network (edgelist)</a></u></h4>
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist" download="{organism:}_tlg_network">Download TGD gene network (edgelist)</a></u></h4>
                    </div>
                </div>
             </div>
@@ -752,44 +752,44 @@ html_net = """
                     <table class="minimalistBlack" border="0" align="center">
                         <tr><td><center><a href="#slr"><font color="maroon"><u>Single lethal reactions</u>
                             <br> (Jsl)</font></a></center></td>
-                        <td> <p><a href="../CSV/{organism:}/JSL.csv" download="{organism:}_Jsl.csv"><center><abbr title='Download the Jsl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                          <td> <p><a href="../json/{organism:}/JSL.json" download="{organism:}_Jsl.json"><center><abbr title='Download the Jsl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
-                            <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.matRxn_lethals.mat" download="{organism:}.matRxn_lethals.mat"><center><abbr title='Download all the Lethal Reactions MAT file'><img src='../img/elements/matlab.png' height='65' width='70 '></abbr></a>
+                        <td> <p><a href="../CSV/{organism:}/JSL.csv" download="{organism:}_Jsl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                          <td> <p><a href="../json/{organism:}/JSL.json" download="{organism:}_Jsl.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
+                            <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.matRxn_lethals.mat" download="{organism:}.matRxn_lethals.mat"><center><img src='../img/elements/matlab.png' height='65' width='70 '></a>
                               <br><font size="2">(Combined download <br>
                                 of Jsl, Jdl and Jtl)</font></p></td>
                         
                         </tr>
                             <tr><td><center><a href="#dlr"><font color="maroon"><u>Double lethal reactions</u>
                             <br> (Jdl)</font></a></center> </td>
-                              <td> <p><a href="../CSV/{organism:}/JDL.csv" download="{organism:}_Jdl.csv"><center><abbr title='Download the Jdl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                                <td> <p><a href="../json/{organism:}/JDL.json" download="{organism:}_Jdl.json"><center><abbr title='Download the Jdl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                              <td> <p><a href="../CSV/{organism:}/JDL.csv" download="{organism:}_Jdl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                                <td> <p><a href="../json/{organism:}/JDL.json" download="{organism:}_Jdl.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                                
 
 
                         </tr>
                         <tr><td><center><a href="#tlr"><font color="maroon"><u>Triple lethal<br>reactions</u>
                             <br> (Jtl)</font></a></center> </td>
-                          <td> <p><a href="../CSV/{organism:}/JTL.csv" download="{organism:}_Jtl.csv"><center><abbr title='Download the Jtl CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/JTL.json" download="{organism:}_Jtl.json"><center><abbr title='Download the Jtl JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                          <td> <p><a href="../CSV/{organism:}/JTL.csv" download="{organism:}_Jtl.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/JTL.json" download="{organism:}_Jtl.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                            
                         </tr>
                         <tr><td><center><a href="#slg"><font color="maroon"><u>Single lethal genes</u>
                             <br> (Sgd)</font></a></center> </td>
-                          <td> <p><a href="../CSV/{organism:}/SGD.csv" download="{organism:}_Sgd.csv"><center><abbr title='Download the Sgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/SGD.json" download="{organism:}_Sgd.json"><center><abbr title='Download the Sgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
-                              <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.mat_gene_lethals.mat" download="{organism:}.mat_gene_lethals.mat"><center><abbr title='Download all the Lethal Genes MAT file'><img src='../img/elements/matlab.png' height='65' width='70 '></abbr></a>
+                          <td> <p><a href="../CSV/{organism:}/SGD.csv" download="{organism:}_Sgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/SGD.json" download="{organism:}_Sgd.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
+                              <td rowspan="3"><p><a href="../mat/{organism:}/{organism:}.mat_gene_lethals.mat" download="{organism:}.mat_gene_lethals.mat"><center><img src='../img/elements/matlab.png' height='65' width='70 '></a>
                                 <br><font size="2">(Combined download <br>of Sgd, Dgd and Tgd)</font></p></td>
                         </tr>
                         <tr><td><center><a href="#dlg"><font color="maroon"><u>Double lethal genes</u>
                             <br> (Dgd)</font></a></center> </td>
-                          <td> <p><a href="../CSV/{organism:}/DGD.csv" download="{organism:}_Dgd.csv"><center><abbr title='Download the Dgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/DGD.json" download="{organism:}_Dgd.json"><center><abbr title='Download the Dgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                          <td> <p><a href="../CSV/{organism:}/DGD.csv" download="{organism:}_Dgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/DGD.json" download="{organism:}_Dgd.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                            
                         </tr>
                         <tr><td><center><a href="#tlg"><font color="maroon"><u>Triple lethal genes</u><br>(Tgd)</font></a>
                             </center> </td>
-                          <td> <p><a href="../CSV/{organism:}/TGD.csv" download="{organism:}_Tgd.csv"><center><abbr title='Download the Tgd CSV file'><img src='../img/elements/csv.jpg' height='35' width='35'></abbr></a></p></td>
-                            <td> <p><a href="../json/{organism:}/TGD.json" download="{organism:}_Tgd.json"><center><abbr title='Download the Tgd JSON file'><img src='../img/elements/json.png' height='35' width='27 '></abbr></a></p></td>
+                          <td> <p><a href="../CSV/{organism:}/TGD.csv" download="{organism:}_Tgd.csv"><center><img src='../img/elements/csv.jpg' height='35' width='35'></a></p></td>
+                            <td> <p><a href="../json/{organism:}/TGD.json" download="{organism:}_Tgd.json"><center><img src='../img/elements/json.png' height='35' width='27 '></a></p></td>
                            
                         </tr>
                     
@@ -813,10 +813,10 @@ html_net = """
             
             <div class="row" style="width: 50%; margin: auto;">
                    <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist">Download DGD gene network (edgelist)</a></u></h4>
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/DLG.edgelist" download="{organism:}_dlg_network">Download DGD gene network (edgelist)</a></u></h4>
                    </div>
                    <div class="col-lg-6" style="text-align: center">
-                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist">Download TGD gene network (edgelist)</a></u></h4>
+                       <img src="../img/elements/text.png" width="20" style="vertical-align: middle"><h4><u><a href="../networks/{organism:}/TLG.edgelist" download="{organism:}_tlg_network">Download TGD gene network (edgelist)</a></u></h4>
                    </div>
                </div>
             </div>
